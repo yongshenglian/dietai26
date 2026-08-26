@@ -1,6 +1,7 @@
 from openai import OpenAI
 import base64
 import dotenv
+import os
 dotenv.load_dotenv()
 
 
@@ -12,8 +13,8 @@ def open_img(image_path):
 
 
 class Vision:
-    def __init__(self, model_name):
-        self.client = OpenAI()  
+    def __init__(self, model_name, base_url=None, api_key=None):
+        self.client = OpenAI(base_url=base_url, api_key=api_key) if base_url else OpenAI()
 
         self.model_name = model_name
         self.messages = [
@@ -25,6 +26,7 @@ class Vision:
         ]
         
     def chat(self, message, image_path):
+        image_url = open_img(image_path) if os.path.isfile(image_path) else image_path
         self.messages.append({
             "role": "user",
             "content": [
@@ -34,7 +36,7 @@ class Vision:
                 }, {
                     "type": "image_url",
                     "image_url": {
-                        "url": image_path
+                        "url": image_url
                     },
                 }
             ]
@@ -43,9 +45,11 @@ class Vision:
             model=self.model_name,
             messages=self.messages,
             temperature=0.01,
-            max_tokens=600
+            max_tokens=1024
         )
         response = res.choices[0].message.content
+        if "</think>" in response:
+            response = response.split("</think>", 1)[1].strip()
         self.messages.append({"role": "assistant", "content": response})
         return response
 

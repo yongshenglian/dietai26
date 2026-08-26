@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # File paths
-path_portion_code = '../FoodWeights.csv'
+path_portion_code = '../FNDDS/FoodWeights.csv'
 path_results = '../ASA24_GPTFoodCodes_portion.csv'
 path_nutrition = '../FNDDS/2019-2020 FNDDS At A Glance - FNDDS Nutrient Values.xlsx'
 
@@ -19,18 +19,23 @@ for nutrient_name in col_names_nutrition:
 
 # Helper function to get portion weight
 def get_portion_weight(food_code, portion_code, portion_subcode):
-    df_filtered = df_portion_code[(df_portion_code['Food Code'] == food_code) & (df_portion_code['Portion Code'] == portion_code)]
-    if len(df_filtered) > 1:
+    df_filtered = df_portion_code[
+        (df_portion_code['Food code'] == food_code)
+        & (df_portion_code['Portion code'] == portion_code)
+    ]
+    if 'Subcode' in df_portion_code.columns and len(df_filtered) > 1:
         df_filtered = df_filtered[df_filtered['Subcode'] == portion_subcode]
     if len(df_filtered) == 1:
-        return df_filtered['Portion Weight'].values[0]
+        return df_filtered['Portion weight'].values[0]
     return np.nan
 
 # Helper function to get nutrition values
 def get_nutrition_values(food_code, weight):
     nutrition_values = {}
     food_code_nutrition = df_nutrition[df_nutrition['Food code'] == food_code]
-    if len(food_code_nutrition) == 1 and weight >= 0:
+    if pd.isna(weight):
+        print(f"Portion weight not found for food code {food_code}")
+    elif len(food_code_nutrition) == 1 and weight >= 0:
         for nutrition_name in col_names_nutrition:
             nutrition_values[nutrition_name] = food_code_nutrition[nutrition_name].values[0] * weight * 0.01
     else:

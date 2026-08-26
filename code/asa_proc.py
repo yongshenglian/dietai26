@@ -15,6 +15,8 @@ paths = {
 def load_data(paths):
     data = {}
     for key, path in paths.items():
+        if key == "output":
+            continue
         if path.endswith('.XPT'):
             data[key] = pd.read_sas(path)
         elif path.endswith('.csv'):
@@ -57,7 +59,24 @@ def main(paths):
     merged_counter_sort = merge_frequencies(freq_dicts)
     dict_top_1000 = dict(merged_counter_sort[:1000])
     
-    food_descriptions = data["food_descriptions"].set_index('Food code')['Main Food description'].to_dict()
+    food_df = data["food_descriptions"]
+
+    desc_col = None
+    for col in food_df.columns:
+        if col.strip().lower() == "main food description":
+            desc_col = col
+            break
+
+    if desc_col is None:
+        for col in food_df.columns:
+            if "food description" in col.strip().lower():
+                desc_col = col
+                break
+
+    if desc_col is None:
+        raise KeyError(f"Could not find food description column. Available columns: {list(food_df.columns)}")
+
+    food_descriptions = food_df.set_index('Food code')[desc_col].to_dict()
     
     df_reports = create_report(dict_top_1000, order_dicts, food_descriptions)
     df_reports.to_csv(paths["output"], index=False)

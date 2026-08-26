@@ -1,0 +1,31 @@
+.env
+**/.env
+__pycache__/
+*.pyc
+
+# Raw datasets -- downloaded by users per the README, not committed. ASA24 and Nutrition5k are
+# machine-specific symlinks here, not real directories, so no trailing slash (gitignore's
+# directory-only trailing-slash matching doesn't match symlinks).
+/ASA24
+/Nutrition5k
+/FNDDS/
+/NHANES/
+
+# Local vector index cache (regenerated automatically, large binary files)
+/chroma_fndds_db/
+
+# Pipeline intermediates / checkpoints / session outputs, not source
+/*.csv
+/*.html
+/*_checkpoint*.txt
+/eval_*.csv
+/sampleDish*
+/df_results_clean10.csv
+
+# Editor config
+/.vscode/
+
+# Stray backup files and logs
+*.bak
+*.bak2
+*.log

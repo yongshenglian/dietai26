@@ -6,18 +6,22 @@ import requests
 import pandas as pd
 import numpy as np
 import time
+import base64
+from operator import itemgetter
 
 from langchain_community.document_loaders import CSVLoader
 from langchain_core.prompts import PromptTemplate, ChatPromptTemplate
-from langchain_core.runnables import RunnablePassthrough
 from langchain_core.messages import HumanMessage, SystemMessage
-from langchain_openai.embeddings import AzureOpenAIEmbeddings
-from langchain_community.vectorstores import Chroma
-from langchain.retrievers.multi_query import MultiQueryRetriever
-from langchain_openai.chat_models import AzureChatOpenAI
-from langchain.chains import LLMChain
+from langchain_chroma import Chroma
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_core.output_parsers import StrOutputParser
-from config import MODELS, API_TYPE, AZURE_ENDPOINTS, API_KEYS, API_VERSION
+from dotenv import load_dotenv
+from config import MODELS, LOCAL_VLLM_BASE_URL, LOCAL_VLLM_EMBED_BASE_URL
+
+try:
+    from langchain.retrievers.multi_query import MultiQueryRetriever
+except ModuleNotFoundError:
+    from langchain_classic.retrievers.multi_query import MultiQueryRetriever
 
 
 def setup_logging(log_path):
@@ -25,29 +29,26 @@ def setup_logging(log_path):
                         format='%(asctime)s:%(levelname)s:%(message)s')
     logging.getLogger("langchain.retrievers.multi_query").setLevel(logging.INFO)
 
-def configure_azure_chat_openai(model_key, MODELS, API_TYPE, AZURE_ENDPOINTS, API_KEYS, API_VERSION):
-    """Create an AzureChatOpenAI configuration based on the specified model key."""
-
-    return AzureChatOpenAI(
-        model=MODELS[model_key],
-        openai_api_type=API_TYPE,
-        azure_endpoint=AZURE_ENDPOINTS[model_key],
-        openai_api_key=API_KEYS[model_key],
-        openai_api_version=API_VERSION,
-        deployment_name=MODELS[model_key],
+def configure_chat_openai(model_key, models):
+    """Create a chat model for text or image prompts, served locally via vLLM on GPU 0
+    (see code/analyze_image.py). It's a reasoning model, so it needs a larger token budget
+    to cover its <think> block plus the actual answer."""
+    return ChatOpenAI(
+        model=models[model_key],
         temperature=0.1 if model_key == 'llm_vision' else 0.3,
-        max_tokens=200 if model_key == 'llm_vision' else None
+        max_tokens=1024 if model_key == 'llm_vision' else 3072,
+        base_url=LOCAL_VLLM_BASE_URL,
+        api_key='not-needed',
     )
 
-def initialize_clients(MODELS, API_TYPE, AZURE_ENDPOINTS, API_KEYS, API_VERSION):
-    llm = configure_azure_chat_openai('llm', MODELS, API_TYPE, AZURE_ENDPOINTS, API_KEYS, API_VERSION)
-    llm_vision = configure_azure_chat_openai('llm_vision', MODELS, API_TYPE, AZURE_ENDPOINTS, API_KEYS, API_VERSION)
-    embedding = AzureOpenAIEmbeddings(
-        openai_api_type=API_TYPE,
-        azure_endpoint=AZURE_ENDPOINTS['llm'],
-        openai_api_key=API_KEYS['llm'],
-        openai_api_version=API_VERSION,
-        azure_deployment=MODELS['embedding']
+def initialize_clients(models):
+    llm = configure_chat_openai('llm', models)
+    llm_vision = configure_chat_openai('llm_vision', models)
+    embedding = OpenAIEmbeddings(
+        model=models['embedding'],
+        base_url=LOCAL_VLLM_EMBED_BASE_URL,
+        api_key='not-needed',
+        check_embedding_ctx_length=False,
     )
     return llm, llm_vision, embedding
 
@@ -75,6 +76,11 @@ def setup_vector_database(data, embedding):
 # Helper functions for message generation and checkpointing
 def get_messages_from_url(url_str):
     """Generate a sequence of messages for a URL containing an image."""
+    if os.path.isfile(url_str):
+        with open(url_str, "rb") as image_file:
+            encoded_image = base64.b64encode(image_file.read()).decode("utf-8")
+        url_str = f"data:image/png;base64,{encoded_image}"
+
     return [
         SystemMessage(
             content="You are an expert at analyzing images with computer vision. "
@@ -87,7 +93,7 @@ def get_messages_from_url(url_str):
                  based on ingredients and preparation methods. Ensure your response is brief and avoid
                  speculating on uncertain details. If you can't provide assistance with this image, simply respond 
                  with 'I can't help to analyze this image.' and provide the reason on a new line."""},
-                {"type": "image_url", "image_url": url_str}
+                {"type": "image_url", "image_url": {"url": url_str}}
             ]
         )
     ]
@@ -125,7 +131,10 @@ def setup_code_prompt_chain(retriever_from_llm, llm):
     CODE_PROMPT = ChatPromptTemplate.from_template(template)
 
     food_code_chain = (
-        {"context": retriever_from_llm, "question": RunnablePassthrough()}
+        {
+            "context": itemgetter("question") | retriever_from_llm,
+            "url_str": itemgetter("url_str"),
+        }
         | CODE_PROMPT
         | llm
         | StrOutputParser()
@@ -143,10 +152,13 @@ def is_integer(s):
 def process_image_url(index, url, llm_vision, df, food_code_chain, results_path):
     """Process a single image URL and update the DataFrame with food descriptions and codes."""
     logging.info(f"Processing URL at index {index}: {url}")
+    df['GPTFoodDescription'] = df['GPTFoodDescription'].astype(object)
+    df['GPTFoodCode'] = df['GPTFoodCode'].astype(object)
     try:
-        req_url = requests.head(url, timeout=5)
-        if req_url.status_code != 200:
-            raise Exception("Image URL is not accessible")
+        if not os.path.isfile(url):
+            req_url = requests.head(url, timeout=5)
+            if req_url.status_code != 200:
+                raise Exception("Image URL is not accessible")
         
         IMAGE_PROMPT = get_messages_from_url(url)
         attempts = 0  # Counter for retry attempts
@@ -205,9 +217,8 @@ def save_checkpoint(num, index, checkpoint_path):
         file.write(f"{num},{index}")
     logging.info(f"Checkpoint saved to {checkpoint_path} at num {num}, index {index}")
 
-def process_image_urls(results_path, checkpoint_path, llm_vision, food_code_chain):
+def process_image_urls(results_path, checkpoint_path, llm_vision, food_code_chain, num_iterations):
     """Process image URLs with checkpointing that includes iterations and index."""
-    num_iterations = 5
     df_url = pd.read_csv(results_path)
     last_num, last_index = load_checkpoint(checkpoint_path)
 
@@ -227,9 +238,10 @@ def process_image_urls(results_path, checkpoint_path, llm_vision, food_code_chai
         last_index = 0  # Reset last_index after completing each num iteration
 
 def main(args):
+    load_dotenv()
     setup_logging(args.log_path)
     logging.info("Starting image processing script")
-    llm, llm_vision, embedding = initialize_clients(MODELS, API_TYPE, AZURE_ENDPOINTS, API_KEYS, API_VERSION)
+    llm, llm_vision, embedding = initialize_clients(MODELS)
     data = load_data(args.csv_file)
     vectordb = setup_vector_database(data, embedding)  # Ensure 'embedding' is initialized
 
@@ -237,7 +249,13 @@ def main(args):
     retriever_from_llm = configure_retrievers(llm, vectordb, retrieval_prompt)
     food_code_chain = setup_code_prompt_chain(retriever_from_llm, llm)
     # Process image URLs (assuming function `process_image_urls` is properly defined)
-    process_image_urls(args.results_file, args.checkpoint_file, llm_vision, food_code_chain)
+    process_image_urls(
+        args.results_file,
+        args.checkpoint_file,
+        llm_vision,
+        food_code_chain,
+        args.num_iterations,
+    )
     
 if __name__ == "__main__":
     warnings.filterwarnings('ignore', category=FutureWarning)
@@ -246,6 +264,7 @@ if __name__ == "__main__":
     parser.add_argument("--checkpoint_file", required=True, help="Path to the checkpoint file.")
     parser.add_argument("--results_file", required=True, help="Path to the results file containing image URLs.")
     parser.add_argument("--log_path", default="process_images.log", help="Path to the log file.")
+    parser.add_argument("--num_iterations", type=int, default=5, help="Number of passes over the result rows.")
     
     args = parser.parse_args()
     main(args)

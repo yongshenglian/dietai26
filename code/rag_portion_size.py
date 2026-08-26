@@ -4,6 +4,8 @@ from chagApp_openai import Vision
 import numpy as np
 import time
 import inflect
+import argparse
+from config import MODELS
 
 def is_integer(s):
     try:
@@ -20,6 +22,12 @@ def extract_unit(value):
 
 def extract_amount(value):
     return value.split(' ', 1)[0]
+
+def parse_amount(value):
+    if "-" in value:
+        whole, fraction = value.split("-", maxsplit=1)
+        return Fraction(whole) + Fraction(fraction)
+    return Fraction(value)
 
 def singularize(word, p):
     return p.singular_noun(word) or word
@@ -48,10 +56,12 @@ def process_dataframe(df_results, df_image_link, p):
     ls_label_amount = []
     ls_label_unit = []
     ls_portion_shot = []
+    df_image_link = df_image_link.copy()
+    df_image_link['FoodCode'] = df_image_link['FoodCode'].astype(str)
     for i in range(len(df_results)):
         str_portion = df_results.loc[i, 'Portion']
-        str_food_code = df_results.loc[i, 'FoodCodeCommon']
-        ls_label_amount.append(float(Fraction(extract_amount(str_portion))))
+        str_food_code = str(df_results.loc[i, 'FoodCodeCommon'])
+        ls_label_amount.append(float(parse_amount(extract_amount(str_portion))))
         ls_label_unit.append(singularize(extract_unit(str_portion), p))
         df_image_link_sel = df_image_link[df_image_link['FoodCode'] == str_food_code].copy()
         df_image_link_sel.sort_values(by=['Multiplier'], ascending=False, inplace=True)
@@ -64,7 +74,7 @@ def process_dataframe(df_results, df_image_link, p):
     df_results['FC_Description'] = df_results['FC_Description'].replace(to_replace=r'\bNS\b', value='not specified subcategory', regex=True)
     return df_results
 
-def analyze_portions(df, llm, column_desc, column_reason, portion_data, type='shot'):
+def analyze_portions(df, llm, column_desc, column_reason, portion_data, type='shot', sleep_seconds=10):
     ls_url_str = df['Link'].tolist()
     for i, url_str in enumerate(ls_url_str):
         if not pd.isna(df.loc[i, 'FC_Description']):
@@ -74,12 +84,12 @@ def analyze_portions(df, llm, column_desc, column_reason, portion_data, type='sh
                 response = llm.chat(prompt, url_str)
                 update_dataframe(df, i, response, column_desc, column_reason)
                 df.to_csv('../ASA24_GPTFoodCodes_portion.csv')
-                time.sleep(10)
+                time.sleep(sleep_seconds)
             except Exception as e:
                 print(e)
                 continue
 
-def main():
+def main(args):
     # Load data
     df_results = pd.read_csv('../df_results.csv')
     df_image_link = pd.read_csv('../df_image_link.csv')
@@ -93,18 +103,35 @@ def main():
     df_results.to_csv('../output.csv', index=False)
 
     # Initialize Vision API
-    llm = Vision("gpt-4-turbo")
+    llm = Vision(MODELS['llm_vision'])
 
     # Analyze portions
     if 'GPTPortionDescription' not in df_results_portion.columns:
         df_results_portion['GPTPortionDescription'] = [np.nan] * len(df_results_portion)
         df_results_portion['GPTPortionReason'] = [np.nan] * len(df_results_portion)
-    analyze_portions(df_results_portion, llm, 'GPTPortionDescription', 'GPTPortionReason', df_results_portion['PortionShot'])
+    analyze_portions(
+        df_results_portion,
+        llm,
+        'GPTPortionDescription',
+        'GPTPortionReason',
+        df_results_portion['PortionShot'],
+        sleep_seconds=args.sleep_seconds,
+    )
 
     if 'GPTPortionAmount' not in df_results_portion.columns:
         df_results_portion['GPTPortionAmount'] = [np.nan] * len(df_results_portion)
         df_results_portion['GPTPortionAmountReason'] = [np.nan] * len(df_results_portion)
-    analyze_portions(df_results_portion, llm, 'GPTPortionAmount', 'GPTPortionAmountReason', df_results_portion['LabelUnit'], type='amount')
+    analyze_portions(
+        df_results_portion,
+        llm,
+        'GPTPortionAmount',
+        'GPTPortionAmountReason',
+        df_results_portion['LabelUnit'],
+        type='amount',
+        sleep_seconds=args.sleep_seconds,
+    )
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Estimate ASA24 portion size from food images.")
+    parser.add_argument("--sleep_seconds", type=float, default=10)
+    main(parser.parse_args())

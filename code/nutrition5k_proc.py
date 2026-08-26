@@ -8,7 +8,6 @@ PATH_DISH_2 = '../Nutrition5k/metadata/dish_metadata_cafe2.csv'
 OUTPUT_PATH = '../Nutrition5k/metadata/dish_metadata_available.csv'
 
 # Load data
-df_sample = pd.read_csv(PATH_SAMPLE)
 df_dish_1 = pd.read_csv(PATH_DISH_1, header=None, engine='python', on_bad_lines='skip')
 df_dish_2 = pd.read_csv(PATH_DISH_2, header=None, engine='python', on_bad_lines='skip')
 
@@ -75,7 +74,7 @@ def main():
     df_ingredients = pd.concat([df_ingredients_1, df_ingredients_2], ignore_index=True)
 
     df_ingredients = remove_duplicate_ingredients(df_ingredients)
-    df_ingredients_available = filter_unavailable_images(df_ingredients)
+    df_ingredients_available = df_ingredients
     df_ingredients_available.to_csv(OUTPUT_PATH, index=False)
     print("Processed data saved to:", OUTPUT_PATH)
 
