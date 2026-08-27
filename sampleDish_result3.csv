@@ -1,0 +1,29 @@
+Image,FoodDescription,FoodCode,Portion,Weight_g,Energy (kcal),Protein (g),Carbohydrate (g),"Sugars, total
+(g)","Fiber, total dietary (g)",Total Fat (g),"Fatty acids, total saturated (g)","Fatty acids, total monounsaturated (g)","Fatty acids, total polyunsaturated (g)",Cholesterol (mg),Retinol (mcg),"Vitamin A, RAE (mcg_RAE)","Carotene, alpha (mcg)","Carotene, beta (mcg)","Cryptoxanthin, beta (mcg)",Lycopene (mcg),Lutein + zeaxanthin (mcg),Thiamin (mg),Riboflavin (mg),Niacin (mg),Vitamin B-6 (mg),Folic acid (mcg),"Folate, food (mcg)","Folate, DFE (mcg_DFE)","Folate, total (mcg)","Choline, total (mg)",Vitamin B-12 (mcg),"Vitamin B-12, added
+(mcg)",Vitamin C (mg),Vitamin D (D2 + D3) (mcg),Vitamin E (alpha-tocopherol) (mg),"Vitamin E, added
+(mg)",Vitamin K (phylloquinone) (mcg),Calcium (mg),Phosphorus (mg),Magnesium (mg),"Iron
+(mg)","Zinc
+(mg)",Copper (mg),Selenium (mcg),Potassium (mg),Sodium (mg),Caffeine (mg),Theobromine (mg),Alcohol (g),"4:0
+(g)","6:0
+(g)","8:0
+(g)","10:0
+(g)","12:0
+(g)","14:0
+(g)","16:0
+(g)","18:0
+(g)","16:1
+(g)","18:1
+(g)","20:1
+(g)","22:1
+(g)","18:2
+(g)","18:3
+(g)","18:4
+(g)","20:4
+(g)","20:5 n-3
+(g)","22:5 n-3
+(g)","22:6 n-3
+(g)","Water
+(g)"
+/home/lian/DietAI24/sampleDish.jpg,"Roasted whole chicken (herb‑seasoned, e.g., thyme) served with roasted sides: roasted potato wedges, roasted sliced mushrooms, roasted broccoli, diced roasted sweet potato/carrot, and green peas.
+
+**Variety / preparation:** A roast‑chicken dinner — oven‑roasted/baked chicken with roasted root vegetables and vegetables, finished with fresh herbs.",27341010,Quantity not specified,162.0,208.98000000000002,9.9792,21.5298,1.9116,2.9160000000000004,9.6714,1.5422399999999998,3.8507399999999996,3.4473599999999998,32.4,1.62,173.34,711.1800000000001,1675.08,0.0,0.0,345.06,0.12960000000000002,0.09234,3.5834400000000004,0.36774,0.0,24.3,24.3,24.3,36.288,0.0972,0.0,15.066000000000003,0.0,1.7982000000000002,0.0,29.807999999999996,25.92,121.5,30.78,0.7290000000000001,0.8424000000000001,0.19926,7.451999999999999,455.22,558.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0016200000000000001,0.0032400000000000003,0.01458,1.1502,0.30618,0.15876,3.6288000000000005,0.05670000000000001,0.0,3.0375,0.3969,0.0,0.0064800000000000005,0.0,0.0,0.0,118.4868

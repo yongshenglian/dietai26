@@ -1,0 +1,11 @@
+FoodCode,FC_Description,Image,Link,Portion,PortionCode,PortionSubCode,Multiplier
+58145110,Macaroni or noodles with cheese,020910115.png,/home/lian/data/ASA24/Asa24PortionImages/020910115.png,1/2 cup,10205,0,0.5
+58408010,Won ton (wonton) soup,071610101.png,/home/lian/data/ASA24/Asa24PortionImages/071610101.png,1/4 cup,10205,0,0.25
+27145000,Chicken or turkey teriyaki (chicken or turkey with,010510101.png,/home/lian/data/ASA24/Asa24PortionImages/010510101.png,1 piece,60566,0,1.0
+71601010,Potato salad with egg,080602403.png,/home/lian/data/ASA24/Asa24PortionImages/080602403.png,3/4 cup,10205,0,0.75
+27420020,Ham or pork salad,081302225.png,/home/lian/data/ASA24/Asa24PortionImages/081302225.png,1/4 cup,10205,0,0.25
+42101350,"Almonds, honey-roasted",022310113.png,/home/lian/data/ASA24/Asa24PortionImages/022310113.png,1/2 cup,10205,0,0.5
+75124000,"Pepper, banana, raw",102709107.png,/home/lian/data/ASA24/Asa24PortionImages/102709107.png,1 cup,10205,0,1.0
+75111800,"Jicama, raw",111009122.png,/home/lian/data/ASA24/Asa24PortionImages/111009122.png,1 slice,61935,0,1.0
+27446300,Chicken or turkey garden salad (chicken and/or tur,101807132.png,/home/lian/data/ASA24/Asa24PortionImages/101807132.png,3/4 fast food order,60761,0,0.75
+25221610,"Scrapple, cooked",042911103.png,/home/lian/data/ASA24/Asa24PortionImages/042911103.png,6 ounces,40054,0,6.0

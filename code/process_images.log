@@ -1,0 +1,549 @@
+2026-05-22 13:39:05,142:INFO:Starting image processing script
+2026-05-22 13:39:05,890:ERROR:Failed to setup vector database: HTTPSConnectionPool(host='openaipublic.blob.core.windows.net', port=443): Max retries exceeded with url: /encodings/cl100k_base.tiktoken (Caused by NameResolutionError("HTTPSConnection(host='openaipublic.blob.core.windows.net', port=443): Failed to resolve 'openaipublic.blob.core.windows.net' ([Errno -2] Name or service not known)"))
+2026-05-22 13:42:05,922:ERROR:Failed to setup vector database: HTTPSConnectionPool(host='openaipublic.blob.core.windows.net', port=443): Max retries exceeded with url: /encodings/cl100k_base.tiktoken (Caused by NameResolutionError("HTTPSConnection(host='openaipublic.blob.core.windows.net', port=443): Failed to resolve 'openaipublic.blob.core.windows.net' ([Errno -2] Name or service not known)"))
+2026-05-22 13:45:05,953:ERROR:Failed to setup vector database: HTTPSConnectionPool(host='openaipublic.blob.core.windows.net', port=443): Max retries exceeded with url: /encodings/cl100k_base.tiktoken (Caused by NameResolutionError("HTTPSConnection(host='openaipublic.blob.core.windows.net', port=443): Failed to resolve 'openaipublic.blob.core.windows.net' ([Errno -2] Name or service not known)"))
+2026-05-22 13:46:23,466:INFO:Starting image processing script
+2026-05-22 13:46:27,144:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 13:46:32,888:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 13:46:38,503:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 13:46:43,109:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 13:46:47,505:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 13:46:51,897:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 13:46:56,457:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 13:46:57,136:INFO:Processing URL at index 0: /home/lian/data/ASA24/Asa24PortionImages/042108425.png
+2026-05-22 13:46:57,586:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-05-22 13:46:57,587:ERROR:Failed to invoke llm_vision at index 0: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[1].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[1].image_url', 'code': 'invalid_type'}}
+2026-05-22 13:46:57,590:INFO:Data saved to ../df_results.csv
+2026-05-22 13:48:06,176:INFO:Retrying request to /embeddings in 0.492855 seconds
+2026-05-22 13:48:06,676:INFO:Retrying request to /embeddings in 0.893591 seconds
+2026-05-22 13:48:07,577:ERROR:Failed to setup vector database: Connection error.
+2026-05-22 13:48:38,178:INFO:Starting image processing script
+2026-05-22 13:51:07,691:INFO:Retrying request to /embeddings in 0.451447 seconds
+2026-05-22 13:51:08,149:INFO:Retrying request to /embeddings in 0.893108 seconds
+2026-05-22 13:51:09,049:ERROR:Failed to setup vector database: Connection error.
+2026-05-22 13:54:09,049:CRITICAL:Failed to initialize vector database after multiple attempts.
+2026-05-22 14:03:18,419:INFO:Starting image processing script
+2026-05-22 14:03:20,629:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:03:26,308:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:03:30,910:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:03:35,896:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:03:41,015:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:03:45,005:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:03:49,579:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:03:50,256:INFO:Processing URL at index 0: /home/lian/data/ASA24/Asa24PortionImages/042108425.png
+2026-05-22 14:03:51,317:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:03:51,326:ERROR:Failed to invoke llm_vision at index 0: The image does not depict food.
+2026-05-22 14:03:51,328:INFO:Data saved to ../df_results.csv
+2026-05-22 14:03:51,328:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 1
+2026-05-22 14:03:51,328:INFO:Processing URL at index 1: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:03:52,449:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:03:52,450:ERROR:Failed to invoke llm_vision at index 1: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:03:52,451:INFO:Data saved to ../df_results.csv
+2026-05-22 14:03:52,451:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 2
+2026-05-22 14:03:52,452:INFO:Processing URL at index 2: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:03:55,118:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:03:55,120:ERROR:Failed to invoke llm_vision at index 2: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:03:55,122:INFO:Data saved to ../df_results.csv
+2026-05-22 14:03:55,123:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 3
+2026-05-22 14:03:55,123:INFO:Processing URL at index 3: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:03:56,182:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:03:56,183:ERROR:Failed to invoke llm_vision at index 3: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:03:56,184:INFO:Data saved to ../df_results.csv
+2026-05-22 14:03:56,184:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 4
+2026-05-22 14:03:56,184:INFO:Processing URL at index 4: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:03:57,257:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:03:57,258:ERROR:Failed to invoke llm_vision at index 4: I can't identify specific varieties of liquid in a measuring cup.
+2026-05-22 14:03:57,260:INFO:Data saved to ../df_results.csv
+2026-05-22 14:03:57,260:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 5
+2026-05-22 14:03:57,260:INFO:Processing URL at index 5: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:03:58,876:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:03:58,877:ERROR:Failed to invoke llm_vision at index 5: I can't identify specific varieties of liquid based on appearance alone.
+2026-05-22 14:03:58,879:INFO:Data saved to ../df_results.csv
+2026-05-22 14:03:58,879:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 6
+2026-05-22 14:03:58,880:INFO:Processing URL at index 6: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:01,208:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:01,209:ERROR:Failed to invoke llm_vision at index 6: I can't identify specific varieties of liquid foods based on appearance alone.
+2026-05-22 14:04:01,212:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:01,212:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 7
+2026-05-22 14:04:01,212:INFO:Processing URL at index 7: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:02,992:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:02,994:ERROR:Failed to invoke llm_vision at index 7: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:04:02,996:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:02,996:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 8
+2026-05-22 14:04:02,997:INFO:Processing URL at index 8: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:04,256:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:04,257:ERROR:Failed to invoke llm_vision at index 8: I can't identify specific varieties or ingredients of liquids like milk from an image alone.
+2026-05-22 14:04:04,260:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:04,260:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 9
+2026-05-22 14:04:04,260:INFO:Processing URL at index 9: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:04,992:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:04,993:ERROR:Failed to invoke llm_vision at index 9: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:04:04,995:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:04,995:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 10
+2026-05-22 14:04:04,995:INFO:Processing URL at index 10: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:05,893:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:05,895:ERROR:Failed to invoke llm_vision at index 10: I can't identify specific varieties of liquid in a measuring cup.
+2026-05-22 14:04:05,897:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:05,897:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 11
+2026-05-22 14:04:05,897:INFO:Processing URL at index 11: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:06,712:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:06,714:ERROR:Failed to invoke llm_vision at index 11: I can't identify specific varieties of liquid in a measuring cup.
+2026-05-22 14:04:06,716:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:06,716:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 12
+2026-05-22 14:04:06,716:INFO:Processing URL at index 12: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:10,882:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:10,883:ERROR:Failed to invoke llm_vision at index 12: I can't identify specific varieties of liquid foods based on appearance alone.
+2026-05-22 14:04:10,885:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:10,885:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 13
+2026-05-22 14:04:10,885:INFO:Processing URL at index 13: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:11,904:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:11,906:ERROR:Failed to invoke llm_vision at index 13: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:04:11,908:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:11,908:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 14
+2026-05-22 14:04:11,908:INFO:Processing URL at index 14: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:12,731:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:12,733:ERROR:Failed to invoke llm_vision at index 14: I can't identify specific varieties of liquid foods based on appearance alone.
+2026-05-22 14:04:12,734:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:12,734:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 15
+2026-05-22 14:04:12,734:INFO:Processing URL at index 15: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:13,697:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:13,698:ERROR:Failed to invoke llm_vision at index 15: I can't identify specific varieties of liquid in a measuring cup.
+2026-05-22 14:04:13,700:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:13,700:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 16
+2026-05-22 14:04:13,701:INFO:Processing URL at index 16: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:14,434:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:14,435:ERROR:Failed to invoke llm_vision at index 16: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:04:14,437:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:14,438:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 17
+2026-05-22 14:04:14,438:INFO:Processing URL at index 17: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:15,347:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:15,350:ERROR:Failed to invoke llm_vision at index 17: I can't identify specific varieties of liquid in a measuring cup.
+2026-05-22 14:04:15,352:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:15,352:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 18
+2026-05-22 14:04:15,352:INFO:Processing URL at index 18: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:16,181:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:16,182:ERROR:Failed to invoke llm_vision at index 18: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:04:16,184:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:16,184:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 19
+2026-05-22 14:04:16,184:INFO:Processing URL at index 19: /home/lian/data/ASA24/Asa24PortionImages/121807128.png
+2026-05-22 14:04:16,975:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:16,976:ERROR:Failed to invoke llm_vision at index 19: I can't identify specific varieties of liquid in a measuring cup.
+2026-05-22 14:04:16,979:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:16,979:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 0, index 20
+2026-05-22 14:04:16,979:INFO:Processing URL at index 0: /home/lian/data/ASA24/Asa24PortionImages/042108425.png
+2026-05-22 14:04:17,692:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:17,695:ERROR:Failed to invoke llm_vision at index 0: The image does not depict food.
+2026-05-22 14:04:17,698:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:17,698:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 1
+2026-05-22 14:04:17,698:INFO:Processing URL at index 1: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:18,479:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:18,480:ERROR:Failed to invoke llm_vision at index 1: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:04:18,482:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:18,483:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 2
+2026-05-22 14:04:18,483:INFO:Processing URL at index 2: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:19,388:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:19,389:ERROR:Failed to invoke llm_vision at index 2: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:04:19,390:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:19,391:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 3
+2026-05-22 14:04:19,391:INFO:Processing URL at index 3: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:33,193:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:33,194:ERROR:Failed to invoke llm_vision at index 3: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:04:33,196:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:33,197:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 4
+2026-05-22 14:04:33,197:INFO:Processing URL at index 4: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:34,020:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:34,021:ERROR:Failed to invoke llm_vision at index 4: I can't identify specific varieties of liquid foods based on appearance alone.
+2026-05-22 14:04:34,023:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:34,023:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 5
+2026-05-22 14:04:34,023:INFO:Processing URL at index 5: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:35,607:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:35,608:ERROR:Failed to invoke llm_vision at index 5: I can't identify specific varieties or details about the liquid in the measuring cup.
+2026-05-22 14:04:35,611:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:35,611:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 6
+2026-05-22 14:04:35,611:INFO:Processing URL at index 6: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:36,465:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:36,466:ERROR:Failed to invoke llm_vision at index 6: I can't identify specific varieties of liquid foods based on appearance alone.
+2026-05-22 14:04:36,467:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:36,467:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 7
+2026-05-22 14:04:36,467:INFO:Processing URL at index 7: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:37,383:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:37,384:ERROR:Failed to invoke llm_vision at index 7: I can't identify specific varieties of milk or similar liquids based on appearance alone.
+2026-05-22 14:04:37,386:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:37,386:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 8
+2026-05-22 14:04:37,387:INFO:Processing URL at index 8: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:38,428:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:38,429:ERROR:Failed to invoke llm_vision at index 8: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:04:38,431:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:38,431:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 9
+2026-05-22 14:04:38,431:INFO:Processing URL at index 9: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:39,401:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:39,402:ERROR:Failed to invoke llm_vision at index 9: I can't identify specific varieties of liquid foods based on appearance alone.
+2026-05-22 14:04:39,404:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:39,404:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 10
+2026-05-22 14:04:39,405:INFO:Processing URL at index 10: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:40,647:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:40,649:ERROR:Failed to invoke llm_vision at index 10: I can't identify specific varieties of liquid in a measuring cup.
+2026-05-22 14:04:40,651:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:40,651:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 11
+2026-05-22 14:04:40,651:INFO:Processing URL at index 11: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:41,516:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:41,517:ERROR:Failed to invoke llm_vision at index 11: I can't identify specific varieties of milk or similar liquids based on appearance alone.
+2026-05-22 14:04:41,518:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:41,518:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 12
+2026-05-22 14:04:41,518:INFO:Processing URL at index 12: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:42,761:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:04:42,767:ERROR:Failed to invoke llm_vision at index 12: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:04:42,769:INFO:Data saved to ../df_results.csv
+2026-05-22 14:04:42,769:INFO:Checkpoint saved to ../asa24_food_code_checkpoint.txt at num 1, index 13
+2026-05-22 14:04:42,769:INFO:Processing URL at index 13: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:04:42,885:INFO:Data saved to ../df_results.csv
+2026-05-22 14:12:25,905:INFO:Starting image processing script
+2026-05-22 14:12:33,537:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:12:37,999:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:12:42,196:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:12:46,441:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:12:50,787:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:12:54,877:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:12:59,946:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:00,392:INFO:Processing URL at index 0: /home/lian/data/ASA24/Asa24PortionImages/042108425.png
+2026-05-22 14:13:01,283:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:01,291:ERROR:Failed to invoke llm_vision at index 0: The image does not depict food.
+2026-05-22 14:13:01,293:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:01,293:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 1
+2026-05-22 14:13:01,293:INFO:Processing URL at index 1: /home/lian/data/ASA24/Asa24PortionImages/100507109.png
+2026-05-22 14:13:02,577:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:02,578:ERROR:Failed to invoke llm_vision at index 1: I can't identify the food based on the given image.
+2026-05-22 14:13:02,580:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:02,580:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 2
+2026-05-22 14:13:02,581:INFO:Processing URL at index 2: /home/lian/data/ASA24/Asa24PortionImages/101607109.png
+2026-05-22 14:13:03,368:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:06,070:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:06,077:INFO:Generated queries: ['This dish consists of finely minced beef that has been cooked until tender, offering a savory and rich flavor profile. The beef is typically seasoned with a blend of spices to enhance its natural taste, making it a versatile component in various cuisines.', 'Here, we have a preparation of ground beef that has been browned to perfection, releasing its deep umami flavors. The texture is crumbly yet moist, often used as a base for hearty meals or as a filling in diverse culinary creations.', 'This culinary item is a serving of ground beef, cooked to achieve a balance of juiciness and flavor. The beef is often seasoned with herbs and spices, providing a robust and satisfying taste experience, suitable for pairing with a variety of side dishes.', 'The food in question is a portion of cooked minced beef, known for its rich and meaty flavor. It is typically prepared by sautéing or browning, which brings out its natural juices and enhances its savory qualities, making it a staple in many recipes.', 'This is a dish featuring ground beef that has been cooked thoroughly, offering a delectable combination of flavors and textures. The beef is often seasoned and can be used in a multitude of dishes, from tacos to pasta sauces, providing a hearty and flavorful base.', 'This appears to be a plate of cooked ground beef.']
+2026-05-22 14:13:06,261:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:06,486:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:06,853:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:07,173:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:07,330:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:07,539:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:07,545:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:07,545:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 3
+2026-05-22 14:13:07,546:INFO:Processing URL at index 3: /home/lian/data/ASA24/Asa24PortionImages/081111120.png
+2026-05-22 14:13:08,556:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:08,557:ERROR:Failed to invoke llm_vision at index 3: I can't identify people or specific details about them in images.
+2026-05-22 14:13:08,558:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:08,559:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 4
+2026-05-22 14:13:08,559:INFO:Processing URL at index 4: /home/lian/data/ASA24/Asa24PortionImages/040809109.png
+2026-05-22 14:13:09,351:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:11,564:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:11,565:INFO:Generated queries: ['Hash browns are a popular breakfast dish, consisting of grated potatoes that are cooked until they achieve a golden, crispy texture. They are often pan-fried or deep-fried to enhance their crunchy exterior.', 'This dish features shredded potatoes that are seasoned and fried to perfection, resulting in a delightful crunch. Hash browns are a staple in many breakfast menus, known for their satisfying texture and savory taste.', 'A classic breakfast item, hash browns are made by grating potatoes and frying them until they are crispy on the outside and tender on the inside. The dish is celebrated for its simple yet delicious flavor profile.', 'Typically served as a side dish, hash browns are prepared by grating potatoes and cooking them in oil until they are golden brown. Their crispy texture and savory flavor make them a beloved component of many meals.', 'Hash browns are a quintessential breakfast food, created by frying grated potatoes until they are crisp and golden. This preparation method highlights the natural flavors of the potatoes, offering a satisfying crunch with every bite.', 'These appear to be hash browns, typically made from grated potatoes that are pan-fried or deep-fried until crispy.']
+2026-05-22 14:13:11,799:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:12,079:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:12,459:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:12,853:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:13,145:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:13,365:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:13,372:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:13,373:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 5
+2026-05-22 14:13:13,373:INFO:Processing URL at index 5: /home/lian/data/ASA24/Asa24PortionImages/120809116.png
+2026-05-22 14:13:14,236:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:16,591:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:16,598:INFO:Generated queries: ['1. This dish consists of a savory fried rice, featuring a delightful combination of fluffy grains and succulent sliced sausages, offering a harmonious blend of textures and flavors.', '2. A classic example of fried rice, this meal is enhanced with the addition of sliced sausages, providing a rich and smoky taste that complements the seasoned rice.', '3. This culinary creation is a hearty serving of fried rice, where the aromatic grains are interspersed with juicy sausage slices, delivering a satisfying and flavorful experience.', '4. A plate of fried rice is presented, characterized by its golden-brown hue and the inclusion of sliced sausages, which add a savory and slightly spicy element to the dish.', '5. This appetizing dish features fried rice, expertly prepared with a medley of spices and mixed with sliced sausages, resulting in a delightful interplay of flavors and textures.', '6. This appears to be a plate of fried rice with sliced sausages.']
+2026-05-22 14:13:16,814:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:16,990:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:17,341:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:17,610:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:17,815:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:18,041:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:18,059:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:18,059:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 6
+2026-05-22 14:13:18,060:INFO:Processing URL at index 6: /home/lian/data/ASA24/Asa24PortionImages/102209101.png
+2026-05-22 14:13:19,131:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:22,195:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:22,205:INFO:Generated queries: ['1. This dish is a classic breakfast sandwich, typically served on a toasted English muffin. It features a savory combination of fluffy scrambled egg, melted cheese, and a choice of crispy bacon or succulent ham, creating a delightful balance of flavors.', '2. A quintessential breakfast item, this sandwich is crafted using an English muffin as the base. It is filled with a rich, creamy egg, complemented by the gooey texture of melted cheese, and often includes either smoky bacon or tender slices of ham for added depth.', '3. This breakfast sandwich, nestled within a warm English muffin, offers a harmonious blend of ingredients. The soft, cooked egg pairs beautifully with the sharpness of cheese, and the inclusion of either ham or bacon adds a savory, meaty element to the meal.', '4. A popular morning choice, this breakfast sandwich is built on an English muffin and is known for its comforting flavors. It typically includes a perfectly cooked egg, a layer of melted cheese, and a portion of either crispy bacon or flavorful ham, making it a satisfying start to the day.', '5. This breakfast creation is a sandwich that utilizes an English muffin to encase its ingredients. The sandwich is characterized by the presence of a tender egg, a slice of melted cheese, and often a serving of either bacon or ham, providing a rich and hearty taste experience.', '6. This appears to be a breakfast sandwich on an English muffin, likely containing ingredients such as egg, cheese, and possibly ham or bacon.']
+2026-05-22 14:13:22,401:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:22,756:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:27,874:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:28,048:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:28,228:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:28,392:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:28,398:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:28,398:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 7
+2026-05-22 14:13:28,398:INFO:Processing URL at index 7: /home/lian/data/ASA24/Asa24PortionImages/050509119.png
+2026-05-22 14:13:29,108:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:31,100:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:31,110:INFO:Generated queries: ['A piece of white bread, known for its soft and fluffy texture, is typically made from refined wheat flour, water, yeast, and salt. It is often used as a base for sandwiches or toasted with butter.', 'White bread, characterized by its light and airy crumb, is a staple in many households. It is crafted from bleached wheat flour and has a mild, slightly sweet flavor, making it versatile for various culinary uses.', 'This slice of white bread features a tender and smooth consistency, achieved through the use of finely milled wheat flour. Its neutral taste profile complements both savory and sweet toppings.', 'A slice of white bread, with its delicate and pillowy structure, is produced using a simple mix of wheat flour, water, yeast, and a touch of sugar. It is often enjoyed fresh or toasted to enhance its subtle flavors.', 'White bread, known for its uniform texture and pale color, is made by baking a dough of refined wheat flour and yeast. Its soft and slightly chewy nature makes it ideal for sandwiches and breakfast toasts.', 'This is a slice of white bread.']
+2026-05-22 14:13:31,375:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:31,590:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:31,792:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:32,032:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:32,226:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:32,583:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:32,589:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:32,590:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 8
+2026-05-22 14:13:32,590:INFO:Processing URL at index 8: /home/lian/data/ASA24/Asa24PortionImages/011811409.png
+2026-05-22 14:13:33,572:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:35,835:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:35,841:INFO:Generated queries: ['A simple and airy dessert, this plain sponge cake slice offers a light and fluffy texture with a subtle sweetness, making it a versatile treat that can be enjoyed on its own or paired with various toppings.', 'This slice of sponge cake is characterized by its soft and moist crumb, achieved through the careful folding of beaten egg whites into the batter, resulting in a delicate and tender bite.', 'Enjoy the classic simplicity of this sponge cake slice, which features a gentle vanilla aroma and a smooth, even surface, perfect for soaking up flavors from syrups or creams.', 'This plain sponge cake slice embodies the essence of traditional baking, with its golden-brown exterior and spongy interior, offering a mild sweetness that complements a wide range of accompaniments.', 'Crafted with basic ingredients like flour, sugar, eggs, and a hint of vanilla, this sponge cake slice is a testament to the beauty of simplicity in baking, delivering a light and airy texture with each bite.', 'This is a slice of plain sponge cake.']
+2026-05-22 14:13:35,993:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:37,084:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:37,380:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:37,597:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:37,851:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:38,025:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:38,033:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:38,033:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 9
+2026-05-22 14:13:38,034:INFO:Processing URL at index 9: /home/lian/data/ASA24/Asa24PortionImages/090909101.png
+2026-05-22 14:13:39,113:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:39,114:ERROR:Failed to invoke llm_vision at index 9: I can't identify people or specific varieties of food based on preparation methods.
+2026-05-22 14:13:39,117:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:39,117:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 10
+2026-05-22 14:13:39,117:INFO:Processing URL at index 10: /home/lian/data/ASA24/Asa24PortionImages/081302516.png
+2026-05-22 14:13:41,954:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:41,955:ERROR:Failed to invoke llm_vision at index 10: I can't identify the food based on the given image.
+2026-05-22 14:13:41,958:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:41,958:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 11
+2026-05-22 14:13:41,958:INFO:Processing URL at index 11: /home/lian/data/ASA24/Asa24PortionImages/092410110.png
+2026-05-22 14:13:42,984:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:42,985:ERROR:Failed to invoke llm_vision at index 11: I can't identify the food based on the given image.
+2026-05-22 14:13:42,986:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:42,986:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 12
+2026-05-22 14:13:42,987:INFO:Processing URL at index 12: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:13:44,948:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:44,949:ERROR:Failed to invoke llm_vision at index 12: I can't identify specific varieties of milk or similar liquids based on appearance alone.
+2026-05-22 14:13:44,951:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:44,952:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 13
+2026-05-22 14:13:44,952:INFO:Processing URL at index 13: /home/lian/data/ASA24/Asa24PortionImages/09120270.png
+2026-05-22 14:13:46,293:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:49,352:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:49,362:INFO:Generated queries: ['This is a refreshing beverage known as pink lemonade, characterized by its vibrant pink hue and tangy-sweet flavor, often achieved by adding cranberry or raspberry juice to traditional lemonade.', 'This drink is a variant of classic lemonade, distinguished by its rosy color and a balance of tart and sweet notes, typically made with lemon juice, sugar, water, and a hint of red fruit juice.', 'A delightful and thirst-quenching pink lemonade, this beverage combines the zesty taste of lemons with a subtle sweetness and a touch of berry essence, making it a popular choice for summer refreshment.', 'Pink lemonade is a fruity and invigorating drink, featuring the citrusy sharpness of lemons complemented by a gentle sweetness and a blush of pink, often from added fruit juices like strawberry or pomegranate.', 'This is a jar of pink lemonade, a sweet and tangy drink with a distinctive pink color, usually made by blending lemon juice with sugar, water, and a splash of red fruit juice for added flavor and color.', 'This appears to be a jar of pink lemonade.']
+2026-05-22 14:13:49,740:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:49,895:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:50,106:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:50,268:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:50,647:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:51,055:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:51,063:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:51,063:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 14
+2026-05-22 14:13:51,064:INFO:Processing URL at index 14: /home/lian/data/ASA24/Asa24PortionImages/062410116.png
+2026-05-22 14:13:51,882:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:55,996:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:13:56,002:INFO:Generated queries: ['A tangy and vibrant condiment, this dish features a smooth and creamy mustard sauce, known for its sharp and pungent flavor profile. It is often used as a spread or dip, enhancing the taste of various foods with its zesty kick.', 'This dish presents a classic example of mustard, a condiment made from ground mustard seeds, vinegar, and spices. Its bold and spicy taste is complemented by a creamy texture, making it a versatile addition to sandwiches, dressings, and marinades.', 'A bowl filled with the rich, golden-yellow hue of mustard, this preparation highlights its signature spicy and slightly bitter flavor, achieved through the careful blending of mustard seeds, vinegar, and seasonings. Its creamy consistency makes it a popular choice for adding depth to culinary creations.', 'Here we have a serving of mustard, a condiment renowned for its piquant and robust taste. Made from finely ground mustard seeds and mixed with vinegar and spices, it delivers a sharp, tangy flavor that pairs well with meats and cheeses.', 'This dish showcases mustard, a condiment characterized by its vibrant yellow color and bold, spicy flavor. Prepared by grinding mustard seeds and combining them with vinegar and spices, it offers a creamy texture and a distinctive taste that enhances a variety of dishes.', 'This appears to be a bowl of mustard.']
+2026-05-22 14:13:56,210:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:56,942:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:57,152:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:57,313:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:57,616:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:58,067:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:13:58,076:INFO:Data saved to ../df_results.csv
+2026-05-22 14:13:58,076:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 15
+2026-05-22 14:13:58,076:INFO:Processing URL at index 15: /home/lian/data/ASA24/Asa24PortionImages/080602508.png
+2026-05-22 14:13:58,989:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:14:02,023:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:14:02,031:INFO:Generated queries: ['Green beans are a type of legume known for their crisp texture and fresh, earthy flavor. They are often enjoyed steamed or sautéed, providing a slightly sweet and nutty taste that complements a variety of dishes.', 'This vegetable, commonly referred to as green beans, is characterized by its vibrant green color and tender pods. The beans inside are small and soft, contributing to a mild, grassy flavor that pairs well with garlic, lemon, or butter.', 'Green beans, also known as string beans or snap beans, are a staple in many cuisines. Their preparation often involves blanching or stir-frying, which enhances their natural sweetness and maintains their satisfying crunch.', 'The culinary versatility of green beans makes them a popular choice in salads, casseroles, and side dishes. Their subtle flavor profile, marked by a hint of bitterness, is often enhanced with spices and herbs like thyme or dill.', 'Known for their slender shape and vivid hue, green beans are typically cooked until just tender. This method preserves their delicate flavor and crisp texture, making them a delightful addition to both simple and complex recipes.', 'These are green beans.']
+2026-05-22 14:14:02,225:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:02,559:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:02,914:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:03,248:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:03,423:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:03,682:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:03,688:INFO:Data saved to ../df_results.csv
+2026-05-22 14:14:03,688:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 16
+2026-05-22 14:14:03,688:INFO:Processing URL at index 16: /home/lian/data/ASA24/Asa24PortionImages/080602459.png
+2026-05-22 14:14:05,484:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:14:07,202:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:14:07,209:INFO:Generated queries: ['Slices of zucchini are gently cooked to bring out their natural sweetness and tender texture, offering a delightful experience for the palate.', 'Tender zucchini slices are prepared through cooking, enhancing their mild, slightly sweet flavor and soft, succulent texture.', 'Cooked zucchini slices, known for their subtle sweetness and tender consistency, are a versatile vegetable dish that can be enjoyed on their own or as part of a larger meal.', 'These zucchini slices, once cooked, reveal a soft and tender texture, with a mild flavor that complements a variety of dishes.', 'Prepared by cooking, these zucchini slices offer a delicate balance of sweetness and tenderness, making them a versatile addition to any meal.', 'These appear to be slices of cooked zucchini.']
+2026-05-22 14:14:07,382:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:07,582:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:07,733:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:07,889:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:08,084:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:08,312:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:14:08,320:INFO:Data saved to ../df_results.csv
+2026-05-22 14:14:08,320:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 17
+2026-05-22 14:14:08,321:INFO:Processing URL at index 17: /home/lian/data/ASA24/Asa24PortionImages/09120270.png
+2026-05-22 14:14:09,576:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:14:09,577:ERROR:Failed to invoke llm_vision at index 17: I can't determine the specific food or drink based on the image alone.
+2026-05-22 14:14:09,579:INFO:Data saved to ../df_results.csv
+2026-05-22 14:14:09,579:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 18
+2026-05-22 14:14:09,580:INFO:Processing URL at index 18: /home/lian/data/ASA24/Asa24PortionImages/111902231.png
+2026-05-22 14:14:10,566:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:14:10,567:ERROR:Failed to invoke llm_vision at index 18: I can't identify specific foods or their varieties from images.
+2026-05-22 14:14:10,569:INFO:Data saved to ../df_results.csv
+2026-05-22 14:14:10,569:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 19
+2026-05-22 14:14:10,570:INFO:Processing URL at index 19: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:14:11,937:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:14:11,938:ERROR:Failed to invoke llm_vision at index 19: I can't identify specific varieties of liquid foods like milk based on appearance alone.
+2026-05-22 14:14:11,940:INFO:Data saved to ../df_results.csv
+2026-05-22 14:14:11,940:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke.txt at num 0, index 20
+2026-05-22 14:15:29,018:INFO:Starting image processing script
+2026-05-22 14:15:30,839:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:15:35,196:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:15:40,295:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:15:45,470:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:15:50,479:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:15:55,042:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:15:59,180:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:15:59,793:INFO:Processing URL at index 0: /home/lian/data/ASA24/Asa24PortionImages/042108425.png
+2026-05-22 14:16:00,686:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:16:00,695:ERROR:Failed to invoke llm_vision at index 0: The image does not depict food.
+2026-05-22 14:16:00,697:INFO:Data saved to ../df_results.csv
+2026-05-22 14:16:00,697:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 1
+2026-05-22 14:16:00,697:INFO:Processing URL at index 1: /home/lian/data/ASA24/Asa24PortionImages/100507109.png
+2026-05-22 14:16:01,726:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:16:01,727:ERROR:Failed to invoke llm_vision at index 1: I can't identify the food based on the given image.
+2026-05-22 14:16:01,730:INFO:Data saved to ../df_results.csv
+2026-05-22 14:16:01,730:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 2
+2026-05-22 14:16:01,730:INFO:Processing URL at index 2: /home/lian/data/ASA24/Asa24PortionImages/101607109.png
+2026-05-22 14:16:03,035:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:16:03,036:ERROR:Failed to invoke llm_vision at index 2: I can't identify the food based on the given image.
+2026-05-22 14:16:03,038:INFO:Data saved to ../df_results.csv
+2026-05-22 14:16:03,038:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 3
+2026-05-22 14:16:03,039:INFO:Processing URL at index 3: /home/lian/data/ASA24/Asa24PortionImages/081111120.png
+2026-05-22 14:16:04,314:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:16:04,318:ERROR:Failed to invoke llm_vision at index 3: I can't identify specific foods or their varieties.
+2026-05-22 14:16:04,321:INFO:Data saved to ../df_results.csv
+2026-05-22 14:16:04,321:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 4
+2026-05-22 14:16:04,321:INFO:Processing URL at index 4: /home/lian/data/ASA24/Asa24PortionImages/040809109.png
+2026-05-22 14:16:05,341:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:16:07,278:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:16:07,288:INFO:Generated queries: ['1. This dish consists of shredded potatoes that are either pan-fried or deep-fried to achieve a golden, crispy texture, commonly known as hash browns.', '2. Hash browns are a breakfast staple, featuring finely grated potatoes that are cooked until they reach a crunchy, golden-brown finish, either by frying in a pan or using a deep fryer.', '3. Often enjoyed as a breakfast side, hash browns are made from potatoes that are grated and then fried to a crisp, offering a savory, crunchy bite.', '4. These crispy delights are hash browns, prepared by grating potatoes and frying them until they develop a crunchy, golden exterior, making them a popular choice for breakfast.', '5. Known for their crispy texture, hash browns are created by grating potatoes and frying them, either in a pan or deep fryer, until they are golden brown and crunchy.', '6. These appear to be hash browns, typically made from grated potatoes that are pan-fried or deep-fried until crispy.']
+2026-05-22 14:16:07,565:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:07,833:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:07,996:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:12,429:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:12,840:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:13,140:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:14,089:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:16:14,104:INFO:Data saved to ../df_results.csv
+2026-05-22 14:16:14,104:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 5
+2026-05-22 14:16:14,104:INFO:Processing URL at index 5: /home/lian/data/ASA24/Asa24PortionImages/120809116.png
+2026-05-22 14:16:23,050:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:16:25,195:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:16:25,203:INFO:Generated queries: ['1. This dish features a savory blend of fried rice, enhanced with the rich, smoky flavor of sliced sausages, creating a harmonious balance of textures and tastes.', '2. A delightful serving of fried rice, this meal is complemented by the inclusion of sliced sausages, which add a robust and meaty flavor to the dish.', '3. In this culinary creation, the fried rice serves as a flavorful base, while the sliced sausages introduce a hearty and satisfying element, making it a comforting choice.', '4. The dish is characterized by its fragrant fried rice, which is interspersed with slices of sausages, offering a combination of crispy and juicy textures with each bite.', '5. This plate showcases a classic preparation of fried rice, where the addition of sliced sausages provides a savory depth and a touch of smokiness to the overall flavor profile.', '6. This appears to be a plate of fried rice with sliced sausages.']
+2026-05-22 14:16:26,319:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:29,428:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:29,641:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:31,219:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:31,442:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:31,648:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:16:32,321:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:16:32,325:INFO:Data saved to ../df_results.csv
+2026-05-22 14:16:32,325:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 6
+2026-05-22 14:16:32,325:INFO:Processing URL at index 6: /home/lian/data/ASA24/Asa24PortionImages/102209101.png
+2026-05-22 14:16:45,046:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:00,909:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:00,915:INFO:Generated queries: ['This breakfast creation features an English muffin as its base, layered with a savory combination of eggs, melted cheese, and potentially a choice of ham or crispy bacon, offering a delightful blend of textures and flavors.', 'A classic morning meal, this sandwich is built on an English muffin and filled with fluffy scrambled eggs, gooey cheese, and either ham or bacon, delivering a satisfying mix of savory and creamy elements.', 'This dish is a breakfast sandwich that utilizes an English muffin to encase a rich filling of eggs, cheese, and possibly ham or bacon, providing a harmonious balance of salty and creamy tastes.', 'An English muffin breakfast delight, this sandwich is likely to include a hearty filling of eggs, cheese, and a choice of ham or bacon, creating a comforting and flavorful start to the day.', 'This breakfast sandwich, served on an English muffin, combines the rich flavors of eggs and cheese with the option of adding ham or bacon, resulting in a savory and satisfying morning meal.', 'This is an English muffin breakfast sandwich, likely containing ingredients such as egg, cheese, and possibly ham or bacon.']
+2026-05-22 14:17:01,151:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:01,376:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:01,575:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:01,952:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:02,191:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:02,442:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:03,059:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:03,077:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:03,077:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 7
+2026-05-22 14:17:03,077:INFO:Processing URL at index 7: /home/lian/data/ASA24/Asa24PortionImages/050509119.png
+2026-05-22 14:17:03,986:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:06,225:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:06,230:INFO:Generated queries: ['This is a soft and airy slice of white bread, characterized by its mild flavor and light, fluffy texture, perfect for sandwiches or toast.', 'This slice of white bread features a subtle sweetness and a tender crumb, achieved through a simple preparation of flour, water, yeast, and a touch of sugar.', 'A classic slice of white bread, known for its pillowy softness and neutral taste, ideal for pairing with a variety of spreads or fillings.', 'This piece of white bread is made with refined wheat flour, offering a smooth and even texture, with a gentle, understated flavor profile.', 'A traditional slice of white bread, baked to perfection with a golden crust and a soft, chewy interior, providing a versatile base for any meal.', 'This is a slice of white bread.']
+2026-05-22 14:17:06,511:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:06,708:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:06,906:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:07,131:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:07,419:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:07,615:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:07,964:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:07,977:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:07,977:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 8
+2026-05-22 14:17:07,977:INFO:Processing URL at index 8: /home/lian/data/ASA24/Asa24PortionImages/011811409.png
+2026-05-22 14:17:08,711:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:10,754:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:10,763:INFO:Generated queries: ['This dessert is a piece of cake, characterized by its light and fluffy texture, typical of a classic vanilla sponge.', 'Here we have a portion of cake, showcasing the airy and soft qualities of a traditional sponge, with a subtle hint of vanilla essence.', 'This item is a cake slice, featuring the tender crumb and delicate flavor profile associated with a plain sponge cake, often enhanced with vanilla.', 'This is a piece of cake, embodying the simplicity and elegance of a vanilla sponge, known for its moist and airy consistency.', 'This slice of cake exemplifies the quintessential vanilla sponge, renowned for its lightness and understated sweetness.', 'This is a slice of cake, likely a plain or vanilla sponge cake based on its appearance.']
+2026-05-22 14:17:10,988:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:11,152:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:11,639:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:11,878:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:12,085:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:13,331:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:13,690:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:13,698:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:13,698:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 9
+2026-05-22 14:17:13,699:INFO:Processing URL at index 9: /home/lian/data/ASA24/Asa24PortionImages/090909101.png
+2026-05-22 14:17:14,518:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:14,519:ERROR:Failed to invoke llm_vision at index 9: I can't identify people or objects in images.
+2026-05-22 14:17:14,521:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:14,521:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 10
+2026-05-22 14:17:14,522:INFO:Processing URL at index 10: /home/lian/data/ASA24/Asa24PortionImages/081302516.png
+2026-05-22 14:17:15,439:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:15,440:ERROR:Failed to invoke llm_vision at index 10: I can't identify the food based on the given image.
+2026-05-22 14:17:15,442:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:15,442:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 11
+2026-05-22 14:17:15,442:INFO:Processing URL at index 11: /home/lian/data/ASA24/Asa24PortionImages/092410110.png
+2026-05-22 14:17:16,496:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:16,497:ERROR:Failed to invoke llm_vision at index 11: The image is too small and lacks detail for accurate identification.
+2026-05-22 14:17:16,499:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:16,499:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 12
+2026-05-22 14:17:16,500:INFO:Processing URL at index 12: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:17:17,348:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:17,349:ERROR:Failed to invoke llm_vision at index 12: I can't identify specific varieties of liquid in a measuring cup.
+2026-05-22 14:17:17,351:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:17,351:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 13
+2026-05-22 14:17:17,352:INFO:Processing URL at index 13: /home/lian/data/ASA24/Asa24PortionImages/09120270.png
+2026-05-22 14:17:18,384:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:18,385:ERROR:Failed to invoke llm_vision at index 13: I can't determine the specific food or drink based on the image provided.
+2026-05-22 14:17:18,387:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:18,387:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 14
+2026-05-22 14:17:18,388:INFO:Processing URL at index 14: /home/lian/data/ASA24/Asa24PortionImages/062410116.png
+2026-05-22 14:17:20,177:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:23,102:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:23,103:INFO:Generated queries: ['1. This dish is a creamy dessert, characterized by its smooth and velvety texture, typically made from a mixture of milk or cream, sugar, and eggs, gently cooked to achieve a rich and luscious consistency.', '2. A classic sweet treat, this custard is known for its silky mouthfeel and subtle vanilla flavor, often enhanced with a hint of nutmeg or cinnamon, and prepared by slowly heating the ingredients to create a thickened, indulgent delight.', '3. This is a traditional custard, a dessert that falls under the category of creamy confections, featuring a blend of dairy and eggs that are carefully tempered and cooked to form a soft, pudding-like texture with a delicate sweetness.', '4. The dish is a quintessential custard, offering a luxurious and smooth experience, with its hallmark flavors of vanilla and cream, achieved through a meticulous process of stirring and heating to ensure a perfect, cohesive blend.', '5. This custard is a quintessential example of a rich and creamy dessert, crafted from a harmonious combination of milk, sugar, and eggs, cooked to a silky consistency, often enjoyed on its own or as a base for other desserts.', '6. This appears to be a bowl of custard.']
+2026-05-22 14:17:23,304:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:23,651:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:23,838:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:24,028:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:24,187:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:24,382:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:25,084:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:25,108:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:25,109:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 15
+2026-05-22 14:17:25,109:INFO:Processing URL at index 15: /home/lian/data/ASA24/Asa24PortionImages/080602508.png
+2026-05-22 14:17:25,736:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:28,209:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:28,213:INFO:Generated queries: ['1. These are tender and crisp legumes known for their vibrant green color and mild, fresh flavor, often enjoyed steamed or sautéed.', '2. This dish features fresh green beans, a type of vegetable with a subtly sweet taste and a satisfying crunch, commonly prepared by blanching or stir-frying.', '3. These are string beans, a versatile vegetable with a bright green hue and a delicate, grassy flavor, frequently cooked with garlic or lemon for added zest.', '4. These are snap beans, characterized by their slender shape and crisp texture, offering a mild and slightly sweet taste, typically served as a side dish or in salads.', '5. These are haricots verts, a type of green bean prized for their tender texture and nuanced flavor, often prepared with simple seasonings to highlight their natural taste.', '6. These are green beans.']
+2026-05-22 14:17:28,424:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:29,043:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:29,230:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:29,376:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:29,734:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:30,312:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:30,805:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:30,809:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:30,809:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 16
+2026-05-22 14:17:30,809:INFO:Processing URL at index 16: /home/lian/data/ASA24/Asa24PortionImages/080602459.png
+2026-05-22 14:17:31,424:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:33,846:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:33,852:INFO:Generated queries: ['1. This dish features tender slices of zucchini, cooked to perfection, showcasing a mild and slightly sweet flavor profile, often enhanced with a touch of olive oil and herbs.', "2. The preparation involves slicing fresh zucchini into rounds, which are then sautéed or grilled, highlighting the vegetable's delicate texture and subtle earthy taste.", '3. These zucchini slices are cooked until they achieve a soft yet firm consistency, offering a gentle sweetness and a hint of nuttiness, commonly seasoned with garlic or lemon.', '4. In this culinary creation, zucchini is sliced and cooked, bringing out its natural flavors, which are light and refreshing, often complemented by spices or a drizzle of balsamic vinegar.', '5. The dish consists of zucchini cut into thin slices and cooked, resulting in a tender and juicy texture, with a flavor that is both mild and versatile, making it a perfect base for various seasonings.', '6. These appear to be slices of cooked zucchini.']
+2026-05-22 14:17:34,037:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:34,386:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:34,764:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:34,919:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:35,113:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:35,281:INFO:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-05-22 14:17:35,715:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:35,719:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:35,719:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 17
+2026-05-22 14:17:35,719:INFO:Processing URL at index 17: /home/lian/data/ASA24/Asa24PortionImages/09120270.png
+2026-05-22 14:17:36,568:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:36,569:ERROR:Failed to invoke llm_vision at index 17: I can't determine the specific food or drink based on the image alone.
+2026-05-22 14:17:36,570:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:36,570:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 18
+2026-05-22 14:17:36,570:INFO:Processing URL at index 18: /home/lian/data/ASA24/Asa24PortionImages/111902231.png
+2026-05-22 14:17:37,470:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:37,478:ERROR:Failed to invoke llm_vision at index 18: I can't identify specific foods or their varieties from images.
+2026-05-22 14:17:37,481:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:37,481:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 19
+2026-05-22 14:17:37,481:INFO:Processing URL at index 19: /home/lian/data/ASA24/Asa24PortionImages/121807129.png
+2026-05-22 14:17:38,352:INFO:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:17:38,353:ERROR:Failed to invoke llm_vision at index 19: I can't identify specific varieties of milk or similar liquids based on appearance alone.
+2026-05-22 14:17:38,355:INFO:Data saved to ../df_results.csv
+2026-05-22 14:17:38,355:INFO:Checkpoint saved to ../asa24_food_code_checkpoint_smoke2.txt at num 0, index 20

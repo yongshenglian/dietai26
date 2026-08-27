@@ -1,0 +1,29 @@
+Image,FoodDescription,FoodCode,Portion,Weight_g,Energy (kcal),Protein (g),Carbohydrate (g),"Sugars, total
+(g)","Fiber, total dietary (g)",Total Fat (g),"Fatty acids, total saturated (g)","Fatty acids, total monounsaturated (g)","Fatty acids, total polyunsaturated (g)",Cholesterol (mg),Retinol (mcg),"Vitamin A, RAE (mcg_RAE)","Carotene, alpha (mcg)","Carotene, beta (mcg)","Cryptoxanthin, beta (mcg)",Lycopene (mcg),Lutein + zeaxanthin (mcg),Thiamin (mg),Riboflavin (mg),Niacin (mg),Vitamin B-6 (mg),Folic acid (mcg),"Folate, food (mcg)","Folate, DFE (mcg_DFE)","Folate, total (mcg)","Choline, total (mg)",Vitamin B-12 (mcg),"Vitamin B-12, added
+(mcg)",Vitamin C (mg),Vitamin D (D2 + D3) (mcg),Vitamin E (alpha-tocopherol) (mg),"Vitamin E, added
+(mg)",Vitamin K (phylloquinone) (mcg),Calcium (mg),Phosphorus (mg),Magnesium (mg),"Iron
+(mg)","Zinc
+(mg)",Copper (mg),Selenium (mcg),Potassium (mg),Sodium (mg),Caffeine (mg),Theobromine (mg),Alcohol (g),"4:0
+(g)","6:0
+(g)","8:0
+(g)","10:0
+(g)","12:0
+(g)","14:0
+(g)","16:0
+(g)","18:0
+(g)","16:1
+(g)","18:1
+(g)","20:1
+(g)","22:1
+(g)","18:2
+(g)","18:3
+(g)","18:4
+(g)","20:4
+(g)","20:5 n-3
+(g)","22:5 n-3
+(g)","22:6 n-3
+(g)","Water
+(g)"
+/home/lian/DietAI24/sampleDish.jpg,"
+
+Roasted whole chicken (herb/thyme‑seasoned, basted) served with roasted vegetables — cubed sweet potato, broccoli florets, potato chunks, and whole mushrooms — plus green peas.",27341035,Quantity not specified.,252.0,317.52,12.0708,27.921599999999998,3.2508,3.5279999999999996,17.9424,3.024,6.54192,7.0534799999999995,35.28,15.120000000000001,196.56,753.48,1776.6000000000001,0.0,0.0,367.92,0.15624000000000002,0.13608,4.032000000000001,0.41076,0.0,27.72,27.72,27.72,47.88,0.2268,0.0,16.128000000000004,0.25200000000000006,2.8728,0.0,47.88,57.96,163.8,35.28,0.9072,1.0332,0.22427999999999998,10.08,554.4,861.84,0.0,0.0,0.0,0.0126,0.01008,0.00756,0.01764,0.02268,0.08064,2.1042,0.62748,0.19404,6.237000000000001,0.10584000000000002,0.0,6.219360000000001,0.8190000000000001,0.0,0.00756,0.0,0.0,0.0,190.7136

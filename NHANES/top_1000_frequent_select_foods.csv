@@ -1,0 +1,1001 @@
+Food code,Main Food description,Rank,Rank 2011-2012,Rank 2013-2014,Rank 2015-2016,Rank 2017 Pre-pandemic
+94000100,"The image shows the food category of water, tap. Additional details include filtered tap water; well water; water fountain.",0,1.0,1.0,1.0,2.0
+94100100,"The image shows the food category of water, bottled, plain. Additional details include alkaline water.",1,2.0,2.0,2.0,1.0
+92101000,"The image shows the food category of coffee, brewed. Additional details include coffee, brewed, not specified subcategory as to regular or decaffeinated; coffee singles, bags, pods, or K-cups.",2,4.0,3.0,3.0,3.0
+11112110,"The image shows the food category of milk, reduced fat (2%). Additional details include hi-Protein milk; fortified milk; 1.5% fat milk.",3,3.0,4.0,4.0,6.0
+11111000,"The image shows the food category of milk, whole. Additional details include 3.5% or 3.8% fat milk; leche fresca.",4,5.0,6.0,5.0,4.0
+91101010,"The image shows the food category of sugar, white, granulated or lump. Additional details include sugar, white, not specified subcategory as to granulated or confectioner's.",5,6.0,5.0,6.0,5.0
+92410310,"The image shows the food category of soft drink, cola. Additional details include coca Cola; Coke; Pepsi; RC Cola; not specified subcategory as to caffeine; Pepsi Throwback.",6,7.0,7.0,7.0,8.0
+63107010,"The image shows the food category of banana, raw.",7,9.0,10.0,8.0,9.0
+75113000,"The image shows the food category of lettuce, raw. Additional details include lettuce, not further specified subcategory assigned; iceberg.",8,8.0,8.0,9.0,13.0
+74401010,The image shows the food category of ketchup. Additional details include catsup.,9,10.0,11.0,13.0,7.0
+74101000,"The image shows the food category of tomatoes, raw. Additional details include plum and Italian tomatoes.",10,11.0,9.0,10.0,15.0
+63101000,"The image shows the food category of apple, raw. Additional details include apple, not further specified subcategory assigned.",11,13.0,12.0,11.0,11.0
+92410510,"The image shows the food category of soft drink, fruit flavored, caffeine free. Additional details include cherry, grape, lemon, lime, orange, strawberry; Tom Collins mixer; 7-Up; Sprite; Slice; caffeine free Mountain Dew; 7-Up, not specified subcategory as to caffeine; Squirt; Orange Crush; Citra; Sierra Mist; fruit flavored soda, all types; Fanta; Tropicana Twister Soda.",12,12.0,16.0,12.0,12.0
+71401030,"The image shows the food category of potato, french fries, fast food.",13,16.0,13.0,18.0,14.0
+83107000,"The image shows the food category of mayonnaise, regular. Additional details include mayonnaise, not further specified subcategory assigned.",14,21.0,17.0,21.0,10.0
+51101000,"The image shows the food category of bread, white. Additional details include diet sliced or very thin sliced; English muffin bread; pre-sliced, commercial; pretzel bun.",15,15.0,14.0,14.0,25.0
+14410110,"The image shows the food category of cheese, American.",16,14.0,15.0,15.0,33.0
+11112210,"The image shows the food category of milk, low fat (1%).",17,17.0,21.0,16.0,18.0
+64104010,"The image shows the food category of apple juice, 100%. Additional details include mott's; Musselman's; Simply Apple; Seneca; Apple and Eve; store brands.",18,22.0,24.0,20.0,20.0
+56205008,"The image shows the food category of rice, white, cooked, no added fat. Additional details include basmati or jasmine rice.",19,20.0,23.0,19.0,21.0
+75506010,The image shows the food category of mustard.,20,25.0,34.0,40.0,17.0
+92530610,"The image shows the food category of fruit juice drink, with high vitamin C. Additional details include hi-C; Hawaiian Punch; Ssips; Apple & Eve juice drinks; Florida's Naturals juice cocktails; Kool-Aid Jammers; Minute Maid; Ocean Spray juice drink or cocktail, flavors other than cranberry; Tropicana Twister, all flavors except lemonade; Tropicana Lemonade, chilled carton; Welch's fruit juice cocktails; fruit punch, not further specified subcategory assigned; Tropicana fruit punch; not specified subcategory as to 100% juice; not specified subcategory as to brand; Minute Maid Coolers.",21,31.0,20.0,33.0,22.0
+63123000,"The image shows the food category of grapes, raw.",22,38.0,28.0,22.0,23.0
+61210220,"The image shows the food category of orange juice, 100%, canned, bottled or in a carton. Additional details include minute Maid; Tropicana; Florida's Natural; Donald Duck; store brand; ready to drink; Simply Orange.",23,28.0,29.0,23.0,37.0
+61119010,"The image shows the food category of orange, raw. Additional details include orange, not further specified subcategory assigned.",24,34.0,38.0,25.0,27.0
+74402150,"The image shows the food category of salsa, red. Additional details include creole or picante sauce; fruit.",25,26.0,19.0,17.0,121.0
+51301010,"The image shows the food category of bread, wheat or cracked wheat. Additional details include honey wheat; Roman Meal, not further specified subcategory assigned; wheatberry; crushed wheat; spelt bread; pre-sliced, commercial; buckwheat; wheat bran; wheat germ; branola; granola; honey bran.",26,23.0,25.0,31.0,58.0
+53206000,"The image shows the food category of cookie, chocolate chip. Additional details include with nuts; Pepperidge Farm Chocolate Chunk; Nabisco Mini Chips Ahoy!; Nabisco Chips Ahoy!; Grandma; Keebler Rainbow Chips Deluxe; Subway chocolate chip cookie; McDonald's chocolate chip cookie; white chocolate.",27,33.0,42.0,29.0,26.0
+73101010,"The image shows the food category of carrots, raw.",28,39.0,31.0,30.0,35.0
+14104100,"The image shows the food category of cheese, Cheddar. Additional details include coon; sharp cheese; Tillamook; Hoop; Pioneer; New York; Wisconsin; Longhorn.",29,45.0,30.0,28.0,36.0
+75117020,"The image shows the food category of onions, raw. Additional details include red onions; onions, not further specified subcategory assigned.",30,37.0,26.0,37.0,41.0
+13110100,"The image shows the food category of ice cream, vanilla. Additional details include other flavors; swirl; in a cup; scoop.",31,30.0,33.0,24.0,64.0
+81101000,"The image shows the food category of butter, stick. Additional details include pat.",32,47.0,41.0,35.0,29.0
+92410320,"The image shows the food category of soft drink, cola, diet. Additional details include diet Coke; Diet Pepsi; Tab; Coke Zero; Pepsi One; not specified subcategory as to caffeine; Pepsi Max; sugar free.",33,35.0,35.0,39.0,44.0
+92103000,"The image shows the food category of coffee, instant, reconstituted. Additional details include powdered mix; not specified subcategory as to regular or decaffeinated; made from liquid concentrate.",34,41.0,47.0,36.0,31.0
+63223020,"The image shows the food category of strawberries, raw. Additional details include strawberries, not further specified subcategory assigned.",35,53.0,39.0,34.0,30.0
+93101000,"The image shows the food category of beer. Additional details include beer, regular; not specified subcategory as to type.",36,44.0,43.0,38.0,34.0
+92302000,"The image shows the food category of tea, hot, leaf, black. Additional details include tea bags; spiced, lemon- or other fruit-flavored tea; unsweetened; brewed; chai tea; black tea blends; tea, not specified subcategory as to type.",37,27.0,51.0,51.0,38.0
+42202000,The image shows the food category of peanut butter. Additional details include not specified subcategory as to type.,38,32.0,27.0,66.0,62.0
+25230210,"The image shows the food category of ham, prepackaged or deli, luncheon meat. Additional details include boiled ham; all fat levels - regular, reduced fat, low fat or fat free; lean or extra lean; ham lunch meat, not further specified subcategory assigned.",39,43.0,40.0,27.0,63.0
+52215100,"The image shows the food category of tortilla, corn.",40,52.0,53.0,26.0,48.0
+11113000,"The image shows the food category of milk, fat free (skim). Additional details include nonfat milk; 0.5% or less fat.",41,29.0,32.0,52.0,78.0
+14010000,"The image shows the food category of cheese, not further specified subcategory assigned.",42,54.0,59.0,42.0,32.0
+61210250,"The image shows the food category of orange juice, 100%, with calcium added, canned, bottled or in a carton. Additional details include tropicana; Minute Maid; Florida's Natural; Donald Duck; store brand; with calcium and vitamin D added; Simply Orange with Calcium.",43,36.0,44.0,44.0,70.0
+91745020,,44,40.0,46.0,41.0,69.0
+51150000,"The image shows the food category of roll, white, soft. Additional details include potato roll; onion roll; roll made from mix; soft, seeded roll; brown 'n' serve; white roll, not specified subcategory as to soft or hard; dinner roll.",45,18.0,71.0,79.0,82.0
+83112500,,46,48.0,37.0,45.0,67.0
+75111000,"The image shows the food category of cucumber, raw. Additional details include cucumber, not further specified subcategory assigned.",47,57.0,49.0,46.0,40.0
+92410360,"The image shows the food category of soft drink, pepper type. Additional details include dr. Pepper; Mr. Pibb; Pibb Xtra.",48,49.0,64.0,48.0,46.0
+71201015,,49,19.0,18.0,,
+92410550,"The image shows the food category of soft drink, fruit flavored, caffeine containing. Additional details include mellow Yellow; Mountain Dew; Big Red; Sunkist Orange; Mountain Dew, not specified subcategory as to caffeine; Ruby Red Squirt; Moon Mist; Ale 8; Mountain Dew Code Red; Inca Kola; Cheerwine.",50,56.0,52.0,57.0,50.0
+92308000,"The image shows the food category of tea, iced, brewed, black, pre-sweetened with sugar. Additional details include sweet tea; leaf, bag, or vending; McDonald's Iced Sweet Tea; black and fruit, green, herbal, white, or other tea blends; not specified subcategory as to regular or decaffeinated; iced tea, not specified subcategory as to type; not specified subcategory as to sweetener.",51,,55.0,32.0,28.0
+12210400,"The image shows the food category of coffee creamer, powder. Additional details include coffee Mate; Cremora; Carnation; plain.",52,68.0,58.0,47.0,49.0
+22600200,"The image shows the food category of pork bacon, not specified subcategory as to fresh, smoked or cured, cooked.",53,66.0,60.0,50.0,53.0
+95320200,"The image shows the food category of sports drink (Gatorade G). Additional details include all flavors; Gatorade, not further specified subcategory assigned.",54,64.0,61.0,56.0,51.0
+92541010,"The image shows the food category of fruit flavored drink, powdered, reconstituted. Additional details include kool-Aid, not specified subcategory as to sweetener; Wylers, not specified subcategory as to sweetener; Country Time lemonade, made from dry mix; Flavor Aid; lemonade from powdered mix, not specified subcategory as to brand; store brand.",55,46.0,56.0,68.0,71.0
+56205002,"The image shows the food category of rice, white, cooked, made with oil. Additional details include basmati or jasmine rice.",56,42.0,45.0,62.0,104.0
+12210210,"The image shows the food category of coffee creamer, liquid, flavored. Additional details include coffee Mate; Bailey's; Bliss; Carnation; Coffee Rich; Dunkin Donuts; International Delight; Mocha Mix.",57,85.0,62.0,65.0,43.0
+51300110,"The image shows the food category of bread, whole wheat. Additional details include pre-sliced, commercial; whole grain.",58,59.0,48.0,58.0,107.0
+54401080,,59,24.0,22.0,,
+91107000,"The image shows the food category of sugar substitute, sucralose, powder. Additional details include splenda; yellow / gold packet or package.",60,67.0,65.0,55.0,85.0
+83106000,"The image shows the food category of italian dressing, made with vinegar and oil. Additional details include vinaigrette dressing; vinegar and oil; Italian dressing, not further specified subcategory assigned; Greek dressing; Feta cheese dressing; Champagne dressing; celery seed dressing; onion or Vidalia onion dressing; red wine, balsamic, or raspberry vinegar dressing.",61,73.0,66.0,75.0,60.0
+25221405,"The image shows the food category of pork sausage. Additional details include fresh, smoked, heat and serve, brown and serve, pre-cooked, or not further specified subcategory assigned; bulk, crumbled, link, patty, or stick; breakfast sausage, not specified subcategory as to meat; brown and serve sausage, not further specified subcategory assigned; smoked sausage, not further specified subcategory assigned; Half smoke.",62,70.0,77.0,61.0,61.0
+12120100,"The image shows the food category of cream, half and half. Additional details include plain.",63,107.0,81.0,74.0,47.0
+63149010,"The image shows the food category of watermelon, raw.",64,82.0,78.0,54.0,68.0
+91302010,The image shows the food category of honey.,65,77.0,90.0,63.0,55.0
+74406010,The image shows the food category of barbecue sauce. Additional details include bBQ sauce.,66,86.0,75.0,70.0,56.0
+93102000,"The image shows the food category of beer, light. Additional details include lite.",67,71.0,68.0,72.0,76.0
+31103010,"The image shows the food category of egg, whole, boiled or poached. Additional details include soft boiled or hard boiled egg; egg, cooked, no fat or milk added.",68,92.0,94.0,67.0,54.0
+81101010,"The image shows the food category of butter, tub. Additional details include individual container.",69,78.0,67.0,53.0,92.0
+91401000,The image shows the food category of jelly.,70,50.0,63.0,108.0,114.0
+89902020,"The image shows the food category of lettuce, for use on a sandwich. Additional details include all kinds.",71,,,,16.0
+51101010,"The image shows the food category of bread, white, toasted. Additional details include diet sliced or very thin sliced; English muffin bread; pre-sliced, commercial.",72,69.0,70.0,88.0,88.0
+58407030,"The image shows the food category of soup, mostly noodles. Additional details include spaghetti or noodle soup; Top Ramen; Asian Noodle Soup; meat flavors; saimin soup; Oodles of Noodles; Cup Noodles; Maruchan Instant Lunch; Nissin noodle soups; Souper Meal.",73,94.0,104.0,77.0,57.0
+92309000,"The image shows the food category of tea, iced, bottled, black. Additional details include can, carton, or fountain; sweet tea; black and fruit, green, herbal, white, or other tea blends; not specified subcategory as to type of tea; Snapple, all flavors.",74,,72.0,59.0,52.0
+64100110,"The image shows the food category of fruit juice blend, 100% juice. Additional details include juicy Juice blends; Welch's 100% juice blends; Capri Sun 100% juice blends; Apple and Eve 100% juice blends; Snapple 100% Juiced.",75,65.0,84.0,106.0,95.0
+58106555,"The image shows the food category of pizza with pepperoni, from restaurant or fast food,  medium crust. Additional details include original, hand-tossed, or not specified subcategory as to type of crust; from street vendor.",76,131.0,83.0,76.0,72.0
+14107030,"The image shows the food category of cheese, Mozzarella, part skim. Additional details include chedarella Cheese; string cheese; cheese sticks, not specified subcategory as to type of cheese; Poly-O; Stringsters; County Line; Richfood; Mootown Snackers; Sorrento; lowfat; reduced fat; made with 2% milk.",77,84.0,76.0,85.0,93.0
+12210200,"The image shows the food category of coffee creamer, liquid. Additional details include frozen; Coffee Mate; Carnation; Coffee Rich; Dunkin Donuts; International Delight; plain.",78,134.0,106.0,71.0,65.0
+92111010,"The image shows the food category of coffee, brewed, decaffeinated. Additional details include coffee singles, bags, pods, or K-cups.",79,104.0,91.0,95.0,74.0
+31105030,"The image shows the food category of egg, whole, fried with oil. Additional details include over easy, medium, or hard; sunny side up.",80,87.0,73.0,86.0,108.0
+63105010,"The image shows the food category of avocado, raw.",81,125.0,103.0,64.0,79.0
+54325000,"The image shows the food category of crackers, saltine. Additional details include soda crackers; Premium; Zesta; saltine, not further specified subcategory assigned.",82,79.0,97.0,83.0,100.0
+71200100,"The image shows the food category of potato chips, plain. Additional details include regular or kettle cut; salted; original; not specified subcategory as to flavor; not specified subcategory as to regular or ruffled.",83,,,43.0,42.0
+52215200,"The image shows the food category of tortilla, flour. Additional details include spinach, tomato, and other flavors.",84,100.0,95.0,69.0,119.0
+89902070,"The image shows the food category of tomatoes, for use on a sandwich.",85,,,,19.0
+53209015,"The image shows the food category of cookie, chocolate sandwich. Additional details include oreo.",86,93.0,92.0,96.0,106.0
+75511010,"The image shows the food category of hot pepper sauce. Additional details include tabasco sauce; hot sauce, not further specified subcategory assigned.",87,454.0,477.0,393.0,24.0
+55101000,"The image shows the food category of pancakes, plain. Additional details include buttermilk; hot cakes.",88,72.0,82.0,120.0,130.0
+91300100,The image shows the food category of pancake syrup. Additional details include cane; buttered blends; maple; maple cream.,89,525.0,174.0,145.0,39.0
+93401010,"The image shows the food category of wine, table, red. Additional details include burgundy; cabernet; claret; chianti; dry sherry; homemade wine; merlot; pinot noir; zinfandel; not specified subcategory as to type.",90,97.0,93.0,101.0,109.0
+91708030,,91,83.0,88.0,84.0,154.0
+92306000,"The image shows the food category of tea, hot, herbal. Additional details include herbal tea, not further specified subcategory assigned; unsweetened; leaf; tea bags; brewed; rooibos tea; mate tea; caraway seed tea.",92,108.0,113.0,104.0,91.0
+32130010,"The image shows the food category of egg omelet or scrambled egg, made with oil.",93,74.0,87.0,123.0,148.0
+91705010,"The image shows the food category of chocolate candy. Additional details include chocolate egg; Dove; Hershey bar, kiss, or nugget.",94,112.0,101.0,99.0,101.0
+11100000,"The image shows the food category of milk, not further specified subcategory assigned.",95,110.0,110.0,78.0,113.0
+91200040,"The image shows the food category of sugar substitute, saccharin, powder. Additional details include weight Watchers; Sweet 'n Low; Sugar Twin; pink packet or package.",96,117.0,89.0,103.0,110.0
+92510610,The image shows the food category of fruit juice drink. Additional details include minute Maid fruit punch; Snapple juice drinks.,97,62.0,188.0,139.0,115.0
+51154100,"The image shows the food category of roll, white, hamburger bun. Additional details include potato bun.",98,,36.0,111.0,232.0
+41420300,The image shows the food category of soy sauce. Additional details include shoyu; tamari.,99,103.0,117.0,94.0,129.0
+91745010,"The image shows the food category of candy, gummy. Additional details include all shapes; gumdrops; jelly beans; Hot Tamales, Mike and Ike, Sour Patch.",100,128.0,107.0,129.0,87.0
+11432000,"The image shows the food category of yogurt, low fat milk, fruit. Additional details include go-Gurt Portable Yogurt tube; 1% fat; 2% fat; 99% fat free; light.",101,89.0,121.0,92.0,136.0
+51301020,"The image shows the food category of bread, wheat or cracked wheat, toasted. Additional details include honey wheat; Roman Meal, not further specified subcategory assigned; wheatberry; spelt bread; pre-sliced, commercial; crushed wheat; buckwheat; wheat bran; wheat germ; branola; granola; honey bran.",102,96.0,116.0,109.0,118.0
+63203010,"The image shows the food category of blueberries, raw. Additional details include blueberries, not further specified subcategory assigned.",103,183.0,114.0,112.0,86.0
+57241000,"The image shows the food category of cereal, O's, honey nut. Additional details include cheerios, Honey Nut.",104,105.0,120.0,131.0,111.0
+54401050,,105,51.0,57.0,,
+25230310,,106,60.0,50.0,,
+21500100,"The image shows the food category of beef, ground.",107,58.0,74.0,360.0,581.0
+57123000,"The image shows the food category of cereal, O's, plain. Additional details include cheerios; Oh's; oat cereal.",108,109.0,105.0,117.0,147.0
+92308020,"The image shows the food category of tea, iced, brewed, black, unsweetened. Additional details include leaf, bag, or vending; McDonald's Iced Tea; black and fruit, green, herbal, white, or other tea blends; not specified subcategory as to regular or decaffeinated; not specified subcategory as to type of tea.",109,,80.0,80.0,96.0
+54301000,,110,55.0,54.0,,
+63109010,"The image shows the food category of cantaloupe, raw. Additional details include melon, not further specified subcategory assigned; muskmelon.",111,132.0,112.0,107.0,134.0
+72125100,"The image shows the food category of spinach, raw.",112,169.0,109.0,91.0,144.0
+54401081,"The image shows the food category of cheese flavored corn snacks (Cheetos). Additional details include cheetos, puffs; Cheetos, crunchy; Cheetos Mix-Ups.",113,,,60.0,59.0
+92552030,"The image shows the food category of fruit juice drink (Capri Sun). Additional details include capri Sun, not further specified subcategory assigned; Capri Sun 25% less sugar.",114,75.0,119.0,138.0,205.0
+21101130,,115,99.0,115.0,127.0,171.0
+58145112,"The image shows the food category of macaroni or noodles with cheese, made from packaged mix.",116,118.0,130.0,113.0,132.0
+75503010,"The image shows the food category of pickles, dill. Additional details include sour.",117,88.0,102.0,121.0,256.0
+12310100,"The image shows the food category of sour cream, regular.",118,153.0,160.0,167.0,84.0
+57805000,"The image shows the food category of baby Toddler cereal, rice, dry. Additional details include dry baby cereal, not further specified subcategory assigned.",119,101.0,96.0,173.0,221.0
+53105270,"The image shows the food category of cake or cupcake, chocolate with chocolate icing, bakery. Additional details include commercially packaged; other place.",120,111.0,108.0,134.0,196.0
+92510955,"The image shows the food category of lemonade, fruit juice drink. Additional details include turkey Hill lemonade; Simply Lemonade; Minute Maid lemonade; Apple & Eve lemonade; Minute Maid Limeade; Simply Limeade; lemonade, freshly squeezed.",121,,128.0,93.0,90.0
+61204010,"The image shows the food category of lemon juice, 100%, freshly squeezed.",122,292.0,125.0,89.0,131.0
+81103080,"The image shows the food category of margarine-oil blend, tub. Additional details include individual container.",123,90.0,100.0,133.0,446.0
+91611000,The image shows the food category of popsicle. Additional details include all flavors; ice pop; push pop; popsicles with sticks.,124,124.0,136.0,102.0,195.0
+25230780,"The image shows the food category of turkey, prepackaged or deli, luncheon meat. Additional details include breast, loaf, turkey lunch meat, not further specified subcategory assigned; all fat levels - regular, reduced fat, low fat, or fat free; lean or extra lean.",125,,,49.0,81.0
+53241500,"The image shows the food category of cookie, butter or sugar. Additional details include jelly topped; sesame cookies; wedding cookies; Social Tea Biscuits (Nabisco); Pepperidge Farm Bordeaux; Pepperidge Farm Chessman; Pepperidge Farm Pirouette; Vanilla Margherite (Stella D'Oro); Snickerdoodles; butterfly wings; Lemon Cooler; tea cakes; Russian tea cakes.",126,138.0,161.0,125.0,122.0
+92410710,"The image shows the food category of soft drink, root beer.",127,149.0,123.0,132.0,149.0
+63141010,"The image shows the food category of pineapple, raw. Additional details include pineapple, not further specified subcategory assigned.",128,185.0,142.0,153.0,98.0
+81102020,"The image shows the food category of margarine, tub. Additional details include individual container.",129,129.0,158.0,154.0,117.0
+92303010,"The image shows the food category of tea, hot, leaf, green. Additional details include unsweetened; tea bags; brewed; Japanese green tea; green tea blends.",130,,111.0,97.0,103.0
+75114000,"The image shows the food category of mixed salad greens, raw.",131,191.0,141.0,166.0,97.0
+92552010,"The image shows the food category of fruit flavored drink, powdered, reconstituted, diet. Additional details include crystal Light; Sugar Free Kool-Aid; Wyler's Light; lemonade from low calorie powdered mix, not specified subcategory as to brand.",132,136.0,150.0,128.0,139.0
+22600100,"The image shows the food category of bacon, not specified subcategory as to type of meat, cooked.",133,123.0,127.0,100.0,242.0
+92510960,"The image shows the food category of lemonade, fruit flavored drink. Additional details include snapple lemonade; Country Time lemonade flavored drink, canned; lemonade, not further specified subcategory assigned; limeade, not further specified subcategory assigned.",134,,118.0,105.0,94.0
+51160110,"The image shows the food category of roll, sweet, cinnamon bun, frosted. Additional details include honey bun; Little Debbie Honey Bun; Cinnabon; Pizza Hut Cinnamon Stick; Papa John’s Cinnapie; cinnamon breadstick.",135,152.0,172.0,119.0,145.0
+14301010,"The image shows the food category of cream cheese, regular, plain.",136,182.0,140.0,136.0,140.0
+72116000,"The image shows the food category of romaine lettuce, raw. Additional details include endive; chicory; escarole; green leaf.",137,180.0,126.0,152.0,146.0
+51180010,The image shows the food category of bagel. Additional details include water bagel; flavored bagel; egg bagel; bialy; Bagel Thins.,138,143.0,145.0,164.0,156.0
+92410610,"The image shows the food category of soft drink, ginger ale.",139,174.0,187.0,231.0,99.0
+92410210,"The image shows the food category of water, carbonated, plain. Additional details include club soda; unflavored seltzer water; unsweetened.",140,220.0,165.0,146.0,116.0
+74402200,"The image shows the food category of salsa, red, homemade. Additional details include salsa de chile rojo; salsa made with fruit (peach, mango, pineapple).",141,225.0,163.0,114.0,141.0
+24198731,"The image shows the food category of chicken nuggets, from fast food. Additional details include mcDonald's Chicken McNuggets; Burger King; Wendy's; KFC Bites.",142,,,98.0,66.0
+57349000,,143,116.0,135.0,135.0,273.0
+58106225,"The image shows the food category of pizza, cheese, from restaurant or fast food, medium crust. Additional details include not specified subcategory as to toppings; original or hand-tossed pizza; from street vendor.",144,184.0,173.0,157.0,123.0
+58101345,,145,190.0,148.0,90.0,244.0
+14108010,"The image shows the food category of cheese, Parmesan, dry grated. Additional details include romano, grated; Asiago, aged.",146,159.0,168.0,147.0,150.0
+92410350,"The image shows the food category of soft drink, cola, decaffeinated, diet. Additional details include caffeine free Diet Coke; caffeine free Diet Pepsi; Diet Rite Cola; sugar free.",147,119.0,138.0,204.0,180.0
+63135010,"The image shows the food category of peach, raw. Additional details include peach, not further specified subcategory assigned.",148,145.0,132.0,168.0,190.0
+64100200,"The image shows the food category of cranberry juice blend, 100% juice. Additional details include ocean Spray 100% Juice Blends, all flavors; ""cranberry juice, 100% juice"".",149,144.0,176.0,156.0,157.0
+91750000,"The image shows the food category of candy, taffy. Additional details include now and Later; Starburst; Airheads; Laffy Taffy; candy corn.",150,165.0,155.0,196.0,137.0
+63137010,"The image shows the food category of pear, raw. Additional details include pear, not further specified subcategory assigned.",151,142.0,151.0,149.0,183.0
+93401020,"The image shows the food category of wine, table, white. Additional details include chardonnay; chablis; champagne; homemade wine; pinot blanc; pinot gris (grigio); reisling; rhine; sauterne; sauvignon blanc.",152,156.0,144.0,174.0,160.0
+51185000,The image shows the food category of croutons. Additional details include seasoned bread crumbs.,153,170.0,157.0,190.0,143.0
+54401110,"The image shows the food category of tortilla chips, nacho cheese flavor (Doritos).",154,,,82.0,75.0
+24122120,,155,81.0,69.0,,
+83110000,"The image shows the food category of mayonnaise-type salad dressing. Additional details include miracle Whip; Mayonnaise-type salad dressing, not further specified subcategory assigned.",156,135.0,137.0,160.0,261.0
+11710359,"The image shows the food category of infant formula, Similac Advance, powder, made with baby water. Additional details include similac varieties Pro-Advance, Neuro Support, Supplementation, Lamehadrin; other water.",157,163.0,183.0,116.0,204.0
+54401075,"The image shows the food category of tortilla chips, plain. Additional details include original; Tostitos; tostada chips; multigrain; plain nacho chips.",158,,,81.0,77.0
+51300120,"The image shows the food category of bread, whole wheat, toasted. Additional details include pre-sliced, commercial; whole grain.",159,209.0,134.0,170.0,165.0
+14109010,"The image shows the food category of cheese, Swiss. Additional details include emmentaler; Jarlsburg; Samsoe; Danbo; Sweitzer; Sapsago.",160,157.0,124.0,177.0,234.0
+89902040,"The image shows the food category of onions, for use on a sandwich.",161,,,,45.0
+56205001,"The image shows the food category of rice, white, cooked, not specified subcategory as to fat. Additional details include basmati or jasmine rice.",162,,,73.0,89.0
+71401031,"The image shows the food category of potato, french fries, restaurant. Additional details include other place.",163,,,87.0,83.0
+54102010,"The image shows the food category of graham crackers. Additional details include honeymaid Sticks; all flavors; graham crackers, not further specified subcategory assigned; Honeymaid Lil' Squares; Keebler Grahams; Keebler Elfin Crackers; Keebler Scooby Doo Cracker Sticks; Goldfish Grahams.",164,160.0,171.0,180.0,175.0
+57213000,,165,133.0,166.0,143.0,335.0
+52103000,"The image shows the food category of biscuit, from fast food / restaurant. Additional details include regular; plain; buttermilk; ready-to-eat.",166,177.0,224.0,178.0,153.0
+53530000,The image shows the food category of breakfast tart. Additional details include pop Tart; with or without frosting; pasrty crisp.,167,186.0,177.0,181.0,176.0
+61125010,"The image shows the food category of tangerine, raw. Additional details include tangelo.",168,226.0,152.0,115.0,274.0
+28500040,"The image shows the food category of gravy, beef. Additional details include brown; meat; mushroom.",169,126.0,159.0,189.0,305.0
+51107010,"The image shows the food category of bread, French or Vienna. Additional details include baguette; pre-sliced or not.",170,179.0,179.0,158.0,207.0
+61204000,"The image shows the food category of lemon juice, 100%, not specified subcategory as to form.",171,172.0,167.0,304.0,162.0
+74404010,"The image shows the food category of spaghetti sauce. Additional details include tomato-based, marinara, or red sauce; pizza sauce; spaghetti sauce, not further specified subcategory assigned.",172,192.0,169.0,195.0,187.0
+53204010,"The image shows the food category of cookie, brownie, without icing. Additional details include with nuts; Entenmann's Fudge Brownie; brownie bites.",173,188.0,209.0,193.0,163.0
+54403020,,174,80.0,85.0,,
+24100000,"The image shows the food category of chicken, not specified subcategory as to part and cooking method, not specified subcategory as to skin eaten. Additional details include any source.",175,199.0,129.0,142.0,388.0
+64104030,"The image shows the food category of apple juice, 100%, with calcium added. Additional details include minute Maid Apple Juice; Apple and Eve with calcium; Musselman's with calcium; Mott's Plus.",176,,131.0,137.0,155.0
+51157000,"The image shows the food category of roll, white, hoagie, submarine. Additional details include steak roll; torpedo roll.",177,162.0,133.0,169.0,415.0
+63129010,"The image shows the food category of mango, raw. Additional details include mango, not further specified subcategory assigned.",178,223.0,214.0,144.0,182.0
+58145110,"The image shows the food category of macaroni or noodles with cheese. Additional details include macaroni casserole, not further specified subcategory assigned; macaroni and cheese, not further specified subcategory assigned; from home recipe, ready-to-eat, or frozen.",179,127.0,239.0,260.0,203.0
+24198730,,180,91.0,86.0,,
+64116020,"The image shows the food category of grape juice, 100%. Additional details include welch's; Seneca; Langers; 100% grape juice blends.",181,140.0,221.0,255.0,200.0
+56205018,"The image shows the food category of rice, brown, cooked, no added fat. Additional details include made without fat.",182,141.0,201.0,163.0,314.0
+11511200,"The image shows the food category of chocolate milk, ready to drink, reduced fat. Additional details include 2% fat.",183,147.0,205.0,184.0,259.0
+92410340,"The image shows the food category of soft drink, cola, decaffeinated. Additional details include caffeine free Coke; caffeine free Pepsi.",184,150.0,195.0,224.0,226.0
+54408010,,185,106.0,79.0,,
+91715100,,186,173.0,190.0,159.0,292.0
+22311000,The image shows the food category of ham. Additional details include sliced.,187,228.0,218.0,201.0,168.0
+62125100,The image shows the food category of raisins.,188,204.0,259.0,165.0,181.0
+53521110,"The image shows the food category of doughnut, yeast type. Additional details include honey dip; with non-chocolate icing; not specified subcategory as to type of icing; without icing; donut stick; sprinkle, not further specified subcategory assigned; glazed, not further specified subcategory assigned; maple; coconut; twist, not further specified subcategory assigned; cruller.",189,265.0,192.0,183.0,191.0
+53120270,"The image shows the food category of cake or cupcake, white with white icing, bakery. Additional details include yellow or vanilla cake; other flavor icing; commercially packaged; other place.",190,158.0,263.0,185.0,236.0
+14107010,"The image shows the food category of cheese, Mozzarella, not further specified subcategory assigned. Additional details include pizza cheese; cheese curds.",191,241.0,162.0,186.0,250.0
+11320000,The image shows the food category of soy milk. Additional details include edensoy; vanilla flavored; Silk; West Soy; Soymilk; not specified subcategory as to type; Vitasoy.,192,167.0,182.0,271.0,247.0
+53240000,"The image shows the food category of cookie, animal. Additional details include animal cracker; sweet crackers, not further specified subcategory assigned; Arrowroot cookie or biscuit; animal crackers labeled as ""lowfat"".",193,168.0,228.0,226.0,225.0
+58104710,"The image shows the food category of quesadilla, cheese only.",194,202.0,194.0,221.0,222.0
+75109000,"The image shows the food category of celery, raw. Additional details include celery, not further specified subcategory assigned.",195,235.0,191.0,207.0,202.0
+51601020,"The image shows the food category of bread, multigrain. Additional details include pre-sliced or not; Sandwich Thins.",196,122.0,213.0,241.0,380.0
+25220410,"The image shows the food category of bologna. Additional details include bologna, not further specified subcategory assigned.",197,214.0,206.0,161.0,264.0
+57804000,"The image shows the food category of baby Toddler cereal, oatmeal, dry.",198,211.0,222.0,232.0,189.0
+92114000,"The image shows the food category of coffee, instant, decaffeinated, reconstituted. Additional details include powdered mix.",199,218.0,200.0,151.0,289.0
+91301250,,200,113.0,180.0,148.0,
+71201020,,201,98.0,98.0,,
+57125000,"The image shows the food category of cereal, cinnamon toast. Additional details include cinnamon Toast Crunch.",202,181.0,267.0,235.0,201.0
+51300175,"The image shows the food category of bread, chappatti or roti. Additional details include indian bread, not further specified subcategory assigned.",203,262.0,315.0,288.0,135.0
+81100500,"The image shows the food category of butter, not further specified subcategory assigned.",204,198.0,178.0,395.0,216.0
+71401020,"The image shows the food category of potato, french fries, from frozen, baked. Additional details include home or store.",205,171.0,203.0,371.0,223.0
+11350020,"The image shows the food category of almond milk, unsweetened. Additional details include unsweetened vanilla; flavors other than chocolate; cashew.",206,,235.0,212.0,112.0
+57100100,"The image shows the food category of cereal, ready-to-eat, not further specified subcategory assigned. Additional details include not specified subcategory as to cooked or ready-to-eat.",207,246.0,175.0,150.0,374.0
+91402000,The image shows the food category of jam. Additional details include preserve.,208,146.0,147.0,373.0,445.0
+75122000,"The image shows the food category of pepper, raw, not further specified subcategory assigned. Additional details include sweet pepper, raw, not specified subcategory as to color.",209,286.0,186.0,218.0,214.0
+11511000,"The image shows the food category of chocolate milk, not further specified subcategory assigned. Additional details include not specified subcategory as to milk or drink.",210,203.0,244.0,247.0,224.0
+72201211,"The image shows the food category of broccoli, fresh, cooked, no added fat. Additional details include cooking spray.",211,221.0,154.0,172.0,502.0
+54408016,"The image shows the food category of pretzels, hard, plain, salted. Additional details include original.",212,,,122.0,102.0
+27564060,"The image shows the food category of hot dog sandwich, beef, on white bun.",213,208.0,249.0,238.0,228.0
+52302010,"The image shows the food category of muffin, fruit. Additional details include blueberry; cranberry nut; Hostess Banana Walnut Mini Muffins; Little Debbie Banana Nut Muffins; with or without nuts.",214,242.0,232.0,266.0,193.0
+58132310,,215,95.0,122.0,,
+11710639,"The image shows the food category of infant formula, Enfamil Infant, powder, made with baby water. Additional details include enfamil varieties NeuroPro Infant, Premium Infant, Enspire, Reguline; other water.",216,1878.0,248.0,118.0,186.0
+95320500,The image shows the food category of sports drink (Powerade). Additional details include all flavors.,217,219.0,241.0,216.0,249.0
+54328100,"The image shows the food category of crackers, sandwich, peanut butter filled. Additional details include butter crackers; wheat crackers; Nabs Peanut Butter Sandwiches; peanut butter and jelly filled; Austin; Keebler; Lance; Munchies Peanut Butter on Toast; peanut butter sandwich crackers, not further specified subcategory assigned; Combos; Lance Toast Chee; Munchies Peanut Butter on Cheese.",218,229.0,296.0,240.0,198.0
+58150110,"The image shows the food category of rice, fried, meatless. Additional details include vegetable fried rice.",219,255.0,284.0,250.0,188.0
+54401020,,220,120.0,99.0,,
+53206020,"The image shows the food category of cookie, chocolate chip, made from home recipe or purchased at a bakery. Additional details include toll House; made with M&M's; with nuts; all chip/chunk flavors.",221,298.0,253.0,297.0,170.0
+14133000,"The image shows the food category of queso Fresco. Additional details include queso Ranchero; Mexican cheese, not further specified subcategory assigned.",222,260.0,299.0,227.0,206.0
+54301030,"The image shows the food category of crackers, butter (Ritz). Additional details include ritz, all flavors; Ritz Minis; Ritz, not further specified subcategory assigned; Handi Snack Ritz crackers.",223,,,110.0,128.0
+92410520,"The image shows the food category of soft drink, fruit flavored, diet, caffeine free. Additional details include diet Slice; Diet Sprite; Diet 7-Up; Fresca; Diet 7-Up, not specified subcategory as to caffeine; Diet Cherry 7-UP; Sierra Mist Free; Sprite Zero; diet fruit flavored soda, all flavors; Fanta Zero; Diet Tropicana Twister soda; sugar free.",224,201.0,185.0,293.0,364.0
+25221500,"The image shows the food category of salami, not further specified subcategory assigned. Additional details include any kind or variety; made from any type of meat.",225,194.0,264.0,236.0,293.0
+92513000,"The image shows the food category of slush frozen drink. Additional details include slurpee; Icee; no dairy; slushee or slush; Slush Puppy, Dunkin Donuts Fruit Coolatta's.",226,328.0,225.0,239.0,210.0
+63101120,"The image shows the food category of applesauce, unsweetened.",227,232.0,223.0,203.0,345.0
+51166000,The image shows the food category of croissant. Additional details include sara Lee Wheat 'n' Honey; crescent roll.,228,251.0,266.0,220.0,248.0
+91108000,"The image shows the food category of sugar substitute, stevia, powder. Additional details include stevia; Truvia; Stevia In The Raw; Pure Via; green packet or package.",229,379.0,288.0,252.0,178.0
+74402350,"The image shows the food category of salsa verde or salsa, green. Additional details include tomatillo sauce; green tomato-chile sauce.",230,381.0,230.0,176.0,258.0
+91801000,The image shows the food category of chewing gum. Additional details include not further specified subcategory assigned.,231,1469.0,208.0,223.0,164.0
+91201010,"The image shows the food category of sugar substitute, aspartame, powder. Additional details include equal; Nutrasweet; Sweet One; Natrataste; blue packet or package.",232,193.0,193.0,328.0,384.0
+81104010,"The image shows the food category of margarine-oil blend, tub, light. Additional details include light margarine.",233,148.0,210.0,308.0,561.0
+41104020,"The image shows the food category of pinto beans, from dried, no added fat. Additional details include calico; frozen.",234,240.0,199.0,194.0,439.0
+32130070,"The image shows the food category of egg omelet or scrambled egg, no added fat.",235,338.0,207.0,211.0,275.0
+71200110,"The image shows the food category of potato chips, barbecue flavored. Additional details include regular or kettle cut; barbecue flavor.",236,,,124.0,124.0
+75511100,"The image shows the food category of pickles, not further specified subcategory assigned. Additional details include mixed pickles.",237,2377.0,,2602.0,73.0
+92309500,"The image shows the food category of tea, iced, bottled, green. Additional details include can, carton, or fountain; white tea; herbal tea; green and fruit, herbal, or white tea blends; decaffeinated; Snapple.",238,,212.0,209.0,167.0
+75140990,"The image shows the food category of coleslaw, fast food / restaurant.",239,346.0,233.0,214.0,255.0
+11511100,"The image shows the food category of chocolate milk, ready to drink, whole.",240,207.0,339.0,278.0,245.0
+63409010,"The image shows the food category of guacamole, not further specified subcategory assigned. Additional details include avocado dip, not further specified subcategory assigned; guacamole without tomatoes.",241,243.0,257.0,300.0,240.0
+91102010,"The image shows the food category of sugar, brown.",242,268.0,294.0,259.0,227.0
+92531030,"The image shows the food category of fruit juice drink (Sunny D). Additional details include sunny Delight fruit juice drink, all flavors.",243,139.0,295.0,362.0,418.0
+32130020,"The image shows the food category of egg omelet or scrambled egg, made with butter.",244,280.0,287.0,245.0,229.0
+11350000,"The image shows the food category of almond milk, sweetened. Additional details include vanilla flavored; not specified subcategory as to sweetened; cashew.",245,315.0,276.0,217.0,237.0
+56203056,"The image shows the food category of oatmeal, regular or quick, made with water, no added fat. Additional details include not specified subcategory as to liquid.",246,,,126.0,133.0
+14106200,"The image shows the food category of cheese, Monterey. Additional details include monterey Jack cheese; Pepper Jack cheese.",247,210.0,202.0,386.0,327.0
+58163410,"The image shows the food category of spanish rice, fat added. Additional details include mexican rice; red rice; white rice with tomatoes and/or tomato-based sauce, green peppers and onions; Spanish rice, not further specified subcategory assigned; homemade.",248,238.0,204.0,205.0,484.0
+12140000,"The image shows the food category of cream, whipped. Additional details include heavy; light; Reddiwip; real whipped cream; plain or flavored.",249,363.0,304.0,228.0,211.0
+51109010,"The image shows the food category of bread, Italian, Grecian, Armenian. Additional details include sesame bread; pre-sliced or not; ciabatta bread.",250,366.0,229.0,270.0,230.0
+11511400,"The image shows the food category of chocolate milk, ready to drink, low fat. Additional details include hershey's Chocolate milk; 1% fat.",251,212.0,298.0,303.0,278.0
+92305040,"The image shows the food category of tea, iced, instant, black, pre-sweetened with sugar. Additional details include powdered mix; liquid concentrate; not specified subcategory as to sweetener; sweet tea; black and fruit, green, herbal, white, or other tea blends; not specified subcategory as to type of tea.",252,264.0,243.0,175.0,443.0
+54304020,"The image shows the food category of crackers, cheese (Goldfish). Additional details include all flavors; Flavor Blasted; Goldfish Cracker Puffs.",253,,,141.0,125.0
+94300100,"The image shows the food category of water, baby.",254,274.0,247.0,197.0,376.0
+92301060,,255,61.0,,,
+53520110,,256,195.0,184.0,162.0,
+54403056,"The image shows the food category of popcorn, microwave, butter flavored. Additional details include microwave movie theater style.",257,,,130.0,138.0
+52102040,"The image shows the food category of biscuit, from refrigerated dough. Additional details include regular; plain; buttermilk; frozen.",258,206.0,292.0,200.0,470.0
+72201100,"The image shows the food category of broccoli, raw.",259,282.0,220.0,219.0,359.0
+63101110,"The image shows the food category of applesauce, regular. Additional details include applesauce, not further specified subcategory assigned.",260,302.0,227.0,334.0,251.0
+57135000,,261,237.0,265.0,171.0,533.0
+54304000,"The image shows the food category of crackers, cheese. Additional details include cheese sticks; Better Cheddar; Cheese Nips; cheese crackers, not further specified subcategory assigned; Annie's Cheddar Bunnies.",262,161.0,149.0,746.0,805.0
+92302200,,263,63.0,,,
+27560300,The image shows the food category of corn dog.,264,252.0,329.0,267.0,270.0
+58146322,"The image shows the food category of pasta with tomato-based sauce and meat, home recipe. Additional details include spaghetti, any shape pasta; marinara, red sauce; not specified subcategory sauce kind; not specified subcategory source.",265,,,155.0,127.0
+91734100,,266,275.0,226.0,282.0,326.0
+91301080,The image shows the food category of chocolate syrup. Additional details include nestle Quik; Hershey's; chocolate sauce.,267,263.0,238.0,275.0,349.0
+14108400,"The image shows the food category of cheese, Provolone.",268,272.0,197.0,277.0,435.0
+75205023,"The image shows the food category of green beans, canned, cooked, no added fat. Additional details include italian beans; string; pole; snap; french cut; cooking spray.",269,273.0,240.0,276.0,353.0
+55201000,"The image shows the food category of waffle, plain. Additional details include belgian; buttermilk; homestyle.",270,166.0,139.0,1069.0,1166.0
+24198740,,271,102.0,189.0,,
+54338000,"The image shows the food category of crackers, wheat. Additional details include wheatsworth; Wheatables, all flavors; toasted wheat; cracked wheat; stoned wheat; Harvest Wheats; Ritz Crackers with Whole Wheat; Toasteds Wheat; Ritz Honey Wheat; Keebler Town House Wheat.",272,189.0,269.0,419.0,407.0
+92530410,"The image shows the food category of fruit flavored drink, with high vitamin C. Additional details include tampico Punch, all flavors; Minute Maid Bright & Early Orange Drink; Tropicana Twister lemonade.",273,227.0,278.0,244.0,491.0
+58106550,"The image shows the food category of pizza with pepperoni, from restaurant or fast food, thin crust. Additional details include flatbread crust; from street vendor.",274,253.0,198.0,370.0,428.0
+13120500,"The image shows the food category of ice cream sandwich, vanilla. Additional details include other flavors; not specified subcategory as to flavor.",275,341.0,289.0,302.0,254.0
+13110102,"The image shows the food category of ice cream, vanilla, with additional ingredients. Additional details include nuts, candy, cookies, chocolate or other ingredients within the ice cream; other flavors; swirl; in a cup; scoop.",276,,,,80.0
+51101050,"The image shows the food category of bread, white, made from home recipe or purchased at a bakery. Additional details include not pre-sliced.",277,284.0,357.0,272.0,266.0
+58145111,"The image shows the food category of macaroni or noodles with cheese, from restaurant. Additional details include fast food; other place.",278,,343.0,225.0,166.0
+71200200,"The image shows the food category of potato chips, ruffled, plain. Additional details include salted; original; wavy chips; not specified subcategory as to flavor.",279,,,140.0,152.0
+56205000,"The image shows the food category of rice, cooked, not further specified subcategory assigned.",280,217.0,387.0,263.0,375.0
+54304005,"The image shows the food category of crackers, cheese (Cheez-It). Additional details include all flavors; 100 Calorie Cheez-It; Cheez-It Zingz; Cheez-It, not further specified subcategory assigned.",281,,,199.0,126.0
+24198700,,282,114.0,170.0,,
+92102400,"The image shows the food category of iced Coffee, brewed. Additional details include unsweetened; coffee singles, bags, pods, or K-cups; not specified subcategory as to regular or decaffeinated.",283,,313.0,249.0,172.0
+51161270,"The image shows the food category of pan Dulce, with sugar topping. Additional details include pan de Huevo, sugar topping; Pan de Huevo, crumb topping; Pan de Huevo, not further specified subcategory assigned; Pan Dulce, not further specified subcategory assigned; Mexican sweet bread, not further specified subcategory assigned; pan dulce with icing, all flavors; sweet roll.",284,306.0,342.0,187.0,390.0
+64401000,The image shows the food category of vinegar.,285,394.0,384.0,377.0,199.0
+11430000,"The image shows the food category of yogurt, not specified subcategory as to type of milk, fruit.",286,230.0,389.0,262.0,386.0
+82104000,The image shows the food category of olive oil.,287,321.0,352.0,237.0,308.0
+75121000,"The image shows the food category of pepper, hot chili, raw. Additional details include jalapeno.",288,384.0,217.0,242.0,442.0
+81102000,"The image shows the food category of margarine, not further specified subcategory assigned.",289,250.0,302.0,624.0,262.0
+75510000,"The image shows the food category of olives, not further specified subcategory assigned.",290,416.0,317.0,401.0,215.0
+91746100,"The image shows the food category of chocolate candy, candy shell. Additional details include m&Ms.",291,290.0,270.0,374.0,302.0
+11710358,"The image shows the food category of infant formula, Similac Advance, powder, made with bottled water. Additional details include similac varieties Pro-Advance, Neuro Support, Supplementation, Lamehadrin.",292,271.0,783.0,326.0,220.0
+11710679,"The image shows the food category of infant formula, Enfamil Gentlease, powder, made with baby water. Additional details include enfamil varieties NeuroPro Gentlease, Premium Gentlease; other water.",293,333.0,268.0,233.0,420.0
+93505000,The image shows the food category of vodka. Additional details include straight up or on the rocks.,294,176.0,382.0,550.0,371.0
+71501010,"The image shows the food category of potato, mashed, from fresh, made with milk. Additional details include with water; sour cream; cream.",295,432.0,392.0,179.0,329.0
+53712100,"The image shows the food category of cereal or Granola bar, not further specified subcategory assigned. Additional details include with chocolate chips; New Trail Granola Bars; with oats, sugar, raisins, coconut; Sunbelt Granola Bar, all flavors.",296,404.0,309.0,254.0,297.0
+57305100,,297,313.0,255.0,210.0,555.0
+51160000,"The image shows the food category of roll, sweet, no frosting. Additional details include butterhorn; Portuguese sweet bread; sweet roll, not further specified subcategory assigned; Hawaiian bread; with or without nuts.",298,759.0,300.0,268.0,235.0
+94100200,"The image shows the food category of water, non-carbonated, flavored. Additional details include sweetened or unsweetened; diet; zero calorie.",299,730.0,332.0,305.0,212.0
+57227000,"The image shows the food category of cereal, granola. Additional details include mueslix.",300,343.0,311.0,337.0,283.0
+92530510,"The image shows the food category of cranberry juice drink, with high vitamin C. Additional details include cranberry juice, not further specified subcategory assigned; Ocean Spray cranberry cocktail; blends with cranberry and other fruits; cranberry juice cocktail.",301,233.0,440.0,385.0,306.0
+92101500,"The image shows the food category of coffee, brewed, blend of regular and decaffeinated. Additional details include half-caf; reduced caffeine; coffee singles, bags, pods or K-cups.",302,437.0,219.0,341.0,382.0
+51320010,"The image shows the food category of roll, wheat or cracked wheat. Additional details include dinner roll; submarine roll.",303,247.0,273.0,322.0,562.0
+58106625,"The image shows the food category of pizza with meat other than pepperoni, from restaurant or fast food, medium crust. Additional details include with one or two meat toppings; all meat, poultry, and seafood toppings excluding pepperoni; original or hand-tossed crust; from street vendor.",304,500.0,379.0,316.0,239.0
+24198741,"The image shows the food category of chicken tenders or strips, breaded, from fast food. Additional details include chicken fingers; Burger King; KFC; Carl's Jr.; McDonald's McBites; chicken fries; popcorn chicken.",305,,,198.0,151.0
+11710357,"The image shows the food category of infant formula, Similac Advance, powder, made with tap water. Additional details include similac varieties Pro-Advance, Neuro Support, Supplementation, Lamehadrin.",306,261.0,314.0,398.0,385.0
+52202060,"The image shows the food category of cornbread, made from home recipe. Additional details include jalapeno cornbread.",307,318.0,462.0,317.0,272.0
+75109550,"The image shows the food category of cilantro, raw. Additional details include coriander leaves; Chinese parsley.",308,547.0,346.0,345.0,238.0
+91361010,The image shows the food category of sweet and sour sauce.,309,294.0,497.0,279.0,312.0
+53710906,"The image shows the food category of cereal or granola bar (General Mills Nature Valley Crunchy Granola Bar). Additional details include all flavors; Nature Valley Granola Bar, not further specified subcategory assigned.",310,300.0,368.0,306.0,337.0
+53233010,"The image shows the food category of cookie, oatmeal, with raisins. Additional details include with dates; with nuts; Tastykake Oatmeal Raisin Bars; with fruit filling; with or without icing.",311,305.0,277.0,324.0,434.0
+91707000,,312,390.0,301.0,307.0,340.0
+56203030,,313,155.0,146.0,,
+24208500,"The image shows the food category of turkey bacon, cooked.",314,256.0,355.0,331.0,400.0
+62109100,"The image shows the food category of cranberries, dried. Additional details include craisins; cranberries, not further specified subcategory assigned; all flavors.",315,399.0,306.0,366.0,294.0
+11553110,"The image shows the food category of fruit smoothie, with whole fruit and dairy. Additional details include with milk, yogurt, ice cream, or sherbet; home recipe; restaurant; smoothie shop; juice bar; Jamba Juice; Smoothie King.",316,,216.0,213.0,330.0
+51109100,"The image shows the food category of bread, pita. Additional details include greek; Sahara; Arab; pocket; flatbread.",317,285.0,341.0,351.0,350.0
+32130080,"The image shows the food category of egg omelet or scrambled egg, from fast food / restaurant. Additional details include other place.",318,674.0,391.0,299.0,231.0
+53121270,"The image shows the food category of cake or cupcake, white with chocolate icing, bakery. Additional details include yellow or vanilla cake; commercially packaged; other place.",319,326.0,242.0,290.0,582.0
+14104250,"The image shows the food category of cheese, Colby Jack.",320,488.0,454.0,292.0,260.0
+71202500,"The image shows the food category of potato chips, lightly salted. Additional details include reduced sodium; any cut.",321,1523.0,1414.0,188.0,185.0
+63115010,"The image shows the food category of cherries, raw. Additional details include cherries, not further specified subcategory assigned.",322,259.0,349.0,376.0,419.0
+71401000,"The image shows the food category of potato, french fries, not specified subcategory as to fresh or frozen. Additional details include other place; home or store; not specified subcategory as to fried or baked.",323,504.0,353.0,315.0,280.0
+75103000,"The image shows the food category of cabbage, green, raw. Additional details include cabbage, not specified subcategory as to color.",324,749.0,271.0,291.0,307.0
+13110110,"The image shows the food category of ice cream, chocolate. Additional details include in a cup; scoop.",325,361.0,274.0,332.0,433.0
+91301060,,326,215.0,236.0,246.0,
+57237100,"The image shows the food category of cereal, oat bunches. Additional details include honey Bunches of Oats, all types; Oat Blenders.",327,357.0,310.0,426.0,322.0
+57214000,"The image shows the food category of cereal, shredded wheat, flavored. Additional details include frosted mini wheats; spoon size.",328,356.0,323.0,286.0,399.0
+42111200,"The image shows the food category of peanuts, dry roasted, salted. Additional details include not specified subcategory as to salt; plain; not coated; sea salt.",329,374.0,246.0,461.0,391.0
+92302500,"The image shows the food category of tea, hot, leaf, black, decaffeinated. Additional details include spiced, lemon- or other fruit-flavored tea; unsweetened; tea bags; brewed; chai tea; black tea blends.",330,178.0,407.0,573.0,563.0
+11710919,"The image shows the food category of infant formula, Gerber Good Start Gentle, Stage 1, powder, made with baby water. Additional details include gerber varieties Soothe Stage 1, Supplementing; other water.",331,406.0,251.0,561.0,332.0
+51601010,"The image shows the food category of bread, multigrain, toasted. Additional details include pre-sliced or not.",332,297.0,405.0,361.0,334.0
+31105040,"The image shows the food category of egg, whole, fried with butter. Additional details include over easy, medium, or hard; sunny side up.",333,407.0,414.0,253.0,363.0
+58106560,"The image shows the food category of pizza with pepperoni, from restaurant or fast food, thick crust. Additional details include pan pizza; from street vendor; pizza on a bagel, English muffin, or French bread.",334,311.0,234.0,479.0,541.0
+83102000,"The image shows the food category of caesar dressing. Additional details include caesar dressing, not further specified subcategory assigned.",335,387.0,280.0,380.0,401.0
+25210210,"The image shows the food category of hot dog, beef.",336,296.0,484.0,367.0,333.0
+71200140,"The image shows the food category of potato chips, other flavored. Additional details include regular or kettle cut; all flavors other than barbecue, sour cream and onion, or cheese; flavored, not further specified subcategory assigned.",337,,,182.0,179.0
+24198690,,338,196.0,143.0,,
+27214100,"The image shows the food category of meat loaf made with beef. Additional details include beef meat loaf or meatball, with breading or not specified subcategory as to breading, no sauce; meat patty.",339,323.0,272.0,438.0,466.0
+21101120,,340,331.0,365.0,257.0,513.0
+21102130,,341,359.0,337.0,248.0,550.0
+92511010,,342,76.0,,,
+75216113,"The image shows the food category of corn, canned, cooked, no added fat. Additional details include cooking spray.",343,316.0,333.0,281.0,546.0
+71501000,"The image shows the food category of potato, mashed, not further specified subcategory assigned.",344,121.0,338.0,1613.0,2013.0
+42116000,"The image shows the food category of walnuts, excluding honey roasted. Additional details include not further specified subcategory assigned.",345,281.0,890.0,898.0,208.0
+53108200,"The image shows the food category of snack cake, chocolate. Additional details include ding Dongs; Little Debbie Swiss roll; Little Debbie snack cake; Tastykake.",346,360.0,334.0,556.0,319.0
+58101320,,347,375.0,285.0,327.0,535.0
+92410370,"The image shows the food category of soft drink, pepper type, diet. Additional details include diet Dr. Pepper; Dr. Pepper Ten; Pibb Zero; sugar free.",348,339.0,362.0,354.0,409.0
+42302015,"The image shows the food category of peanut butter and jelly sandwich, with regular peanut butter, regular jelly, on white bread. Additional details include not specified subcategory as to type of peanut butter or jelly; jam or honey.",349,,,206.0,177.0
+83113500,The image shows the food category of ranch dressing. Additional details include not further specified subcategory assigned.,350,,,,105.0
+58160110,"The image shows the food category of beans and white rice. Additional details include lentils; peas; all other beans except red, black, or pinto; all types of rice except brown.",351,266.0,335.0,285.0,798.0
+41205070,"The image shows the food category of hummus, plain. Additional details include chickpea or garbanzo bean dip.",352,267.0,279.0,694.0,497.0
+61210000,"The image shows the food category of orange juice, 100%, not further specified subcategory assigned.",353,277.0,571.0,321.0,430.0
+75506100,The image shows the food category of honey mustard dip. Additional details include honey mustard dipping sauce; hot mustard dipping sauce.,354,499.0,383.0,417.0,290.0
+22701020,,355,370.0,326.0,311.0,522.0
+71403000,,356,151.0,196.0,,
+58403010,"The image shows the food category of chicken or turkey noodle soup, canned or ready-to-serve. Additional details include chicken and stars soup; chicken or turkey soup, not further specified subcategory assigned.",357,295.0,328.0,413.0,500.0
+13120730,"The image shows the food category of ice cream cone, scooped, vanilla. Additional details include other flavors; swirl.",358,344.0,250.0,330.0,776.0
+11511550,"The image shows the food category of chocolate milk, ready to drink, reduced sugar, not specified subcategory as to milk. Additional details include truMoo; less sugar.",359,,245.0,208.0,453.0
+91802000,"The image shows the food category of chewing gum, sugar free.",360,,291.0,309.0,277.0
+58106220,"The image shows the food category of pizza, cheese, from restaurant or fast food, thin crust. Additional details include not specified subcategory as to toppings; flatbread pizza; from street vendor.",361,288.0,231.0,641.0,632.0
+93502000,The image shows the food category of whiskey. Additional details include bourbon; rye; Southern Comfort; straight up or on the rocks.,362,419.0,680.0,405.0,265.0
+31102000,"The image shows the food category of egg, whole, cooked, not specified subcategory as to cooking method.",363,482.0,370.0,421.0,315.0
+27214110,"The image shows the food category of meat loaf made with beef, with tomato-based sauce. Additional details include meatball; meat patty, with beef, breading, tomato-based sauce.",364,492.0,377.0,414.0,311.0
+52201000,"The image shows the food category of cornbread, prepared from mix. Additional details include cornbread, not specified subcategory as to from mix or home recipe.",365,355.0,458.0,363.0,367.0
+14410120,"The image shows the food category of cheese, American, reduced fat. Additional details include lowfat; part skim; made from 2% milk.",366,236.0,308.0,397.0,914.0
+22000100,"The image shows the food category of pork, not further specified subcategory assigned.",367,349.0,403.0,265.0,539.0
+54403000,,368,200.0,153.0,,
+31105090,"The image shows the food category of egg, whole, fried, from fast food / restaurant. Additional details include over easy, medium, or hard; sunny side up; other place.",369,684.0,455.0,375.0,268.0
+83204000,"The image shows the food category of mayonnaise, light. Additional details include diet, low calorie, low fat, reduced calorie, or reduced fat.",370,254.0,256.0,318.0,1885.0
+22311020,,371,448.0,321.0,274.0,569.0
+57223000,"The image shows the food category of cereal, fruit crispy. Additional details include fruity Pebbles.",372,481.0,611.0,358.0,287.0
+24198736,"The image shows the food category of chicken nuggets, from frozen. Additional details include chicken sticks; chicken bites; Banquet; Tyson; Weaver.",373,,,251.0,173.0
+92511015,"The image shows the food category of fruit flavored drink. Additional details include kool-aid Bursts; Little Hug Fruit Drink, all flavors.",374,,356.0,234.0,310.0
+81102010,"The image shows the food category of margarine, stick. Additional details include pat.",375,489.0,390.0,491.0,313.0
+91101000,"The image shows the food category of sugar, not further specified subcategory assigned.",376,523.0,429.0,343.0,358.0
+57119000,"The image shows the food category of cereal, crunch. Additional details include cap'n Crunch, all types.",377,469.0,457.0,483.0,304.0
+75216111,"The image shows the food category of corn, fresh, cooked, no added fat. Additional details include cooking spray.",378,283.0,373.0,348.0,659.0
+11710379,"The image shows the food category of infant formula, Similac Sensitive, powder, made with baby water. Additional details include similac varieties Pro-Sensitive, Total Comfort, Pro-Total Comfort; other water.",379,289.0,351.0,468.0,570.0
+91745100,,380,309.0,374.0,416.0,516.0
+71401032,"The image shows the food category of potato, french fries, from frozen, fried. Additional details include home or store.",381,,385.0,256.0,285.0
+21500310,"The image shows the food category of beef, ground, patty. Additional details include hamburger, no bread.",382,,,215.0,197.0
+51121010,,383,197.0,181.0,,
+92410560,"The image shows the food category of soft drink, fruit flavored, caffeine containing, diet. Additional details include diet Mountain Dew; Diet Sunkist Orange; Diet Inca Kola; Diet Cheerwine; sugar free.",384,351.0,331.0,587.0,461.0
+83210100,,385,287.0,330.0,403.0,774.0
+13120100,"The image shows the food category of ice cream bar, vanilla, chocolate coated. Additional details include ice cream bar, not further specified subcategory assigned; stick; other flavors; Klondike bar, not further specified subcategory assigned; Dove Bar, not further specified subcategory assigned; with nuts.",386,430.0,568.0,384.0,366.0
+21602100,The image shows the food category of beef jerky. Additional details include slim Jim; Big Jerk; Super Jerk; Giant Jerk.,387,586.0,412.0,369.0,365.0
+71000100,"The image shows the food category of potato, not further specified subcategory assigned.",388,620.0,475.0,484.0,282.0
+83114000,"The image shows the food category of thousand Island dressing. Additional details include mcDonald's Big Mac sauce; Thousand Island dressing, not further specified subcategory assigned.",389,690.0,348.0,441.0,348.0
+58163405,"The image shows the food category of spanish rice, from restaurant. Additional details include fast food / other place.",390,,283.0,280.0,377.0
+53233000,"The image shows the food category of cookie, oatmeal. Additional details include with or without icing.",391,278.0,569.0,396.0,519.0
+81302050,The image shows the food category of tartar sauce.,392,422.0,415.0,634.0,331.0
+24201000,"The image shows the food category of turkey, not further specified subcategory assigned.",393,396.0,399.0,446.0,432.0
+28340660,"The image shows the food category of chicken or turkey vegetable soup, home recipe.",394,403.0,401.0,338.0,530.0
+91705300,"The image shows the food category of dark chocolate candy. Additional details include dove; Hershey bar, kiss, or nugget.",395,554.0,559.0,450.0,295.0
+74402100,"The image shows the food category of salsa, not further specified subcategory assigned.",396,859.0,1005.0,1141.0,169.0
+27120030,"The image shows the food category of barbecue pork, with sauce. Additional details include char siu pork; bbq; shredded or pulled; not specified subcategory as to sauce.",397,409.0,425.0,283.0,608.0
+14620200,The image shows the food category of cheese dip. Additional details include cheese other than blue or cream cheese.,398,425.0,692.0,428.0,328.0
+25221350,The image shows the food category of italian sausage. Additional details include hot links; all meats / poultry.,399,376.0,436.0,595.0,381.0
+54301010,"The image shows the food category of crackers, butter, plain. Additional details include sesame seed crackers; Keebler Toasteds; Chicken in a Biskit; cracker sticks; Keebler Club Crackers, all flavors; Keebler Club Minis; Keebler Town House Original; Town House Toppers; Town House, not further specified subcategory assigned; Club, not further specified subcategory assigned.",400,,,269.0,184.0
+89902100,"The image shows the food category of bacon, for use on a sandwich.",401,,,,120.0
+55200020,"The image shows the food category of waffle, plain, frozen. Additional details include belgian; buttermilk; homestyle; frozen, not further specified subcategory assigned.",402,,,229.0,209.0
+53244020,"The image shows the food category of cookie, butter or sugar, with icing or filling other than chocolate. Additional details include spice and other flavors; Nabisco's Made'em Myself Ready to Decorate Cookies.",403,560.0,430.0,470.0,362.0
+54401085,"The image shows the food category of tortilla chips, flavored. Additional details include all flavors; nacho tortilla chips; Takis; rolled tortilla chips; flavored nacho chips; flavored Tostitos.",404,,,192.0,243.0
+58403040,"The image shows the food category of chicken or turkey noodle soup, home recipe.",405,350.0,360.0,463.0,590.0
+26100110,"The image shows the food category of fish, not further specified subcategory assigned.",406,400.0,325.0,243.0,1415.0
+31105010,"The image shows the food category of egg, whole, fried no added fat. Additional details include scrambled egg, no milk or fat added; over easy, medium, or hard; sunny side up.",407,393.0,552.0,536.0,369.0
+26319145,,408,558.0,400.0,287.0,573.0
+11830160,"The image shows the food category of chocolate beverage powder, dry mix, not reconstituted. Additional details include all types; hot chocolate / cocoa dry mix.",409,303.0,312.0,538.0,815.0
+12210310,"The image shows the food category of coffee creamer, liquid, sugar free, flavored. Additional details include coffee Mate; Carnation; International Delight; Mocha Mix.",410,593.0,290.0,475.0,532.0
+71900200,"The image shows the food category of plantain, cooked with oil. Additional details include fried plantains; tostones; plantain, not further specified subcategory assigned; from restaurant.",411,324.0,590.0,434.0,487.0
+63143010,"The image shows the food category of plum, raw. Additional details include plum, not further specified subcategory assigned.",412,352.0,498.0,497.0,473.0
+26137120,"The image shows the food category of fish, salmon, baked or broiled. Additional details include sauteed; not specified subcategory as to coated.",413,358.0,395.0,574.0,485.0
+11542200,"The image shows the food category of milk shake, fast food, flavors other than chocolate. Additional details include burger King; Dairy Queen; McDonald's; Wendy's Frosty Shakes; Jack in the Box; Arby's; Dunkin Donuts; Sonic; from other place; not specified subcategory as to flavor or type.",414,458.0,452.0,445.0,426.0
+53729000,"The image shows the food category of nutrition bar or meal replacement bar, not further specified subcategory assigned.",415,1890.0,619.0,350.0,267.0
+27145000,The image shows the food category of chicken or turkey with teriyaki. Additional details include soy-based sauce.,416,410.0,324.0,622.0,551.0
+32130000,"The image shows the food category of egg omelet or scrambled egg, made with margarine. Additional details include made with shortening.",417,337.0,694.0,607.0,392.0
+25221830,"The image shows the food category of turkey or chicken sausage. Additional details include fresh, smoked, heat and serve, brown and serve, pre-cooked, or not further specified subcategory assigned; bulk, crumbled, link, patty, or stick; breakfast sausage.",418,453.0,501.0,433.0,458.0
+58106200,"The image shows the food category of pizza, cheese, from frozen, thin crust. Additional details include not specified subcategory as to toppings; original, medium, flatbread, or not specified subcategory as to type of crust; homemade or ready-to-bake pizza.",419,578.0,630.0,472.0,347.0
+92306800,"The image shows the food category of tea, hot, with milk. Additional details include indian Masala chai; spiced milk tea; chai tea latte; tea latte; not specified subcategory as to type.",420,,707.0,432.0,233.0
+75503020,"The image shows the food category of relish, pickle. Additional details include relish, not further specified subcategory assigned; sweet; mustard; hot dog.",421,319.0,586.0,480.0,556.0
+25221400,"The image shows the food category of sausage, not further specified subcategory assigned. Additional details include not cold cut.",422,345.0,695.0,514.0,452.0
+51186010,"The image shows the food category of muffin, English. Additional details include sour dough.",423,546.0,463.0,452.0,450.0
+14108020,"The image shows the food category of cheese, Parmesan, hard. Additional details include romano; Asiago, fresh; fresh grated.",424,604.0,322.0,633.0,459.0
+57237300,,425,329.0,421.0,496.0,668.0
+53710500,The image shows the food category of cereal or granola bar (Kellogg's Nutri-Grain Cereal Bar). Additional details include all flavors.,426,445.0,396.0,553.0,499.0
+27510241,"The image shows the food category of cheeseburger, on white bun, 1 medium patty. Additional details include homemade; bun, not further specified subcategory assigned; quarter pound patty.",427,,,713.0,161.0
+51153000,"The image shows the food category of roll, white, hard. Additional details include kaiser; Pan de sal / Pandisal Filipino bread.",428,340.0,293.0,593.0,972.0
+91705030,,429,423.0,417.0,323.0,795.0
+11431000,"The image shows the food category of yogurt, whole milk, fruit.",430,308.0,327.0,777.0,759.0
+11514100,"The image shows the food category of hot chocolate / Cocoa, made with dry mix and water. Additional details include cocoa mix, not further specified subcategory assigned; Swiss Miss; Hershey's; Nestle's; Carnation; mint flavored.",431,386.0,561.0,546.0,469.0
+58104130,"The image shows the food category of nachos, beef or pork. Additional details include steak; carnita, chorizo or sausage; cheese.",432,464.0,645.0,437.0,444.0
+41603010,"The image shows the food category of lentil soup, home recipe, canned, or ready-to-serve.",433,465.0,500.0,410.0,520.0
+14660200,"The image shows the food category of mozzarella sticks, breaded, baked, or fried. Additional details include fried cheese served in a restaurant; mozzarella en carossa; Banquet; fried mozzarella; any cheese.",434,511.0,632.0,381.0,460.0
+52101000,"The image shows the food category of biscuit, not further specified subcategory assigned. Additional details include regular; plain; buttermilk; not specified subcategory as to source.",435,681.0,623.0,273.0,518.0
+71220000,The image shows the food category of vegetable chips. Additional details include veggie chips; Eat smart; vegetable puffs; vegetable sticks; veggie straws; veggie crisp; Terra; all flavors excluding sweet potato; snap pea crisps.,436,842.0,528.0,387.0,379.0
+91304090,The image shows the food category of chocolate hazelnut spread. Additional details include nutella; chocolate spread; other nuts.,437,856.0,453.0,346.0,437.0
+92410250,"The image shows the food category of water, carbonated, flavored. Additional details include flavored seltzer water; sweetened or unsweetened; diet; zero calorie.",438,1229.0,1330.0,1520.0,174.0
+71501040,"The image shows the food category of potato, mashed, from dry mix, made with milk. Additional details include with water; sour cream; cream.",439,322.0,578.0,478.0,601.0
+91721000,"The image shows the food category of candy, licorice. Additional details include twizzlers.",440,435.0,512.0,415.0,557.0
+72201212,"The image shows the food category of broccoli, frozen, cooked, no added fat. Additional details include cooking spray.",441,582.0,367.0,418.0,586.0
+83101000,"The image shows the food category of blue or roquefort cheese dressing. Additional details include blue or roquefort cheese dressing, not further specified subcategory assigned; blue cheese dip.",442,597.0,579.0,505.0,370.0
+42101130,"The image shows the food category of almonds, unsalted. Additional details include plain; roasted; not coated.",443,,,230.0,257.0
+58132110,,444,187.0,260.0,,
+25220105,"The image shows the food category of beef sausage. Additional details include fresh, smoked, heat and serve, brown and serve, pre-cooked, or not further specified subcategory assigned; bulk, crumbled, link, patty, or stick; breakfast sausage; half smoke.",445,314.0,605.0,549.0,564.0
+25231110,"The image shows the food category of beef, prepackaged or deli, luncheon meat. Additional details include deli roast beef.",446,395.0,316.0,473.0,893.0
+42111210,"The image shows the food category of peanuts, dry roasted, unsalted. Additional details include plain.",447,626.0,307.0,482.0,649.0
+42100100,"The image shows the food category of almonds, not further specified subcategory assigned.",448,244.0,527.0,764.0,777.0
+91501010,The image shows the food category of gelatin dessert. Additional details include jello; jigglers; not further specified subcategory assigned.,449,459.0,546.0,513.0,454.0
+24123120,"The image shows the food category of chicken breast, stewed, skin not eaten. Additional details include braised; not specified subcategory as to skin eaten; any source.",450,466.0,480.0,499.0,501.0
+27146350,The image shows the food category of orange chicken. Additional details include lemon chicken.,451,490.0,490.0,488.0,483.0
+61100600,"The image shows the food category of clementine, raw. Additional details include cutie; mandarin orange, raw.",452,,,,142.0
+58106500,,453,222.0,215.0,,
+58145117,"The image shows the food category of macaroni or noodles with cheese, Easy Mac type.",454,382.0,564.0,599.0,496.0
+32130110,"The image shows the food category of egg omelet or scrambled egg, with cheese, made with oil. Additional details include not specified subcategory as to fat; not specified subcategory as to fat type.",455,540.0,504.0,471.0,471.0
+27146150,The image shows the food category of chicken curry. Additional details include other poultry.,456,383.0,620.0,548.0,495.0
+75125000,"The image shows the food category of radish, raw.",457,522.0,431.0,541.0,505.0
+21000100,"The image shows the food category of beef, not further specified subcategory assigned.",458,535.0,530.0,312.0,673.0
+91731010,,459,557.0,492.0,379.0,568.0
+21500300,,460,362.0,156.0,,
+58150330,"The image shows the food category of rice, fried, with pork.",461,413.0,468.0,581.0,554.0
+12350230,"The image shows the food category of ranch dip, regular.",462,,,466.0,192.0
+25221250,"The image shows the food category of pepperoni, not further specified subcategory assigned.",463,644.0,427.0,392.0,558.0
+75440600,The image shows the food category of vegetable curry.,464,398.0,522.0,679.0,493.0
+14104400,"The image shows the food category of cheese, Feta.",465,475.0,483.0,594.0,494.0
+21401120,,466,332.0,446.0,585.0,737.0
+75510020,"The image shows the food category of olives, black. Additional details include kalamata; purple.",467,608.0,472.0,596.0,431.0
+43104000,The image shows the food category of flax seeds.,468,708.0,320.0,566.0,559.0
+71404010,"The image shows the food category of potato, hash brown, from fast food.",469,,,368.0,218.0
+53243000,"The image shows the food category of cookie, vanilla sandwich. Additional details include vienna Fingers; Cameos; butter sandwich cookie; Golden Oreos; Keebler EL Fudge (Elfin) sanwich cookie.",470,391.0,474.0,614.0,591.0
+74406100,The image shows the food category of steak sauce. Additional details include a1; Pickapeppa; Heinz 57.,471,521.0,640.0,568.0,421.0
+92411510,"The image shows the food category of soft drink, cola, fruit or vanilla flavored. Additional details include cherry cola; Cherry Coke; Pepsi Wild Cherry; Vanilla Coke.",472,675.0,363.0,785.0,429.0
+92305010,"The image shows the food category of tea, iced, instant, black, unsweetened. Additional details include powdered mix; liquid concentrate; black and fruit, green, herbal, white, or other tea blends; not specified subcategory as to type of tea.",473,440.0,466.0,372.0,816.0
+51161250,"The image shows the food category of pan Dulce, no topping. Additional details include pan de Huevo, no topping; cuerno; Mexican; sweet roll.",474,471.0,626.0,439.0,536.0
+71401010,"The image shows the food category of potato, french fries, from fresh, fried. Additional details include home or store.",475,559.0,523.0,408.0,572.0
+56205004,"The image shows the food category of rice, white, cooked, made with butter. Additional details include made with animal fat or meat drippings; basmati or jasmine rice.",476,872.0,510.0,507.0,389.0
+54401111,"The image shows the food category of tortilla chips, cool ranch flavor (Doritos).",477,,,294.0,241.0
+24167110,,478,154.0,423.0,,
+22701010,,479,545.0,563.0,320.0,729.0
+58150510,"The image shows the food category of rice, fried, with shrimp.",480,392.0,521.0,646.0,565.0
+91723000,"The image shows the food category of candy, marshmallow. Additional details include peeps.",481,415.0,441.0,489.0,719.0
+58106725,"The image shows the food category of pizza with meat and vegetables, from restaurant or fast food, medium crust. Additional details include with one, two, or three meat and vegetable toppings; all meat, poultry, and seafood toppings including pepperoni; original, hand-tossed, or not specified subcategory as to type of crust; from street vendor.",482,451.0,509.0,453.0,638.0
+26155110,"The image shows the food category of fish, tuna, canned.",483,529.0,592.0,352.0,651.0
+26107140,"The image shows the food category of fish, catfish, fried.",484,688.0,479.0,639.0,416.0
+75122100,"The image shows the food category of pepper, sweet, green, raw.",485,412.0,627.0,603.0,524.0
+53204100,"The image shows the food category of cookie, brownie, with icing or filling. Additional details include with nuts; Little Debbie Fudge Brownie or Cosmic Brownie; all flavors icing or filling.",486,637.0,491.0,427.0,548.0
+53207000,"The image shows the food category of cookie, chocolate or fudge. Additional details include chocolate cookie, not further specified subcategory assigned; chocolate-jelly cookies; with nuts; with chips.",487,683.0,557.0,517.0,427.0
+91800100,,488,130.0,1888.0,1980.0,2961.0
+71405020,,489,257.0,211.0,,
+92101610,"The image shows the food category of coffee, espresso.",490,444.0,699.0,490.0,525.0
+51133010,"The image shows the food category of bread, sour dough. Additional details include pre-sliced or not.",491,461.0,378.0,718.0,606.0
+22709010,The image shows the food category of pork skin rinds. Additional details include snack type.,492,532.0,511.0,455.0,600.0
+56130000,"The image shows the food category of pasta, cooked. Additional details include macaroni, spaghetti, any shape of pasta; not specified subcategory as to grain type; pasta, not further specified subcategory assigned.",493,1512.0,1039.0,365.0,300.0
+24122131,"The image shows the food category of chicken breast, baked, broiled, or roasted, skin not eaten, from raw. Additional details include not specified subcategory as to skin eaten.",494,,,258.0,279.0
+24123301,"The image shows the food category of chicken breast, grilled without sauce, skin not eaten. Additional details include barbecued without sauce; not specified subcategory as to skin eaten; any source.",495,,,264.0,276.0
+11710649,,496,137.0,819.0,,
+74303000,"The image shows the food category of tomato and vegetable juice, 100%. Additional details include v8 or Spicy Hot V8; vegetable juice, not further specified subcategory assigned.",497,385.0,652.0,451.0,684.0
+14420100,"The image shows the food category of cheese spread, American or Cheddar cheese base. Additional details include velveeta; Cheez Whiz (all flavors); cheese spread, not further specified subcategory assigned; Kraft Cheese Spreads; Kraft Bacon Cheese Spread; Original Laughing Cow Cheese Wedges & Bites.",498,701.0,344.0,443.0,741.0
+56203066,"The image shows the food category of oatmeal, regular or quick, made with milk, no added fat.",499,,,202.0,354.0
+92301130,,500,115.0,,,
+41104010,"The image shows the food category of pinto beans, from dried, fat added. Additional details include calico; not specified subcategory as to fat; not specified subcategory as to meat; frozen.",501,213.0,1920.0,2368.0,476.0
+58150320,"The image shows the food category of rice, fried, with chicken. Additional details include turkey.",502,518.0,496.0,492.0,619.0
+24201120,"The image shows the food category of turkey, light meat, roasted, skin not eaten. Additional details include any source.",503,854.0,406.0,406.0,580.0
+71601010,"The image shows the food category of potato salad with egg, made with mayonnaise. Additional details include not specified subcategory as to type of dressing.",504,301.0,547.0,961.0,639.0
+27540190,,505,367.0,354.0,313.0,
+91301510,"The image shows the food category of pancake syrup, light. Additional details include reduced calorie; sugar-free.",506,417.0,369.0,732.0,736.0
+32130210,"The image shows the food category of egg omelet or scrambled egg, with meat, made with oil. Additional details include all meat, poultry, and seafood.",507,485.0,562.0,430.0,695.0
+52405010,"The image shows the food category of bread, fruit. Additional details include lemon bread; banana bread; banana nut bread; date nut bread; with or without nuts.",508,563.0,465.0,664.0,526.0
+31105020,"The image shows the food category of egg, whole, fried with margarine. Additional details include made with shortening; over easy, medium, or hard; sunny side up.",509,584.0,748.0,531.0,423.0
+27450060,"The image shows the food category of tuna salad, made with mayonnaise. Additional details include sandwich spread; not specified subcategory as to type of dressing.",510,327.0,570.0,356.0,1334.0
+12210270,"The image shows the food category of coffee creamer, liquid, fat free, flavored. Additional details include light; lite; Coffee Mate; low fat; Carnation; Coffee Rich; Dunkin Donuts; International Delight; Mocha Mix.",511,456.0,345.0,850.0,685.0
+22101120,,512,549.0,424.0,394.0,852.0
+95310400,The image shows the food category of energy drink (Monster).,513,697.0,435.0,562.0,527.0
+89902050,"The image shows the food category of pepper, for use on a sandwich. Additional details include all kinds.",514,,,,158.0
+26158010,"The image shows the food category of fish, tilapia, baked or broiled. Additional details include sauteed; not specified subcategory as to coated.",515,509.0,541.0,411.0,718.0
+27564440,"The image shows the food category of chili hot dog sandwich, on white bun.",516,401.0,716.0,703.0,512.0
+24100020,"The image shows the food category of chicken, not specified subcategory as to part and cooking method, skin not eaten. Additional details include any source.",517,2135.0,1625.0,794.0,213.0
+11710638,"The image shows the food category of infant formula, Enfamil Infant, powder, made with bottled water. Additional details include enfamil varieties NeuroPro Infant, Premium Infant, Enspire, Reguline.",518,,517.0,529.0,320.0
+27540146,"The image shows the food category of chicken fillet sandwich, fried, from fast food. Additional details include patty; crispy; breaded; on bun, bread or roll.",519,,,,159.0
+63135140,"The image shows the food category of peach, canned, in syrup.",520,526.0,595.0,835.0,456.0
+26100270,"The image shows the food category of fish, stick. Additional details include nugget.",521,551.0,386.0,687.0,663.0
+71201250,,522,234.0,262.0,,
+58160150,The image shows the food category of kidney beans and white rice. Additional details include red; all types of rice except brown.,523,310.0,464.0,560.0,1285.0
+25221310,The image shows the food category of polish sausage. Additional details include kielbasa; all meats / poultry.,524,655.0,682.0,389.0,574.0
+11710678,"The image shows the food category of infant formula, Enfamil Gentlease, powder, made with bottled water. Additional details include enfamil varieties NeuroPro Gentlease, Premium Gentlease.",525,665.0,393.0,867.0,506.0
+74402110,"The image shows the food category of salsa, pico de gallo. Additional details include salsa cruda.",526,799.0,687.0,442.0,474.0
+26319120,"The image shows the food category of shrimp, baked or broiled. Additional details include sauteed; prawn; not specified subcategory as to coated.",527,462.0,784.0,477.0,585.0
+58100010,,528,612.0,471.0,339.0,894.0
+63127010,"The image shows the food category of honeydew melon, raw.",529,658.0,505.0,615.0,523.0
+11114330,"The image shows the food category of milk, lactose free, reduced fat (2%). Additional details include lactaid; lactose reduced.",530,926.0,609.0,359.0,545.0
+61101010,"The image shows the food category of grapefruit, raw. Additional details include grapefruit, not further specified subcategory assigned.",531,353.0,584.0,621.0,826.0
+75216112,"The image shows the food category of corn, frozen, cooked, no added fat. Additional details include cooking spray.",532,513.0,372.0,448.0,1160.0
+57330000,,533,571.0,536.0,485.0,670.0
+53234000,"The image shows the food category of cookie, peanut butter. Additional details include peanut butter wafers.",534,610.0,702.0,527.0,498.0
+53104500,"The image shows the food category of cheesecake, plain.",535,616.0,428.0,469.0,742.0
+56203010,,536,248.0,254.0,,
+41201020,"The image shows the food category of baked beans, vegetarian.",537,364.0,467.0,295.0,
+42501000,The image shows the food category of trail mix with nuts and fruit. Additional details include gorp; seeds.,538,566.0,610.0,756.0,482.0
+58104120,"The image shows the food category of nachos, cheese only.",539,598.0,727.0,602.0,463.0
+27510310,,540,245.0,261.0,,
+63126500,"The image shows the food category of kiwi fruit, raw. Additional details include kiwifruit.",541,483.0,724.0,444.0,678.0
+31105080,"The image shows the food category of egg, whole, fried with cooking spray. Additional details include fried with nonstick spray; over easy, medium, or hard; sunny side up.",542,622.0,606.0,460.0,618.0
+24198742,"The image shows the food category of chicken tenders or strips, breaded, from restaurant. Additional details include chicken fingers; popcorn chicken.",543,,,284.0,291.0
+41208030,The image shows the food category of pork and beans.,544,436.0,461.0,551.0,900.0
+27510215,"The image shows the food category of cheeseburger, from fast food, 1 medium patty. Additional details include quarter pound patty.",545,,,918.0,194.0
+41102020,"The image shows the food category of black beans, from dried, no added fat. Additional details include frozen.",546,662.0,459.0,402.0,850.0
+53109200,"The image shows the food category of snack cake, white. Additional details include yellow or other flavor cake; not specified subcategory as to flavor; Twinkie; Little Debbie zebra cake; Little Debbie snack cake; Tastykake.",547,720.0,759.0,629.0,414.0
+95230030,"The image shows the food category of nutritional powder mix, protein, not further specified subcategory assigned. Additional details include protein shake mix, not further specified subcategory assigned; brands such as NOW Foods, not further specified subcategory assigned and Gold Standard, not further specified subcategory assigned.",548,618.0,548.0,533.0,625.0
+11434010,"The image shows the food category of yogurt, Greek, low fat milk, fruit. Additional details include 2% fat; 1% fat; 99% fat free; light; Chobani Kids Greek Yogurt Tubes.",549,,252.0,572.0,728.0
+94210200,,550,354.0,486.0,752.0,915.0
+28340670,"The image shows the food category of chicken or turkey vegetable soup with rice, home recipe, Mexican style. Additional details include sopa or Caldo de Pollo with rice, potato or not further specified subcategory assigned; with or without noodles.",551,431.0,469.0,447.0,1278.0
+25220350,"The image shows the food category of bratwurst. Additional details include all meats (pork, beef, chicken, turkey).",552,651.0,930.0,344.0,605.0
+53209100,"The image shows the food category of cookie, chocolate, sandwich, with extra filling. Additional details include double Stuff Oreo; Fudge covered Oreos; chocolate sandwich with coating.",553,682.0,476.0,656.0,571.0
+56205012,"The image shows the food category of rice, brown, cooked, fat added, made with oil.",554,397.0,358.0,667.0,1333.0
+54350010,,555,452.0,767.0,429.0,783.0
+64124020,"The image shows the food category of pineapple juice, 100%.",556,520.0,544.0,547.0,732.0
+26319110,"The image shows the food category of shrimp, not further specified subcategory assigned. Additional details include prawn.",557,716.0,650.0,422.0,626.0
+61207010,"The image shows the food category of lime juice, 100%, freshly squeezed.",558,791.0,526.0,584.0,540.0
+55301000,"The image shows the food category of french toast, plain.",559,420.0,281.0,1528.0,1245.0
+12210430,"The image shows the food category of coffee creamer, powder, fat free. Additional details include light; lite; low fat; Coffee Mate; Carnation; Cremora; plain.",560,495.0,794.0,462.0,688.0
+91705060,,561,539.0,388.0,515.0,1095.0
+27564000,"The image shows the food category of hot dog sandwich, not further specified subcategory assigned, on white bun.",562,570.0,677.0,508.0,637.0
+42111100,"The image shows the food category of peanuts, roasted, salted. Additional details include plain; lightly salted; not specified subcategory as to salt; sea salt; not coated.",563,1035.0,979.0,423.0,411.0
+41205010,"The image shows the food category of refried beans. Additional details include canned; with or without fat; not specified subcategory as to meat; refried beans, not further specified subcategory assigned.",564,307.0,1531.0,1783.0,410.0
+14104110,"The image shows the food category of cheese, Cheddar, reduced fat. Additional details include lowfat; part skim; made from 2% milk; Kraft natural reduced fat cheese; Weight Watchers reduced fat cheddar cheese; Colby/Colby Jack, reduced fat.",565,636.0,361.0,706.0,765.0
+58100100,,566,756.0,258.0,803.0,1101.0
+92303100,"The image shows the food category of tea, hot, leaf, green, decaffeinated. Additional details include unsweetened; tea bags; brewed; white tea; Japanese green tea; green tea blends; rice tea.",567,,371.0,534.0,489.0
+24168000,"The image shows the food category of chicken ""wings"" with hot sauce, from fast food / restaurant. Additional details include drummette; ""buffalo wing""; hot chicken wings; chicken wing dings; wingster; with buffalo sauce.",568,,,391.0,271.0
+12210420,"The image shows the food category of coffee creamer, powder, flavored. Additional details include coffee Mate powder, flavored; Carnation.",569,498.0,482.0,796.0,692.0
+58108050,The image shows the food category of pizza rolls.,570,506.0,820.0,691.0,510.0
+95310600,The image shows the food category of energy drink (Red Bull).,571,519.0,749.0,509.0,655.0
+53711000,"The image shows the food category of cereal or granola bar (Quaker Chewy Granola Bar). Additional details include all flavors; Quaker Oats bar, not further specified subcategory assigned.",572,572.0,655.0,789.0,529.0
+91705020,The image shows the food category of chocolate candy with cereal. Additional details include whoppers; Nestle crunch.,573,573.0,643.0,518.0,683.0
+52215260,"The image shows the food category of tortilla, whole wheat.",574,672.0,410.0,597.0,731.0
+24123311,"The image shows the food category of chicken breast, grilled with sauce, skin not eaten. Additional details include barbecued with sauce; any source; with sauce or marinade.",575,,,261.0,361.0
+57308400,"The image shows the food category of cereal, O's, multigrain. Additional details include cheerios, Multigrain.",576,405.0,532.0,674.0,879.0
+57128000,,577,421.0,597.0,604.0,858.0
+95103000,"The image shows the food category of nutritional drink or shake, ready-to-drink (Ensure). Additional details include ensure, not further specified subcategory assigned; all flavors; Bone Health; Immune Health; Muscle Health; high calcium; high protein.",578,528.0,685.0,695.0,589.0
+26319140,"The image shows the food category of shrimp, fried. Additional details include prawn; popcorn shrimp.",579,640.0,770.0,1016.0,396.0
+27510172,The image shows the food category of cheeseburger (McDonalds).,580,,,329.0,296.0
+71101000,"The image shows the food category of potato, baked, peel not eaten. Additional details include not specified subcategory as to peel eaten.",581,567.0,499.0,631.0,755.0
+75205021,"The image shows the food category of green beans, fresh, cooked, no added fat. Additional details include italian beans; string; pole; snap; french cut; cooking spray.",582,687.0,531.0,467.0,788.0
+14201010,"The image shows the food category of cheese, cottage, creamed, large or small curd. Additional details include regular (4% fat) cottage cheese.",583,861.0,602.0,500.0,575.0
+12210505,"The image shows the food category of coffee creamer,powder, sugar free, flavored. Additional details include fat free; light; lite; low fat; Coffee Mate; Carnation.",584,1866.0,642.0,503.0,413.0
+24124201,"The image shows the food category of chicken breast, sauteed, skin not eaten. Additional details include any source; not specified subcategory as to skin eaten; with or without fat.",585,,,301.0,323.0
+54401112,"The image shows the food category of tortilla chips, other flavors (Doritos). Additional details include all other flavors, excluding cool ranch; all cheese flavors excluding nacho cheese; Doritos, not further specified subcategory assigned; Doritos Jacked; rolled Doritos; Doritos Dinamita; Doritos toasted corn.",586,,,310.0,318.0
+43102100,"The image shows the food category of sunflower seeds, plain, salted. Additional details include sea salt; lightly salted.",587,372.0,478.0,838.0,951.0
+27446200,"The image shows the food category of chicken or turkey salad, made with mayonnaise. Additional details include not specified subcategory as to type of dressing.",588,542.0,603.0,980.0,543.0
+41420010,The image shows the food category of soybean curd. Additional details include stir fried; bean curd; tofu.,589,744.0,585.0,557.0,611.0
+25230900,,590,270.0,275.0,,
+57339000,,591,457.0,493.0,558.0,1052.0
+27150210,The image shows the food category of fish sauce. Additional details include bagoong; shrimp sauce.,592,667.0,494.0,506.0,789.0
+42501500,"The image shows the food category of trail mix with chocolate. Additional details include any nuts, fruits, or seeds.",593,782.0,654.0,487.0,603.0
+42101210,,594,787.0,164.0,,
+58106514,"The image shows the food category of pizza with pepperoni, from frozen, medium crust. Additional details include original or not specified subcategory as to type of crust; homemade or ready to bake pizza.",595,,,404.0,281.0
+92550030,"The image shows the food category of fruit juice drink, with high vitamin C, light. Additional details include minute Maid Light juice drinks; Tropicana Light lemonade; Light Hawaiian Punch; low calorie.",596,378.0,601.0,810.0,864.0
+51401010,"The image shows the food category of bread, rye. Additional details include corn rye; Russian bread; pre-sliced or not.",597,480.0,539.0,775.0,740.0
+53226500,"The image shows the food category of cookie, marshmallow, with rice cereal, no bake. Additional details include rice Krispies Treats bar cookie.",598,531.0,647.0,590.0,745.0
+58101323,,599,609.0,437.0,617.0,843.0
+41104011,,600,,366.0,191.0,
+55100050,"The image shows the food category of pancakes, plain, fast food / restaurant. Additional details include buttermilk; hot cakes; fast food / restaurant, not further specified subcategory assigned.",601,,,298.0,336.0
+24127220,"The image shows the food category of chicken breast, fried, coated, skin / coating eaten, from fast food / restaurant. Additional details include sauteed with coating; not specified subcategory as to prepared with skin; not specified subcategory as to coated or uncoated; prepared skinless.",602,,,382.0,288.0
+83205450,"The image shows the food category of italian dressing, light. Additional details include newman's Own Light; diet, low calorie, low fat, reduced calorie, or reduced fat dressing; vinaigrette dressing; Greek dressing; onion or Vidalia onion dressing; Champagne dressing; celery seed dressing; red wine, balsamic, or raspberry vinegar dressing.",603,605.0,555.0,495.0,853.0
+75115000,"The image shows the food category of mushrooms, raw.",604,505.0,634.0,666.0,754.0
+91406500,"The image shows the food category of jam or jelly, fruit juice sweetened. Additional details include spreadable fruit; all fruit; preserve or marmalade.",605,517.0,582.0,636.0,832.0
+51300050,"The image shows the food category of bread, whole grain white. Additional details include whole wheat white; pre-sliced or not.",606,530.0,529.0,855.0,709.0
+26319130,"The image shows the food category of shrimp, steamed or boiled. Additional details include prawn.",607,679.0,723.0,645.0,560.0
+57134000,"The image shows the food category of cereal, corn flakes, plain.",608,718.0,755.0,582.0,547.0
+58100120,,609,769.0,418.0,504.0,889.0
+57104000,,610,510.0,409.0,823.0,926.0
+91703200,,611,527.0,533.0,530.0,1013.0
+53209005,"The image shows the food category of cookie, chocolate, with icing or coating. Additional details include grasshopper (Keebler); Keebler 100 Calorie Right Bites Grasshopper; Girl Scout Thin Mints; Little Debbie Fudge Rounds.",612,858.0,375.0,719.0,725.0
+54401021,"The image shows the food category of corn chips, plain. Additional details include dipsy Doodles; Bugles; corn chips, not further specified subcategory assigned.",613,,,289.0,372.0
+57329000,"The image shows the food category of cereal, bran flakes, flavored. Additional details include raisin bran.",614,623.0,917.0,929.0,441.0
+73102211,"The image shows the food category of carrots, fresh, cooked, no added fat. Additional details include cooking spray.",615,649.0,525.0,610.0,772.0
+53247000,"The image shows the food category of cookie, vanilla wafer. Additional details include vanilla cookie, not specified subcategory as to type; wafer, not specified subcategory as to type; Nabisco Nilla Wafers.",616,650.0,616.0,501.0,817.0
+92101850,"The image shows the food category of coffee, cafe con leche. Additional details include beverage made with equal amounts of coffee and milk, sugar added.",617,,729.0,222.0,911.0
+11432500,,618,239.0,347.0,,
+14650100,The image shows the food category of cheese sauce.,619,574.0,875.0,498.0,713.0
+56203155,"The image shows the food category of oatmeal, instant, fruit flavored, no added fat. Additional details include instant packet; fruit and cream; not specified subcategory as to fat.",620,,,407.0,299.0
+27146010,,621,249.0,340.0,,
+43102000,"The image shows the food category of sunflower seeds, plain, unsalted.",622,496.0,712.0,643.0,779.0
+63133010,"The image shows the food category of papaya, raw.",623,544.0,899.0,521.0,701.0
+41201010,"The image shows the food category of baked beans. Additional details include chili; barbecue; baked beans, not further specified subcategory assigned.",624,2747.0,2872.0,2174.0,219.0
+51154010,"The image shows the food category of roll, white, hot dog bun. Additional details include frankfurter bun; potato bun.",625,,639.0,409.0,508.0
+92100500,"The image shows the food category of coffee, not specified subcategory as to brewed or instant. Additional details include coffee singles, bags, pods, or K-cups.",626,175.0,1565.0,3206.0,2600.0
+75122200,"The image shows the food category of pepper, sweet, red, raw.",627,599.0,545.0,739.0,738.0
+11710378,"The image shows the food category of infant formula, Similac Sensitive, powder, made with bottled water. Additional details include similac varieties Pro-Sensitive, Total Comfort, Pro-Total Comfort.",628,645.0,807.0,2039.0,393.0
+32130060,"The image shows the food category of egg omelet or scrambled egg, made with cooking spray. Additional details include made with nonstick spray.",629,669.0,460.0,681.0,824.0
+53510100,"The image shows the food category of danish pastry, with fruit. Additional details include with icing; Pillsbury Apple, Blueberry, Cherry, or Strawberry Toaster Strudel; toaster strudel, not further specified subcategory assigned.",630,695.0,617.0,528.0,781.0
+71200120,"The image shows the food category of potato chips, sour cream and onion flavored. Additional details include regular or kettle cut.",631,,,335.0,352.0
+58131323,"The image shows the food category of ravioli, meat-filled, with tomato sauce or meat sauce, canned. Additional details include canned ravioli, not specified subcategory as to filling; Franco-American Beef RavioliO's; Chef Boyardee Beef Ravioli or Mini Ravioli; Sir Chomps-a-Lot Bite Size Beef Ravioli.",632,548.0,596.0,727.0,802.0
+58163380,"The image shows the food category of flavored rice and pasta mixture. Additional details include rice-A-Roni, all flavors; Lipton / Knorr Rice and Sauce, all flavors.",633,812.0,450.0,579.0,847.0
+75216120,"The image shows the food category of corn, not specified subcategory as to form, cooked. Additional details include with or without fat.",634,1612.0,4309.0,,217.0
+11411200,"The image shows the food category of yogurt, low fat milk, plain. Additional details include 1% fat; 2% fat; 99% fat free; light.",635,320.0,772.0,964.0,917.0
+58112510,"The image shows the food category of wonton, dumpling or pot sticker, steamed. Additional details include not specified subcategory as to fried; any meat.",636,455.0,665.0,976.0,715.0
+11710377,"The image shows the food category of infant formula, Similac Sensitive, powder, made with tap water. Additional details include similac varieties Pro-Sensitive, Total Comfort, Pro-Total Comfort.",637,685.0,701.0,523.0,763.0
+58106655,"The image shows the food category of pizza with extra meat, medium crust. Additional details include with three or more meat toppings; all meat, poultry, and seafood toppings including pepperoni; original, hand-tossed, or not specified subcategory as to type of crust.",638,1188.0,673.0,682.0,479.0
+64204010,The image shows the food category of mango nectar.,639,1306.0,865.0,436.0,531.0
+13120790,"The image shows the food category of ice cream cone, vanilla, prepackaged. Additional details include drumstick, all flavors; prepackaged cone, not further specified subcategory assigned; other flavors; swirl; with nuts; sundae cone; Nutty Buddy.",640,1392.0,1320.0,1119.0,284.0
+54403005,"The image shows the food category of popcorn, movie theater, with added butter.",641,,,314.0,383.0
+58146332,"The image shows the food category of pasta with tomato-based sauce, meat, and added vegetables, home recipe. Additional details include spaghetti, any shape pasta; marinara, red sauce; not specified subcategory sauce kind; vegetables other than tomatoes and onions; not specified subcategory source.",642,,,325.0,373.0
+42302020,"The image shows the food category of peanut butter and jelly sandwich, with regular peanut butter, regular jelly, on wheat bread. Additional details include not specified subcategory as to type of peanut butter or jelly; jam or honey; multigrain, whole grain, whole wheat.",643,,,454.0,298.0
+11411100,"The image shows the food category of yogurt, whole milk, plain.",644,611.0,1224.0,749.0,486.0
+75652010,"The image shows the food category of vegetable beef soup, home recipe.",645,699.0,515.0,755.0,748.0
+75330110,,646,743.0,305.0,459.0,
+83100100,"The image shows the food category of salad dressing, not further specified subcategory assigned, for salads.",647,768.0,629.0,827.0,579.0
+71200410,"The image shows the food category of potato chips, baked, flavored. Additional details include all flavors; any cut; baked kettle chips; potato crisps.",648,,,333.0,368.0
+24147320,"The image shows the food category of chicken drumstick, fried, coated, skin / coating eaten, from fast food / restaurant. Additional details include sauteed with coating; not specified subcategory as to prepared with skin; not specified subcategory as to coated or uncoated; not specified subcategory as to skin / coating eaten; prepared skinless.",649,,,357.0,346.0
+27560650,,650,463.0,560.0,844.0,942.0
+41810250,The image shows the food category of bacon bits. Additional details include meatless or meat.,651,537.0,803.0,663.0,730.0
+24198746,"The image shows the food category of chicken tenders or strips, breaded, from frozen. Additional details include chicken fingers; popcorn chicken; chicken fries; chicken breast tenders; Banquet; Tyson; Weaver.",652,,,349.0,360.0
+71501020,,653,291.0,303.0,,
+53233050,"The image shows the food category of cookie, oatmeal sandwich, with creme filling. Additional details include little Debbie Oatmeal Creme Pie.",654,543.0,831.0,724.0,674.0
+93102300,"The image shows the food category of beer, higher alcohol. Additional details include barley wine.",655,,540.0,697.0,448.0
+53201000,"The image shows the food category of cookie, not further specified subcategory assigned.",656,666.0,889.0,773.0,528.0
+53235000,"The image shows the food category of cookie, peanut butter sandwich. Additional details include chocolate peanut bar; peanut sandwich cookie; Nutter Butter (Nabisco); Girl Scout Do-si-dos; with oatmeal.",657,686.0,721.0,740.0,624.0
+71201050,"The image shows the food category of potato chips, reduced fat. Additional details include salted; any cut; low or fat free.",658,426.0,588.0,757.0,1200.0
+83100200,"The image shows the food category of salad dressing, not further specified subcategory assigned, for sandwiches.",659,536.0,456.0,853.0,1036.0
+41420350,"The image shows the food category of soy sauce, reduced sodium. Additional details include shoyu; tamari.",660,719.0,668.0,799.0,623.0
+11710917,"The image shows the food category of infant formula, Gerber Good Start Gentle, Stage 1, powder, made with tap water. Additional details include gerber varieties Soothe Stage 1, Supplementing.",661,1669.0,516.0,1083.0,457.0
+58146222,"The image shows the food category of pasta with tomato-based sauce, home recipe. Additional details include spaghetti, any shape pasta; marinara, red sauce; not specified subcategory sauce kind; not specified subcategory source.",662,,,347.0,378.0
+57344010,"The image shows the food category of cereal, K's, flavored. Additional details include special K.",663,630.0,730.0,623.0,767.0
+54403087,"The image shows the food category of popcorn, ready-to-eat, cheese flavored. Additional details include all flavors other than butter or kettle.",664,,,524.0,301.0
+63420110,,665,434.0,380.0,648.0,
+92308520,"The image shows the food category of tea, iced, brewed, green, unsweetened. Additional details include leaf, bag, or vending; white tea; herbal tea; green and fruit, herbal, or white tea blends; not specified subcategory as to regular or decaffeinated.",666,,659.0,662.0,440.0
+71200310,"The image shows the food category of potato chips, restructured, flavored. Additional details include flavored Pringles; potato crisps; all flavors; potato skin chips.",667,,,340.0,394.0
+83104000,"The image shows the food category of french or Catalina dressing. Additional details include french or Catalina dressing, not further specified subcategory assigned; Western; Sweet and sour.",668,429.0,1116.0,655.0,822.0
+58106230,"The image shows the food category of pizza, cheese, from restaurant or fast food, thick crust. Additional details include pan pizza; not specified subcategory as to topping; from street vendor; pizza on bagel, English muffin, or French bread.",669,628.0,397.0,910.0,1007.0
+75221021,"The image shows the food category of onions, cooked, fat added. Additional details include not specified subcategory as to fat added; from restaurant.",670,869.0,,,263.0
+11710918,"The image shows the food category of infant formula, Gerber Good Start Gentle, Stage 1, powder, made with bottled water. Additional details include gerber varieties Soothe Stage 1, Supplementing.",671,997.0,514.0,790.0,687.0
+58132340,,672,334.0,297.0,,
+51320500,"The image shows the food category of roll, whole wheat. Additional details include dinner roll; submarine roll; whole grain.",673,564.0,513.0,744.0,1163.0
+92121000,"The image shows the food category of coffee, instant, pre-lightened and pre-sweetened with sugar, reconstituted. Additional details include powdered mix; not specified subcategory as to sweetener; Maxwell House International, flavors other than chocolate, cocoa, or mocha.",674,745.0,593.0,808.0,717.0
+22101220,,675,524.0,732.0,449.0,1566.0
+83105500,"The image shows the food category of honey mustard dressing. Additional details include honey mustard dressing, not further specified subcategory assigned; Honey dijon dressing.",676,595.0,678.0,1036.0,665.0
+58106620,"The image shows the food category of pizza with meat other than pepperoni, from restaurant or fast food, thin crust. Additional details include with one or two meat toppings; all meat, poultry, and seafood toppings excluding pepperoni; flatbread crust; from street vendor.",677,643.0,885.0,591.0,764.0
+53301000,"The image shows the food category of pie, apple.",678,762.0,835.0,668.0,636.0
+92161000,"The image shows the food category of coffee, Cappuccino. Additional details include 2% or whole milk; not specified subcategory as to regular or decaffeinated.",679,893.0,558.0,893.0,650.0
+11433000,"The image shows the food category of yogurt, nonfat milk, fruit. Additional details include 0% fat; fat free; light; light, not further specified subcategory assigned.",680,1185.0,1629.0,424.0,517.0
+56203130,"The image shows the food category of oatmeal, instant, maple flavored, no added fat. Additional details include brown sugar; instant packet; other flavors; not specified subcategory as to fat.",681,,,458.0,338.0
+56201052,"The image shows the food category of grits, regular or quick, made with water, fat added. Additional details include all liquids.",682,,,525.0,321.0
+24124120,,683,216.0,672.0,,
+92101900,"The image shows the food category of coffee, Latte. Additional details include not specified subcategory as to regular or decaffeinated; 2% or whole milk; plain or unflavored.",684,335.0,887.0,1072.0,1003.0
+27445110,"The image shows the food category of chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce. Additional details include szechuan chicken; Hunan chicken.",685,512.0,566.0,1042.0,949.0
+61213800,"The image shows the food category of fruit juice blend, citrus, 100% juice. Additional details include with orange or grapefruit juices; Tropicana Tropics Juice Blends; Capri Sun 100% citrus blends; Snapple 100% Juiced.",686,592.0,790.0,731.0,768.0
+32130170,"The image shows the food category of egg omelet or scrambled egg, with cheese, no added fat.",687,694.0,550.0,647.0,1011.0
+52215300,"The image shows the food category of taco shell, corn. Additional details include corn tostada shell; fried corn tortilla.",688,1155.0,607.0,651.0,657.0
+95322200,"The image shows the food category of sports drink, low calorie (Gatorade G2). Additional details include all flavors.",689,3547.0,488.0,766.0,549.0
+92309510,"The image shows the food category of tea, iced, bottled, green, diet. Additional details include light, reduced calorie, or sugar free; can, carton, or fountain; white tea; herbal tea; green and fruit, herbal, or white tea blends; decaffeinated; Diet Snapple.",690,,621.0,555.0,553.0
+58100320,,691,497.0,700.0,774.0,1005.0
+91707010,,692,673.0,518.0,761.0,987.0
+27347100,"The image shows the food category of pot pie, chicken. Additional details include turkey; seafood; not specified subcategory as to meat.",693,898.0,788.0,542.0,706.0
+53244010,"The image shows the food category of cookie, butter or sugar, with chocolate icing or filling. Additional details include brussels Mint (Pepperidge Farm); Milano (Pepperidge Farm); Geneva (Pepperidge Farm); Keebler Fudge Stripes.",694,931.0,744.0,720.0,607.0
+32130490,"The image shows the food category of egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, fat added. Additional details include peppers, onions, and other vegetables; nonstick or cooking spray.",695,1027.0,572.0,619.0,812.0
+92301000,,696,164.0,,,
+58130011,The image shows the food category of lasagna with meat. Additional details include lasagna not further specified subcategory assigned.,697,279.0,834.0,1002.0,1881.0
+53520160,"The image shows the food category of doughnut, chocolate, with chocolate icing. Additional details include cake or yeast type; twist.",698,1078.0,487.0,906.0,676.0
+93301100,The image shows the food category of margarita. Additional details include margarita on the rocks.,699,1298.0,663.0,618.0,660.0
+27510330,,700,269.0,416.0,,
+51158100,"The image shows the food category of roll, Mexican, bolillo.",701,561.0,432.0,1702.0,997.0
+58126150,"The image shows the food category of turnover or hot pocket, pizza pocket, meat. Additional details include cheese.",702,575.0,910.0,769.0,762.0
+75105000,"The image shows the food category of cabbage, red, raw. Additional details include cabbage, not specified subcategory to color, in tossed green salad; purple cabbage.",703,585.0,661.0,776.0,971.0
+53116000,"The image shows the food category of cake, pound.",704,606.0,830.0,1090.0,641.0
+57304100,"The image shows the food category of cereal, oat squares. Additional details include life; Oatmeal Squares; Alpha-Bits.",705,668.0,591.0,782.0,921.0
+13130300,"The image shows the food category of light ice cream, vanilla. Additional details include other flavors; swirl; ice cream with sorbet or sherbet; fat or sugar free; reduced fat or sugar; in a cup; scoop.",706,670.0,745.0,861.0,697.0
+61210010,"The image shows the food category of orange juice, 100%,  freshly squeezed.",707,678.0,697.0,660.0,880.0
+53239000,"The image shows the food category of cookie, shortbread. Additional details include lorna Doone; Pecan Sandies; Greek cookies; Girl Scout Trefoils.",708,764.0,656.0,813.0,724.0
+32130120,"The image shows the food category of egg omelet or scrambled egg, with cheese, made with butter.",709,853.0,845.0,698.0,622.0
+27564180,"The image shows the food category of hot dog sandwich, meat and poultry, on white bun. Additional details include regular; pork.",710,984.0,1054.0,950.0,449.0
+32130400,"The image shows the food category of egg omelet or scrambled egg, with tomatoes, fat added. Additional details include peppers, onions, and other vegetables; nonstick or cooking spray.",711,1069.0,649.0,723.0,658.0
+42104100,"The image shows the food category of cashews, salted. Additional details include not specified subcategory as to salt; plain; roasted; not coated; sea salt.",712,2885.0,1248.0,576.0,425.0
+71200400,"The image shows the food category of potato chips, baked, plain. Additional details include salted; original; any cut; baked kettle chips; potato crisps.",713,,,319.0,478.0
+73403010,"The image shows the food category of sweet potato, baked, no added fat. Additional details include yam.",714,648.0,739.0,812.0,751.0
+25230220,"The image shows the food category of ham, prepackaged or deli, luncheon meat, reduced sodium. Additional details include low salt boiled ham; lightly salted; unsalted; no salt added; all fat levels - regular, reduced fat, low fat, or fat free; lean or extra lean.",715,783.0,618.0,751.0,828.0
+14204010,"The image shows the food category of cheese, cottage, low fat. Additional details include 1-2% fat.",716,1003.0,714.0,486.0,897.0
+58100000,,717,1021.0,508.0,431.0,1478.0
+54402080,"The image shows the food category of tortilla chips, reduced sodium. Additional details include all flavors; unsalted.",718,1965.0,3014.0,494.0,402.0
+71403020,"The image shows the food category of potato, home fries, not further specified subcategory assigned.",719,,,390.0,406.0
+51184030,,720,317.0,336.0,,
+28500070,,721,447.0,381.0,825.0,
+42202150,"The image shows the food category of peanut butter, reduced fat. Additional details include peanut butter having 25%-49% less fat than regular peanut butter.",722,541.0,438.0,1343.0,1178.0
+57348000,"The image shows the food category of cereal, corn flakes, flavored. Additional details include frosted flakes; Zucaritas.",723,1101.0,1913.0,1847.0,317.0
+27111406,"The image shows the food category of chili con carne with beans, home recipe.",724,,451.0,665.0,661.0
+67202000,"The image shows the food category of baby Toddler juice, apple. Additional details include apple juice blends.",725,514.0,537.0,851.0,1526.0
+91703010,,726,515.0,847.0,580.0,1282.0
+58148110,"The image shows the food category of macaroni or pasta salad, made with mayonnaise. Additional details include made with assorted vegetables; Betty Crocker Suddenly Salad; not specified subcategory as to type of dressing.",727,617.0,715.0,937.0,784.0
+58110130,"The image shows the food category of egg roll, with beef and/or pork. Additional details include chinese roll; spring roll; egg roll, not further specified subcategory assigned; lumpia.",728,660.0,796.0,814.0,746.0
+93501000,The image shows the food category of brandy. Additional details include applejack; cognac; Hennessy; straight up or on the rocks.,729,689.0,851.0,837.0,696.0
+63131010,"The image shows the food category of nectarine, raw.",730,747.0,725.0,947.0,694.0
+26158030,"The image shows the food category of fish, tilapia, fried.",731,766.0,720.0,692.0,811.0
+11513550,"The image shows the food category of chocolate milk, made from syrup with reduced fat milk. Additional details include nesquik; Hershey's; 2% fat.",732,833.0,580.0,1062.0,707.0
+54403110,"The image shows the food category of popcorn, caramel coated. Additional details include popcorn balls; sugar-coated.",733,834.0,734.0,894.0,646.0
+73406000,"The image shows the food category of sweet potato, candied. Additional details include yam.",734,949.0,688.0,616.0,804.0
+42114140,"The image shows the food category of pistachio nuts, salted. Additional details include not specified subcategory as to salt; sea salt.",735,,631.0,760.0,511.0
+71200300,"The image shows the food category of potato chips, restructured, plain. Additional details include pringles Original; potato crisps; salted; original; potato skin chips.",736,,,336.0,475.0
+42112000,"The image shows the food category of pecans, not further specified subcategory assigned.",737,556.0,443.0,1735.0,1086.0
+91726130,,738,851.0,756.0,608.0,809.0
+92308010,"The image shows the food category of tea, iced, brewed, black, pre-sweetened with low calorie sweetener. Additional details include leaf, baf, or vending; black and fruit, green, herbal, white, or other tea blends; not specified subcategory as to regular or decaffeinated; not specified subcategory as to type of tea.",739,,318.0,678.0,1063.0
+24198735,"The image shows the food category of chicken nuggets, from school lunch.",740,,519.0,526.0,714.0
+61207000,"The image shows the food category of lime juice, 100%, not specified subcategory as to form.",741,591.0,689.0,1076.0,833.0
+14131500,The image shows the food category of queso Asadero. Additional details include oaxacan-style string cheese.,742,722.0,589.0,586.0,1331.0
+58145170,The image shows the food category of macaroni or noodles with cheese and egg.,743,760.0,728.0,1089.0,667.0
+11710967,"The image shows the food category of infant formula, store brand, advantage or tender, powder, made with tap water. Additional details include kirkland, Member's Mark, Parent's Choice, Up&Up; Supplementation.",744,1464.0,485.0,601.0,946.0
+24147210,,745,231.0,779.0,,
+71201100,,746,325.0,350.0,,
+58101347,,747,615.0,742.0,658.0,1084.0
+11513500,"The image shows the food category of chocolate milk, made from syrup with whole milk. Additional details include nesquik; Hershey's.",748,703.0,898.0,872.0,662.0
+54001000,"The image shows the food category of crackers, not further specified subcategory assigned. Additional details include not specified subcategory as to kind, type, or brand.",749,710.0,821.0,707.0,825.0
+75141000,The image shows the food category of coleslaw. Additional details include not further specified subcategory assigned.,750,794.0,952.0,1245.0,534.0
+63201010,"The image shows the food category of blackberries, raw. Additional details include boysenberries; dewberries; loganberries; youngberries; blackberries, not further specified subcategory assigned.",751,936.0,863.0,701.0,653.0
+54403050,,752,460.0,286.0,,
+42100050,"The image shows the food category of nuts, not further specified subcategory assigned.",753,1125.0,868.0,767.0,577.0
+11434020,"The image shows the food category of yogurt, Greek, nonfat milk, fruit. Additional details include 0% fat; fat free; light; light, not further specified subcategory assigned.",754,,791.0,734.0,481.0
+51121035,"The image shows the food category of garlic bread, from frozen. Additional details include homemade; school cafeteria (K-12); garlic toast; Texas toast; made from all bread types.",755,,,440.0,424.0
+54401031,"The image shows the food category of corn chips, plain (Fritos). Additional details include original; scoops; Fritos, not further specified subcategory assigned.",756,,,464.0,404.0
+54401055,"The image shows the food category of cheese flavored corn snacks. Additional details include corn-cheese puffs, curls, or twists; all flavors; Cheez Doodles; puffed corn; corn puffs, not further specified subcategory assigned.",757,,,620.0,357.0
+52104010,"The image shows the food category of biscuit, home recipe. Additional details include regular; plain; buttermilk; dry mix.",758,477.0,955.0,820.0,986.0
+54402700,The image shows the food category of pita chips. Additional details include all flavors; salted; pita crackers; Stacy's Pita Chips; multigrain; plain.,759,614.0,786.0,737.0,955.0
+92121010,"The image shows the food category of coffee, instant, pre-sweetened with sugar, reconstituted. Additional details include powdered mix; not specified subcategory as to sweetener.",760,1793.0,651.0,613.0,721.0
+27510510,,761,293.0,420.0,,
+26305160,The image shows the food category of crab.,762,602.0,1190.0,1026.0,640.0
+41601070,"The image shows the food category of soybean soup, miso broth. Additional details include bean curd soup; tofu soup.",763,627.0,762.0,841.0,945.0
+24207000,"The image shows the food category of turkey, ground.",764,641.0,534.0,1080.0,1096.0
+58103120,"The image shows the food category of tamale, beef. Additional details include steak.",765,827.0,664.0,502.0,1309.0
+27540150,,766,871.0,419.0,435.0,
+11114350,"The image shows the food category of milk, lactose free, whole. Additional details include lactaid whole milk; lactose reduced.",767,932.0,915.0,1102.0,544.0
+54401065,"The image shows the food category of cheese flavored corn snacks, reduced fat. Additional details include all flavors; baked; low fat corn cheese puffs, curls, or twists; reduced fat; light; Cheetos Oven Baked; Cheetos Puff Reduced Fat; Pirate's Booty; Smartfood; puffed corn.",768,,,654.0,351.0
+91746300,"The image shows the food category of candy, fruit snacks. Additional details include tamarind candy.",769,,,,246.0
+75502520,The image shows the food category of kimchi. Additional details include kim Chee.,770,577.0,683.0,945.0,1122.0
+58110110,"The image shows the food category of egg roll, meatless. Additional details include chinese roll; spring roll; lumpia; vegetable or vegetarian egg roll.",771,692.0,775.0,888.0,810.0
+75107000,"The image shows the food category of cauliflower, raw.",772,754.0,929.0,699.0,766.0
+12120110,"The image shows the food category of cream, half and half, fat free. Additional details include low fat; plain or flavored.",773,786.0,776.0,725.0,854.0
+91703040,,774,837.0,777.0,577.0,989.0
+58101450,,775,911.0,628.0,672.0,1017.0
+14107200,"The image shows the food category of cheese, Muenster.",776,930.0,638.0,600.0,1136.0
+11710677,"The image shows the food category of infant formula, Enfamil Gentlease, powder, made with tap water. Additional details include enfamil varieties NeuroPro Gentlease, Premium Gentlease.",777,1045.0,364.0,1281.0,1066.0
+58103130,"The image shows the food category of tamale, chicken. Additional details include turkey; fish or shrimp.",778,1362.0,798.0,355.0,1188.0
+24198747,"The image shows the food category of chicken tenders or strips, breaded, from other sources. Additional details include chicken fingers; from other place; homemade; popcorn chicken.",779,,,353.0,521.0
+54403006,"The image shows the food category of popcorn, movie theater, no butter added. Additional details include not specified subcategory as to added butter.",780,,,420.0,464.0
+24168001,"The image shows the food category of chicken ""wings"" with other sauces or seasoning, from fast food / restaurant. Additional details include drummette; with any sauce, excluding hot or buffalo; include barbecue, BBQ,  teriyaki, sweet and sour, parmesan; any seasoning; wingster.",781,,,689.0,342.0
+54402600,,782,299.0,426.0,,
+42111000,"The image shows the food category of peanuts, not further specified subcategory assigned.",783,373.0,891.0,1214.0,1184.0
+64100100,"The image shows the food category of fruit juice, not further specified subcategory assigned. Additional details include juice, not further specified subcategory assigned.",784,588.0,966.0,705.0,975.0
+81103090,"The image shows the food category of butter replacement, liquid. Additional details include liquid margarine; spray.",785,832.0,581.0,801.0,1006.0
+71501006,"The image shows the food category of potato, mashed, from fast food, with gravy.",786,,,383.0,492.0
+94000010,"The image shows the food category of water, not further specified subcategory assigned.",787,,,,252.0
+72201190,"The image shows the food category of broccoli, cooked, from restaurant.",788,,,,253.0
+21420100,"The image shows the food category of beef, sandwich steak.",789,487.0,736.0,763.0,1700.0
+27415100,"The image shows the food category of beef and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce.",790,581.0,967.0,750.0,950.0
+22101320,"The image shows the food category of pork, chop, coated, lean only eaten.",791,634.0,841.0,934.0,821.0
+11710801,"The image shows the food category of toddler formula, PediaSure. Additional details include pediaSure varieties Grow and Gain, with Fiber, Sidekicks.",792,906.0,704.0,864.0,782.0
+74406500,The image shows the food category of cocktail sauce.,793,973.0,614.0,954.0,790.0
+63311110,"The image shows the food category of fruit cocktail, canned, not further specified subcategory assigned. Additional details include canned fruit, not further specified subcategory assigned; fruit cocktail, not further specified subcategory assigned; canned fruit salad.",794,1064.0,941.0,1231.0,514.0
+11460000,"The image shows the food category of frozen yogurt, vanilla. Additional details include other flavors; swirl; in a cup; scoop.",795,1149.0,600.0,922.0,756.0
+12210260,"The image shows the food category of coffee creamer, liquid, fat free. Additional details include low fat; light; lite; Coffee Mate; Carnation; Coffee Rich; Dunkin Donuts; International Delight; plain.",796,1479.0,1049.0,539.0,654.0
+41205017,"The image shows the food category of refried beans, from fast food / restaurant.",797,,641.0,625.0,669.0
+64134015,"The image shows the food category of fruit smoothie, with whole fruit, no dairy.",798,,866.0,570.0,578.0
+63311000,"The image shows the food category of fruit salad, fresh or raw,  excluding citrus fruits, no dressing. Additional details include without oranges, grapefruit, tangerines, clementines or other citrus fruits; fruit salad, not further specified subcategory assigned; with nuts; fruit mix, raw; without oranges, grapefruit, tangerines, clementines, or other citrus fruit.",799,424.0,810.0,953.0,1431.0
+75415020,,800,438.0,612.0,690.0,
+91703020,,801,731.0,757.0,571.0,1315.0
+11710968,"The image shows the food category of infant formula, store brand, advantage or tender, powder, made with bottled water. Additional details include kirkland, Member's Mark, Parent's Choice, Up&Up; Supplementation.",802,1181.0,666.0,708.0,856.0
+14120010,"The image shows the food category of cheese, Mexican blend. Additional details include kraft Mexican Four Cheese; Sargento Mexican 4 Cheese.",803,1332.0,1148.0,522.0,677.0
+13110120,,804,576.0,583.0,564.0,
+56203211,,805,347.0,404.0,,
+58106235,"The image shows the food category of pizza, cheese, from school lunch, thin crust. Additional details include not specified subcategory as to toppings; flatbread crust.",806,442.0,535.0,1656.0,1735.0
+14303010,"The image shows the food category of cream cheese, light. Additional details include neufchatel; reduced fat; 1/3 less fat; plain or flavored.",807,470.0,975.0,925.0,1124.0
+27116200,"The image shows the food category of barbecue beef, with sauce. Additional details include bbq; shredded or pulled; not specified subcategory as to sauce.",808,607.0,857.0,476.0,2068.0
+91304010,"The image shows the food category of topping, butterscotch or caramel. Additional details include flavors other than chocolate.",809,676.0,1046.0,1003.0,710.0
+56205006,"The image shows the food category of rice, white, cooked, made with margarine. Additional details include made with shortening; basmati or jasmine rice.",810,706.0,902.0,1186.0,711.0
+58148180,The image shows the food category of macaroni or pasta salad with cheese. Additional details include made with assorted vegetables and any dressing.,811,1002.0,853.0,1038.0,627.0
+22701000,"The image shows the food category of pork, ribs. Additional details include spareribs; baby back; barbecue; with or without sauce.",812,2851.0,3034.0,2807.0,286.0
+63409015,The image shows the food category of guacamole with tomatoes. Additional details include avocado dip with tomatoes.,813,,,532.0,422.0
+24167130,,814,304.0,489.0,,
+24142210,,815,330.0,422.0,,
+91300010,"The image shows the food category of syrup, not further specified subcategory assigned.",816,580.0,882.0,1274.0,836.0
+58161320,"The image shows the food category of beans and brown rice. Additional details include lentils; peas; all other beans except red, black, or pinto.",817,652.0,575.0,669.0,2204.0
+92550620,"The image shows the food category of fruit flavored drink, diet. Additional details include crystal Light; Minute Maid Light lemonade and other fruit flavored drinks; low calorie.",818,696.0,751.0,911.0,932.0
+57117000,,819,752.0,587.0,992.0,1080.0
+92305090,"The image shows the food category of tea, iced, instant, black, pre-sweetened with low calorie sweetener. Additional details include powdered mix; liquid concentrate; black and fruit, green, herbal, white, or other tea blends; not specified subcategory as to type of tea; light, reduced calorie, diet, sugar free.",820,501.0,735.0,1173.0,1277.0
+58106720,"The image shows the food category of pizza with meat and vegetables, from restaurant or fast food, thin crust. Additional details include with one, two, or three meat  and vegetable toppings; all meat, poultry, and seafood toppings including pepperoni; flatbread crust; from street vendor.",821,816.0,869.0,657.0,970.0
+54304150,"The image shows the food category of crackers, cheese, whole grain. Additional details include cheez-It Whole Grain Crackers; Kashi Cheese Crackers; Whole Grain Cheddar Goldfish; Annie's Whole Wheat Bunnies.",822,824.0,828.0,822.0,827.0
+51320070,"The image shows the food category of roll, wheat or cracked wheat, hamburger bun.",823,,319.0,552.0,2627.0
+75205005,"The image shows the food category of green beans, cooked, from restaurant. Additional details include string beans.",824,,,,269.0
+53105275,"The image shows the food category of cake or cupcake, chocolate, no icing. Additional details include not specified subcategory as to icing.",825,725.0,722.0,905.0,1035.0
+75211020,"The image shows the food category of cabbage, green, cooked, no added fat. Additional details include not specified subcategory as to color; cooking spray.",826,995.0,872.0,743.0,791.0
+53220030,"The image shows the food category of cookie, fig bar. Additional details include fig Newton; Little Debbie Fig Bars; Newton Minis; date bar.",827,1093.0,844.0,1115.0,615.0
+58105000,"The image shows the food category of fajita, chicken. Additional details include turkey; cheese.",828,1130.0,703.0,612.0,1058.0
+56203020,,829,342.0,445.0,,
+12110100,"The image shows the food category of cream, light. Additional details include coffee cream; table cream.",830,624.0,599.0,1099.0,1394.0
+25210280,"The image shows the food category of hot dog, meat and poultry. Additional details include regular; pork.",831,849.0,864.0,1156.0,681.0
+56112000,"The image shows the food category of noodles, cooked. Additional details include pastina; egg noodles; not specified subcategory as to grain type.",832,938.0,926.0,730.0,803.0
+71501005,"The image shows the food category of potato, mashed, from fast food.",833,,237.0,1745.0,1957.0
+78101100,"The image shows the food category of fruit and vegetable smoothie, with dairy.",834,,507.0,481.0,1246.0
+71508001,"The image shows the food category of potato, baked, peel eaten.",835,,,516.0,462.0
+72201221,"The image shows the food category of broccoli, fresh, cooked, fat added, not specified subcategory as to fat type. Additional details include not specified subcategory as to fat added.",836,467.0,,2860.0,567.0
+92530950,"The image shows the food category of vegetable and fruit juice drink, with high vitamin C. Additional details include v8 Splash, all flavors.",837,596.0,1139.0,742.0,1018.0
+27243000,"The image shows the food category of chicken or turkey and rice, no sauce.",838,629.0,738.0,1415.0,928.0
+57335550,,839,700.0,949.0,903.0,881.0
+53242000,"The image shows the food category of cookie, sugar wafer. Additional details include vanilla cream wafers; strawberry cream wafers; chocolate cream wafers; all flavors.",840,878.0,753.0,1008.0,829.0
+11542100,"The image shows the food category of milk shake, fast food, chocolate. Additional details include burger King; Dairy Queen; McDonald's; Wendy's Frosty Shakes; Jack in the Box; Arby's; Dunkin Donuts; Sonic; from other place.",841,1134.0,675.0,909.0,806.0
+71505000,"The image shows the food category of potato tots, not further specified subcategory assigned. Additional details include tater tots; potato puffs.",842,411.0,439.0,3354.0,3390.0
+71103000,"The image shows the food category of potato, boiled, from fresh, peel not eaten, not specified subcategory as to fat. Additional details include steamer bags; steamed potato not specified subcategory as to plain or flavored; not specified subcategory as to peel eaten.",843,449.0,376.0,3997.0,3499.0
+53710400,The image shows the food category of cereal or granola bar (General Mills Fiber One Chewy Bar). Additional details include all flavors.,844,569.0,549.0,1379.0,1616.0
+11220000,"The image shows the food category of milk, condensed, sweetened.",845,635.0,1299.0,630.0,1112.0
+13150000,"The image shows the food category of sherbet, all flavors. Additional details include sherbet push pop.",846,821.0,1014.0,638.0,1024.0
+92410720,"The image shows the food category of soft drink, root beer, diet. Additional details include sugar free.",847,822.0,726.0,800.0,1121.0
+58101610,,848,1208.0,881.0,425.0,1314.0
+75415022,The image shows the food category of fried onion rings. Additional details include battered or breaded.,849,3525.0,900.0,2114.0,403.0
+11561000,,850,205.0,,,
+58163430,"The image shows the food category of spanish rice, not specified subcategory as to fat. Additional details include mexican rice; red rice; white rice with tomatoes and/or tomato-based sauce, green peppers and onions; homemade; Spanish rice, not further specified subcategory assigned.",851,446.0,884.0,1150.0,1420.0
+58421020,"The image shows the food category of sopa de Fideo Aguada, Mexican style noodle soup, home recipe.",852,494.0,970.0,1313.0,1045.0
+21105130,,853,896.0,750.0,540.0,1604.0
+55103000,"The image shows the food category of pancakes, fruit. Additional details include blueberry; raisin; hot cakes.",854,555.0,764.0,1318.0,1224.0
+28310330,The image shows the food category of pho. Additional details include beef; chicken; Pho Bo; Pho Ga; Vietnamese; Meat and rice noodle soup.,855,594.0,1439.0,712.0,1102.0
+57347000,"The image shows the food category of cereal, flavored puffs. Additional details include corn Pops; Golden Puffs; Honeycomb; Honey Smacks; Trix.",856,714.0,1000.0,1180.0,792.0
+51301040,"The image shows the food category of bread, wheat or cracked wheat, made from home recipe or purchased at bakery. Additional details include not pre-sliced.",857,800.0,679.0,1082.0,1055.0
+71404030,"The image shows the food category of potato, hash brown, from restaurant.",858,,,456.0,542.0
+63135150,,859,533.0,669.0,686.0,
+58106570,"The image shows the food category of pizza with pepperoni, from school lunch, thin crust. Additional details include flatbread crust.",860,552.0,538.0,1744.0,1757.0
+58101325,,861,717.0,877.0,856.0,1061.0
+63219020,,862,809.0,577.0,511.0,
+92582110,"The image shows the food category of fruit juice drink, added calcium (Sunny D). Additional details include sunny Delight Calcium fruit juice drink, all flavors.",863,1061.0,886.0,759.0,862.0
+53720200,The image shows the food category of nutrition bar (Clif Bar). Additional details include all flavors; Clif Minis.,864,1320.0,833.0,1056.0,682.0
+21101000,"The image shows the food category of beef, steak, not further specified subcategory assigned.",865,1912.0,1556.0,1865.0,397.0
+71602950,"The image shows the food category of potato salad, from restaurant. Additional details include fast food / other place.",866,,706.0,702.0,716.0
+24127150,,867,312.0,608.0,,
+75649110,"The image shows the food category of vegetable soup, home recipe.",868,790.0,1067.0,758.0,947.0
+28500000,"The image shows the food category of gravy, poultry. Additional details include chicken; turkey; giblet.",869,792.0,520.0,1651.0,1146.0
+13120050,"The image shows the food category of ice cream bar, vanilla. Additional details include stick; other flavors; coatings other than chocolate.",870,798.0,1188.0,710.0,941.0
+92101950,"The image shows the food category of coffee, Cafe Mocha. Additional details include mocha latte; 2% or whole milk; chocolate flavored; not specified subcategory as to regular or decaffeinated.",871,427.0,948.0,1621.0,1351.0
+58147330,"The image shows the food category of macaroni or noodles, creamed, with cheese.",872,503.0,359.0,,4575.0
+13130700,"The image shows the food category of soft serve, blended with candy or cookies, from fast food. Additional details include all flavors; McDonald's McFlurry; Dairy Queen Blizzard.",873,587.0,1343.0,1194.0,866.0
+83300300,,874,663.0,646.0,886.0,1944.0
+41106020,"The image shows the food category of kidney beans, from dried, no added fat. Additional details include red; frozen.",875,736.0,787.0,659.0,1641.0
+27540350,,876,770.0,870.0,754.0,1192.0
+58106325,"The image shows the food category of pizza, cheese, with vegetables, from restaurant or fast food, medium crust. Additional details include with one or two vegetable toppings; original, hand-tossed, or not specified subcategory as to type of crust; from street vendor.",877,845.0,954.0,878.0,871.0
+25210110,"The image shows the food category of hot dog, not further specified subcategory assigned.",878,621.0,1196.0,891.0,1028.0
+91501020,The image shows the food category of gelatin dessert with fruit. Additional details include jello.,879,632.0,838.0,816.0,1425.0
+27510631,"The image shows the food category of hamburger, on white bun, 1 medium patty. Additional details include homemade; bun, not further specified subcategory assigned; white and other bread such as potato, Italian, and rye; bread, nfs; quarter pound patty.",880,,,818.0,405.0
+24147230,,881,414.0,447.0,,
+58101620,,882,741.0,943.0,535.0,2000.0
+53347000,"The image shows the food category of pie, pumpkin.",883,784.0,993.0,716.0,1110.0
+52302500,"The image shows the food category of muffin, chocolate chip.",884,918.0,1065.0,977.0,778.0
+58105050,"The image shows the food category of fajita, beef or pork. Additional details include steak; carnita, chorizo or sausage; cheese.",885,993.0,956.0,537.0,1363.0
+27111420,"The image shows the food category of chili con carne without beans. Additional details include coney island sauce; chili served on hot dogs, hamburgers or french fries.",886,1024.0,644.0,1057.0,1059.0
+14104200,"The image shows the food category of cheese, Colby.",887,1217.0,908.0,675.0,940.0
+92309020,"The image shows the food category of tea, iced, bottled, black, diet. Additional details include light, reduced calorie, or sugar free; can, carton, or fountain; black and fruit, green, herbal, white, or other tea blends; not specified subcategory as to type of tea; Diet Snapple Tea, all flavors.",888,,398.0,829.0,1221.0
+54406010,The image shows the food category of onion flavored rings. Additional details include all flavors; Funyuns.,889,,3519.0,465.0,617.0
+24162110,,890,348.0,574.0,,
+57126000,"The image shows the food category of cereal, chocolate crispy. Additional details include cocoa Krispies; Cocoa Pebbles.",891,801.0,913.0,1077.0,902.0
+53610100,"The image shows the food category of coffee cake, crumb or quick-bread type. Additional details include cinnamon cake; Drake's Coffee Cakes; made from Bisquick; with icing; with nuts; Tastykake Koffee Kake Juniors; Hostess 100 calorie cinnamon coffee cakes; coffee cake, not further specified subcategory assigned.",892,836.0,806.0,969.0,1049.0
+63203600,"The image shows the food category of blueberries, frozen.",893,903.0,812.0,913.0,981.0
+75511040,"The image shows the food category of pepper, hot, pickled. Additional details include pickled jalapeno pepper.",894,910.0,854.0,1064.0,898.0
+11511300,"The image shows the food category of chocolate milk, ready to drink, fat free. Additional details include nonfat milk; skim.",895,914.0,1125.0,866.0,855.0
+78101000,"The image shows the food category of vegetable and fruit juice, 100% juice, with high vitamin C. Additional details include v8 V-Fusion, all flavors; Ocean Spray 100% Fruit and Veggie Juice, all flavors; Apple and Eve Fruitables.",896,968.0,637.0,1144.0,1135.0
+21102120,,897,1070.0,809.0,733.0,1067.0
+95230000,"The image shows the food category of nutritional powder mix, whey based, not further specified subcategory assigned. Additional details include protein shake mix; brands such as Gold Standard, NOW Foods.",898,1126.0,670.0,959.0,974.0
+12220200,"The image shows the food category of whipped topping. Additional details include cool Whip; non-dairy; plain or flavored; frozen; Rich's Richwhip; Dream Whip; whipped topping, not further specified subcategory assigned.",899,1310.0,1350.0,544.0,882.0
+58130016,"The image shows the food category of lasagna with meat, frozen.",900,,698.0,917.0,699.0
+71501017,"The image shows the food category of potato, mashed, from restaurant, with gravy.",901,,,606.0,503.0
+75215990,"The image shows the food category of corn, cooked, from restaurant.",902,,,,303.0
+89901040,"The image shows the food category of soy based sauce, for use with vegetables.",903,,,,309.0
+11553000,,904,224.0,,,
+27111410,"The image shows the food category of chili con carne with beans. Additional details include kidney beans and hamburger with tomato sauce; chili, not further specified subcategory assigned.",905,258.0,1329.0,4083.0,4835.0
+24122110,,906,365.0,554.0,,
+56203213,,907,472.0,402.0,,
+83204050,"The image shows the food category of mayonnaise-type salad dressing, light. Additional details include miracle Whip Light; diet, low calorie, low fat, reduced calorie, or reduced fat; Hellmann's Dijonnaise.",908,664.0,676.0,683.0,4305.0
+32400080,"The image shows the food category of egg white omelet, scrambled, or fried, no added fat.",909,748.0,594.0,1502.0,1382.0
+14420200,"The image shows the food category of cheese spread, cream cheese, regular. Additional details include olive; pimiento; onion; clam; roka; relish; Rondele Cheese Spread; smoked salmon; fruit flavors.",910,817.0,771.0,696.0,1625.0
+42111500,"The image shows the food category of peanuts, honey roasted. Additional details include beer nuts; candy or sugar coated.",911,977.0,937.0,779.0,978.0
+92307500,"The image shows the food category of iced Tea / Lemonade juice drink. Additional details include half and half beverage, all flavors; Arizona Half & Half; Arnold Palmer Half & Half.",912,1397.0,1317.0,927.0,616.0
+92308500,"The image shows the food category of tea, iced, brewed, green, pre-sweetened with sugar. Additional details include leaf, bag, or vending; white tea; herbal tea; green and fruit, herbal, or white tea blends; not specified subcategory as to regular or decaffeinated; not specified subcategory as to sweetener.",913,,667.0,588.0,1056.0
+71600950,"The image shows the food category of potato salad with egg, from restaurant. Additional details include fast food / other place.",914,,933.0,847.0,613.0
+51184210,"The image shows the food category of breadsticks, soft, fast food / restaurant. Additional details include garlic knot, not further specified subcategory assigned; other place.",915,,,378.0,703.0
+24142220,,916,402.0,502.0,,
+67105030,"The image shows the food category of baby Toddler bananas, Stage 1.",917,653.0,1018.0,967.0,1167.0
+32400065,"The image shows the food category of egg white omelet, scrambled, or fried, made with oil.",918,691.0,805.0,1043.0,1267.0
+13411000,The image shows the food category of white sauce or gravy.,919,868.0,815.0,987.0,1064.0
+14101010,"The image shows the food category of cheese, Blue or Roquefort. Additional details include gorgonzola; Stilton.",920,870.0,718.0,1378.0,990.0
+28315150,"The image shows the food category of meat and corn hominy soup, home recipe, Mexican style. Additional details include made with pork and beef; Pozole.",921,1019.0,793.0,1244.0,848.0
+75307000,"The image shows the food category of peppers and onions, cooked, fat added. Additional details include not specified subcategory as to fat added; from restaurant.",922,1201.0,3548.0,2592.0,412.0
+27520220,"The image shows the food category of ham sandwich on white, with cheese. Additional details include bread, bun or roll.",923,,,,316.0
+27146000,,924,408.0,506.0,,
+58147310,,925,493.0,408.0,,
+58106320,"The image shows the food category of pizza, cheese, with vegetables, from restaurant or fast food, thin crust. Additional details include with one or two vegetable toppings; flatbread crust; from street vendor.",926,823.0,883.0,1128.0,999.0
+54328200,"The image shows the food category of crackers, sandwich, cheese filled. Additional details include butter crackers; rye crackers; wheat crackers; Austin; Keebler; Lance; Munchies Cheese on Toast; Nabs Cheese Sandwiches; cheese sandwich crackers, not further specified subcategory assigned; Combos; Austin; Keebler; Munchies Cheese on Cheese.",927,826.0,1122.0,729.0,1104.0
+13130620,,928,860.0,565.0,642.0,
+58160700,"The image shows the food category of rice, white, with other vegetables, not specified subcategory as to fat. Additional details include other vegetables such as mushrooms, peppers, and/or onions.",929,915.0,551.0,1005.0,1699.0
+12100100,"The image shows the food category of cream, not specified subcategory as to light, heavy, or half and half.",930,1312.0,824.0,914.0,857.0
+11710637,"The image shows the food category of infant formula, Enfamil Infant, powder, made with tap water. Additional details include enfamil varieties NeuroPro Infant, Premium Infant, Enspire, Reguline.",931,,470.0,637.0,1619.0
+92171000,"The image shows the food category of coffee, bottled/canned. Additional details include not specified subcategory as to brand or variety; from carton; all flavors; all brands; all varieties.",932,,932.0,860.0,633.0
+27260010,"The image shows the food category of meat loaf, not specified subcategory as to type of meat. Additional details include meatball, not specified subcategory as to type of meat, with breading, no sauce.",933,659.0,719.0,1564.0,1346.0
+63200100,"The image shows the food category of berries, not further specified subcategory assigned. Additional details include berries, frozen; mixed berries.",934,780.0,1297.0,1688.0,708.0
+52215000,"The image shows the food category of tortilla, not further specified subcategory assigned.",935,900.0,747.0,990.0,1141.0
+91200000,"The image shows the food category of sugar substitute, powder, not further specified subcategory assigned.",936,1136.0,413.0,1571.0,1489.0
+57221700,"The image shows the food category of cereal, fruit rings. Additional details include froot Loops; Apple Jacks.",937,3355.0,,3058.0,344.0
+81104510,"The image shows the food category of butter-oil blend, tub. Additional details include individual container.",938,,4008.0,4051.0,325.0
+54103000,"The image shows the food category of crackers, breakfast biscuit. Additional details include belVita, all flavors; Belvita Soft Baked.",939,,,1063.0,408.0
+41304990,"The image shows the food category of lentils, from dried, fat added. Additional details include not specified subcategory as to fat; not specified subcategory as to meat; frozen.",940,369.0,3830.0,,891.0
+58407010,"The image shows the food category of instant soup, noodle. Additional details include meat and/or vegetable flavors; Nutri-System Chicken Noodle Soup; instant soup, not further specified subcategory assigned; Campbell's dry soups.",941,646.0,1099.0,1109.0,1093.0
+58104740,"The image shows the food category of quesadilla, chicken. Additional details include turkey; fish or shrimp; cheese.",942,988.0,1145.0,1247.0,744.0
+53235500,"The image shows the food category of cookie, with peanut butter filling, chocolate-coated. Additional details include girl Scout Tagalong Peanut Butter Patty; Little Debbie Nutty Bar; Lance Peanut Butter Creme Filled Wafer.",943,1008.0,988.0,1142.0,819.0
+58106738,"The image shows the food category of pizza with extra meat and extra vegetables, medium crust. Additional details include with two or more meat and two or more vegetable toppings; supreme pizza; all meat, poultry, and seafood toppings including pepperoni; original, hand-tossed, or not specified subcategory as to type of crust.",944,1451.0,950.0,811.0,876.0
+91745025,"The image shows the food category of candy, hard. Additional details include butterscotch; candy cane; Jolly Rancher; Life Savers.",945,,,,324.0
+21501200,,946,491.0,434.0,,
+75649010,"The image shows the food category of vegetable soup, canned, prepared with water or ready-to-serve. Additional details include vegetable soup, not further specified subcategory assigned.",947,707.0,1093.0,1357.0,944.0
+27111500,"The image shows the food category of sloppy joe, no bun. Additional details include manwich.",948,901.0,709.0,1175.0,1183.0
+91705200,"The image shows the food category of chocolate chips. Additional details include baking chips, all varieties.",949,1352.0,1050.0,738.0,877.0
+72119190,"The image shows the food category of kale, raw.",950,,,412.0,735.0
+58106512,"The image shows the food category of pizza with pepperoni, from frozen, thin crust. Additional details include flatbread crust; homemade or ready to bake pizza.",951,,,520.0,614.0
+11436000,"The image shows the food category of yogurt, liquid. Additional details include all types and flavors.",952,,,899.0,455.0
+75205031,"The image shows the food category of green beans, fresh, cooked, fat added, not specified subcategory as to fat type. Additional details include italian beans; not specified subcategory as to fat added; string; pole; snap; french cut.",953,428.0,4367.0,4863.0,807.0
+54401100,,954,508.0,449.0,,
+71405000,,955,516.0,442.0,,
+75226020,"The image shows the food category of peppers, green, cooked. Additional details include not specified subcategory as to color; with or without fat.",956,661.0,2882.0,,584.0
+58126130,"The image shows the food category of turnover or hot pocket, ham. Additional details include pork; vegetables; cheese.",957,709.0,1102.0,1138.0,1085.0
+24143220,"The image shows the food category of chicken drumstick, stewed, skin not eaten. Additional details include braised; any source.",958,729.0,1027.0,943.0,1268.0
+75224023,"The image shows the food category of green peas, canned, cooked, no added fat. Additional details include english peas; cooking spray.",959,751.0,1146.0,717.0,1408.0
+51108100,"The image shows the food category of bread, naan. Additional details include indian nan bread.",960,935.0,1080.0,1075.0,859.0
+75311012,"The image shows the food category of classic mixed vegetables, frozen, cooked, no added fat. Additional details include corn, carrots, peas, green beans, and lima beans; cooking spray.",961,992.0,843.0,930.0,1118.0
+92550040,"The image shows the food category of fruit juice drink, diet. Additional details include diet Snapple juice drinks, all flavors.",962,368.0,1239.0,2417.0,1927.0
+12350000,,963,484.0,481.0,,
+93504000,The image shows the food category of rum. Additional details include straight up or on the rocks.,964,507.0,1543.0,1480.0,1155.0
+81103040,"The image shows the food category of margarine-oil blend, stick. Additional details include pat.",965,590.0,741.0,842.0,
+75216000,,966,601.0,752.0,783.0,
+56205130,"The image shows the food category of yellow rice, cooked, not specified subcategory as to fat.",967,774.0,1024.0,958.0,1199.0
+27146100,"The image shows the food category of sweet and sour chicken or turkey. Additional details include with vegetables; sweet and sour chicken or turkey, not further specified subcategory assigned.",968,811.0,944.0,996.0,1181.0
+58163420,"The image shows the food category of spanish rice, no added fat. Additional details include mexican rice; red rice; white rice with tomatoes and/or tomato-based sauce, green peppers and onions; homemade; Spanish rice, not further specified subcategory assigned.",969,891.0,878.0,840.0,1322.0
+75460900,"The image shows the food category of chow mein or chop suey, meatless, with noodles. Additional details include vegetable chow mein or chop suey.",970,1473.0,733.0,857.0,1100.0
+63219000,"The image shows the food category of raspberries, raw. Additional details include raspberries, not further specified subcategory assigned.",971,3017.0,1386.0,1912.0,477.0
+64100220,"The image shows the food category of cranberry juice blend, 100% juice, with calcium added. Additional details include apple and Eve Calcium Fortified Cranberry Juice; ""cranberry juice, 100% juice, with calcium"".",972,,860.0,563.0,1019.0
+42302025,,973,,,474.0,675.0
+55100010,"The image shows the food category of pancakes, plain, frozen. Additional details include buttermilk; homestyle; hot cakes; frozen, not further specified subcategory assigned; reduced fat.",974,,,565.0,604.0
+25230230,,975,474.0,495.0,,
+53241600,"The image shows the food category of cookie, butter or sugar, with fruit and/or nuts. Additional details include with coconut; Pepperidge Farm Distinctive Chantilly; Pepperidge Farm Cappucino.",976,721.0,921.0,1029.0,1397.0
+58160540,"The image shows the food category of rice, white, with tomatoes and/or tomato-based sauce, fat added. Additional details include rice, not further specified subcategory assigned, with tomato sauce.",977,829.0,1015.0,1498.0,896.0
+27311410,"The image shows the food category of beef stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy.",978,879.0,980.0,1484.0,884.0
+51301750,"The image shows the food category of bagel, whole wheat. Additional details include whole grain; Bagel Thins.",979,890.0,693.0,1129.0,1467.0
+82101000,"The image shows the food category of vegetable oil, not further specified subcategory assigned. Additional details include oil, not further specified subcategory assigned; oil blend, not further specified subcategory assigned.",980,897.0,800.0,965.0,1325.0
+92410390,"The image shows the food category of soft drink, pepper type, decaffeinated. Additional details include caffeine free Dr. Pepper.",981,975.0,823.0,1199.0,1041.0
+24153220,"The image shows the food category of chicken thigh, stewed, skin not eaten. Additional details include braised; any source.",982,1240.0,1253.0,843.0,840.0
+75205022,"The image shows the food category of green beans, frozen, cooked, no added fat. Additional details include italian beans; string; pole; snap; french cut; cooking spray.",983,1283.0,797.0,933.0,1037.0
+95220010,"The image shows the food category of nutritional powder mix, high protein, not further specified subcategory assigned. Additional details include brands such as D.E.L.T.A. Enhance Formula and Joe Weider's Dynamic Protein Shake; Monster Milk; meal replacement.",984,2024.0,991.0,711.0,887.0
+42110100,"The image shows the food category of mixed nuts, with peanuts, salted. Additional details include plain; not specified subcategory as to salt; roasted; not coated; sea salt.",985,4419.0,4495.0,653.0,592.0
+81308200,"The image shows the food category of sauce, not further specified subcategory assigned.",986,,,,339.0
+89902060,"The image shows the food category of spinach, for use on a sandwich.",987,,,,341.0
+53520135,"The image shows the food category of doughnut, cake type, with icing. Additional details include with non-chocolate icing; glazed; donut stick, not further specified subcategory assigned; twist; coconut, not further specified subcategory assigned; blueberry; strawberry.",988,,,,343.0
+92101925,"The image shows the food category of frozen coffee drink, with whipped cream. Additional details include not specified subcategory as to regular or decaffeinated; not specified subcategory as to with or without whipped cream; McDonald's McCafe Frappe; Starbuck's Coffee Frappuccino; 2% or whole milk; plain, unflavored, or flavors other than chocolate.",989,746.0,1194.0,1478.0,920.0
+51301700,"The image shows the food category of bagel, wheat. Additional details include bagel Thins.",990,805.0,850.0,923.0,1498.0
+27560910,,991,875.0,773.0,1418.0,1171.0
+74201001,"The image shows the food category of tomatoes, fresh, cooked. Additional details include with or without fat; from restaurant.",992,1039.0,1689.0,1560.0,644.0
+63101150,"The image shows the food category of applesauce, flavored. Additional details include with other fruits.",993,3180.0,1594.0,3573.0,417.0
+92550035,"The image shows the food category of fruit juice drink, light. Additional details include reduced sugar.",994,,832.0,589.0,1076.0
+71501012,"The image shows the food category of potato, mashed, from fresh, made with milk, with gravy. Additional details include with water; cheese; sour cream; cream.",995,,,559.0,648.0
+58106234,"The image shows the food category of pizza, cheese, from school lunch, medium crust. Additional details include not specified subcategory as to toppings; original  or not specified subcategory as to type of crust.",996,,,795.0,515.0
+61210620,"The image shows the food category of orange juice, 100%, frozen, reconstituted. Additional details include reduced acid orange juice.",997,806.0,813.0,830.0,1891.0
+75233011,"The image shows the food category of summer squash, yellow or green, fresh, cooked, no added fat. Additional details include zucchini; squash, not specified subcategory as to summer or winter; cooking spray.",998,919.0,818.0,884.0,1456.0
+22400120,,999,1099.0,743.0,1046.0,1233.0
